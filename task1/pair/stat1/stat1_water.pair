@@ -1,0 +1,2411 @@
+########################################
+# Program: water
+# Rundate: Tue 22 Apr 2025 08:40:23
+# Commandline: water
+#    -auto
+#    -stdout
+#    -asequence emboss_water-I20250421-190142-0229-26808906-p1m.asequence
+#    -bsequence emboss_water-I20250421-190142-0229-26808906-p1m.bsequence
+#    -datafile EBLOSUM62
+#    -gapopen 10.0
+#    -gapextend 0.5
+#    -aformat3 pair
+#    -sprotein1
+#    -sprotein2
+# Align_format: pair
+# Report_file: stdout
+########################################
+
+#=======================================
+#
+# Aligned_sequences: 2
+# 1: 52158588-52201024
+# 2: 1793293-1808867
+# Matrix: EBLOSUM62
+# Gap_penalty: 10.0
+# Extend_penalty: 0.5
+#
+# Length: 29645
+# Identity:   10460/29645 (35.3%)
+# Similarity: 10460/29645 (35.3%)
+# Gaps:       14383/29645 (48.5%)
+# Score: 41540.0
+# 
+#
+#=======================================
+
+52158588-5220  11299 ATTAAAAGTAGGAAGATCAGGAGTTTCAAGTCACATAGCATGTCGAAGGC  11348
+                     |.|....|..||..|   .||.||..|..| ||..|.||....||..|.|
+1793293-18088      1 AGTGCGCGGTGGCGG---CGGCGTCGCGGG-CAGCTGGCGCCGCGCGGTC     46
+
+52158588-5220  11349 CAGCCTTGTCTGTATGAGATAATTTTTAAAAATTCAAAATCCAAACAAAA  11398
+                     |.||    ||||                            ||...|    
+1793293-18088     47 CTGC----TCTG----------------------------CCGGTC----     60
+
+52158588-5220  11399 CAAAACACATAAGAATTAAGAACAGCAAATACGAGCTTTCTCTCGGTTAA  11448
+                         .|||           |.|| |||....||.||...|...|||    
+1793293-18088     61 ----GCAC-----------GGAC-GCACCGGCGGGCCGCCGGCCGG----     90
+
+52158588-5220  11449 TAATTTTTTATATGATCTTAGTAAAGATCGTAGTCTGTTTTCTAATGCTG  11498
+                                            |.|..||..|        |....||||
+1793293-18088     91 -----------------------AGGGACGGGG--------CGGGAGCTG    109
+
+52158588-5220  11499 TACGAACTGAATATGAAATCCACGTGAAATATAAGCGTGTAATGACAGGA  11548
+                     ..|                ||.|| ||     .||||.|      |.|||
+1793293-18088    110 GGC----------------CCGCG-GA-----CAGCGAG------CCGGA    131
+
+52158588-5220  11549 AGGAATGCGTGGGAGCCTACGGCAGTGCGTG--GGGCTAGTGCTGAGCAC  11596
+                           ||  ||||||| .| ||...|||.|  |||||.   |.|.||.|
+1793293-18088    132 ------GC--GGGAGCC-GC-GCGTAGCGAGCCGGGCTC---CGGCGCTC    168
+
+52158588-5220  11597 ACTAGAGACCATGCACAACCCTGCGTGGCTCAGAGGGCTAGCGTGTGAGT  11646
+                     .|.|| |.||.|||.        .|.|||...|..||||.|||   |||.
+1793293-18088    169 GCCAG-GTCCGTGCT--------TGGGGCCGGGCAGGCTCGCG---GAGG    206
+
+52158588-5220  11647 GGACAAATGATGAGGAGCAGGACAGCTGAGAAACAAACTCAGATATGTGT  11696
+                     ||.|.||.|.||                         |||.         
+1793293-18088    207 GGTCCAACGGTG-------------------------CTCG---------    222
+
+52158588-5220  11697 AGAAATCGGTGTTATCAAAGCACCGGGAAATTGTATGCCTCCCACAGAAC  11746
+                           |||.|...||...||.|             |.||..|.|.||||
+1793293-18088    223 ------CGGAGGGGTCGGGGCGC-------------GGCTGTCGCGGAAC    253
+
+52158588-5220  11747 GTTGCACAGACAGCTATATGATTACATTAAATATAAGCATAAACTTTCAG  11796
+                         ||||||...|                             |.|.|||
+1793293-18088    254 ----CACAGAGGTC-----------------------------CCTGCAG    270
+
+52158588-5220  11797 CTTGTCTTGATAGGTGGTTCGTACCTATAACCTTAGGACTTTGGAGGGGG  11846
+                     |              ||..||..||                     ||||
+1793293-18088    271 C--------------GGGCCGGGCC---------------------GGGG    285
+
+52158588-5220  11847 AGACACATGGCTCAGGGGTTCAAGGCATTCTTCAGAATGTAGTAAGGTCA  11896
+                        |.|        |||.|||..|     ||.|.|||.||. |...|.|.
+1793293-18088    286 ---CGC--------GGGCTTCCCG-----CTCCGGAAAGTT-TGCCGCCG    318
+
+52158588-5220  11897 AGGTTTCTCTGGGA-TAC-ATGAGACTGTCTCGGAACAAAAGGATACATT  11944
+                     ..|...|.|||||| ..| .||...|.|.|..|||...||.||       
+1793293-18088    319 CCGCCGCCCTGGGAGGGCTTTGCAGCAGCCAGGGAGGGAAGGG-------    361
+
+52158588-5220  11945 TCAAATGTTTTATAGATCTTAGGTCGACAAAGGGGCAGCTCCGTGGTGAT  11994
+                                          ||..||...||||.|.||..||.||.|  
+1793293-18088    362 ---------------------GGAGGAGGGAGGGACCGCGGCGGGGAG--    388
+
+52158588-5220  11995 GTTTCACAGTGGAGTAACGGTCGTCGCAAACACTATGTAGCCAGAAGCCA  12044
+                             |.||     |||.||.|||             |..|..|||.
+1793293-18088    389 --------GAGG-----CGGCCGGCGC-------------CAGGCGGCCC    412
+
+52158588-5220  12045 GTGTGTGCTAAGCTGTGCATGATGCGGAGCGGCTTGCCATGAAGAAATGA  12094
+                     |.|.|..||..||.|.|      |||  |||||..||             
+1793293-18088    413 GGGAGCCCTGGGCGGCG------GCG--GCGGCGGGC-------------    441
+
+52158588-5220  12095 TACATGATTGATGATTGAGGAGATTGATATGTTTGCTTTGATGACGACAT  12144
+                                     |.||.|..||             |..|.||.   
+1793293-18088    442 ----------------GGGGCGGCTG-------------GGGGTCGG---    459
+
+52158588-5220  12145 CACCCAGTGGTTGATAAGCTGAAATGTCATGTGACCATTACTGTGTGCAT  12194
+                          ||.|||.|..|.||.|.|  |.|    |.|||...|.|..|.|.|
+1793293-18088    460 -----AGGGGTCGGGACGCAGGA--GCC----GGCCACCGCCGCTTTCGT    498
+
+52158588-5220  12195 TTTAAAACTCTGTCCATCAATTAGTTTAAAAAGATAATATATAGGATATT  12244
+                            |.||||||..|..|                             
+1793293-18088    499 -------CCCTGTCCGCCCCT-----------------------------    512
+
+52158588-5220  12245 TTAAAGGGTAATAAATAAAGAGAACCGAAAGCATAGGGAAAAATATGCCA  12294
+                                   .|||.|||  |.|....|.|             ||.
+1793293-18088    513 --------------CTAACGAG--CTGCCTTCCT-------------CCT    533
+
+52158588-5220  12295 ACTTAAATCTTTT-AGTTGGGCAAGCTTTCCTAAGATGAGGTAAAAATCT  12343
+                     .||..|.|||... ||..|.||..||.|.||...|.||        ..|.
+1793293-18088    534 CCTGTAGTCTCCCGAGCGGCGCCCGCCTCCCGCCGGTG--------CCCG    575
+
+52158588-5220  12344 AGTAGGGTCTGTACCGTGAAGGGCAACA-GCAAGCTCTGTCGATGGGCAT  12392
+                     .|..|||      |||||..|||||.|| ||..||.|  .||.|  ||.|
+1793293-18088    576 CGCCGGG------CCGTGGGGGGCAGCATGCCCGCGC--GCGCT--GCCT    615
+
+52158588-5220  12393 GGTTTTCGGTAGGATCTCTGTGAGTACAGTTTCTAATTCACTACTCACCG  12442
+                     |         |||| |.|.|      |.|...|     |.| .|.|.||.
+1793293-18088    616 G---------AGGA-CGCCG------CGGCCCC-----CGC-CCCCGCCA    643
+
+52158588-5220  12443 TTGTGTCCAGAATATTCCTGACATTTACCTAGCTAATGTATCCTATGTGA  12492
+                     |.|...||        ||||.|.....|||.||.        ||.||.| 
+1793293-18088    644 TGGGCGCC--------CCTGCCTGCGCCCTCGCG--------CTCTGCG-    676
+
+52158588-5220  12493 ACAAACCAGGGTTTGCCCAAGGTGGACAAAGGTGCAGATTCCTAAATCTT  12542
+                                 |.|||    ||||.||..|..||.|...||    ||.|
+1793293-18088    677 ------------TGGCC----GTGGCCATCGTGGCCGGCGCC----TCCT    706
+
+52158588-5220  12543 CTGATCGGTCTGATTATTCCCGGG---AGAGCTGAGGTTTGTATTTAATG  12589
+                     |.||   |||        |..|||   .||||.|.|   .||.      |
+1793293-18088    707 CGGA---GTC--------CTTGGGGACGGAGCAGCG---CGTC------G    736
+
+52158588-5220  12590 TAGATTGTGTGGTTG---AGCAGGGGTTC-CATGGCCCTGGA-TGGCCGT  12634
+                     |.|...|.|.||..|   ||.||||...| |..|||.|.||| .||||| 
+1793293-18088    737 TGGGGCGAGCGGCAGGTAAGAAGGGACCCACTAGGCACGGGAGAGGCCG-    785
+
+52158588-5220  12635 GCTTTTTAATTTCAGTGTGCCTCTGAGTCAGTAGGGGGAGCTCAAATGGT  12684
+                     ||          |.|||.| ..|.|||.| ||.||||..|       ||.
+1793293-18088    786 GC----------CCGTGCG-GGCAGAGGC-GTTGGGGACG-------GGA    816
+
+52158588-5220  12685 ACCCAGTTAGGACCTGAGTTTGCATGTCCAGCAAGCTGTCAGGTGGAGGT  12734
+                     |||       |.||             ||.|      |||    |||||.
+1793293-18088    817 ACC-------GGCC-------------CCGG------GTC----GGAGGG    836
+
+52158588-5220  12735 G-CGACAGATGTAAGGAAGACACTTTGAATCCCAAGGTCTTAAGCAACAG  12783
+                     | ||.|.|.|||.||  .|||.|       |||..||| |..||| .|.|
+1793293-18088    837 GCCGCCGGGTGTGAG--TGACGC-------CCCGGGGT-TAGAGC-CCGG    875
+
+52158588-5220  12784 TTACTGGGCTGTGTACATAGTCTGTGTGCGGAATTTGGCAAGCCTTAAAT  12833
+                     .|.|.  ||||..| |.|.|.|.|.|.|||     .|||.||        
+1793293-18088    876 ATTCC--GCTGCCT-CCTTGCCGGAGAGCG-----CGGCCAG--------    909
+
+52158588-5220  12834 AATGGTGTCATTAAACCCACTCGAATTCGTGGAAACGTGTACAGCCCTCA  12883
+                                      ..||.|    ||.||..||.|||...||.|   
+1793293-18088    910 -----------------AGCTAG----CGCGGCGACTTGTGGTGCGC---    935
+
+52158588-5220  12884 GCAGGAATGTGCCCACACTCCTGCTGCTTTCTTATTAGTTTGCCAGCATT  12933
+                      |.|||.     ||.||     |||.|               ||      
+1793293-18088    936 -CCGGAG-----CCGCA-----GCTAC---------------CC------    953
+
+52158588-5220  12934 TTCCAGGTCCTTGGAAGGTGAGATTTTTTTTTTTTGATACACATATGGGG  12983
+                      ||||.||.|..||                        .|||. |.||||
+1793293-18088    954 -TCCAAGTGCGAGG------------------------CCACC-ACGGGG    977
+
+52158588-5220  12984 AGTCTGTAGTAAGATTTGCAATGTCTTAAAATAAGGTGGGCCACAAGGTA  13033
+                     ||.|.|......|.||.||   |||...|.....|.|   ||.|...|..
+1793293-18088    978 AGCCAGGCTGGGGGTTGGC---GTCCGCAGCCCCGAT---CCCCTGCGAC   1021
+
+52158588-5220  13034 TGGCATTGACTTTGGAATGTAATCAAGTGAGTAAAGATACCAGAGAAAAC  13083
+                     |  |..|..|..|||..||   ||..|.|.|                  |
+1793293-18088   1022 T--CCCTAGCCCTGGCCTG---TCGGGAGGG------------------C   1048
+
+52158588-5220  13084 GATGGCTGCTAACAGTGTGTTTCCCTTTAAAGGCCCAGGAGGGAAATATT  13133
+                     |..||..||             |||.||.     |||.|        |||
+1793293-18088   1049 GCGGGGGGC-------------CCCATTT-----CCACG--------ATT   1072
+
+52158588-5220  13134 CAGAACACTG-TGATGTTAGATAAACAGAAGGAGCTGGACAGTAAAGTCA  13182
+                     |   .|.||| ||.|.||.|          ||..|||..|     ||.|.
+1793293-18088   1073 C---CCGCTGTTGTTATTCG----------GGTTCTGCGC-----AGACG   1104
+
+52158588-5220  13183 GAAATGTGAAGGATCAAGTCATGGTGAGTACTGACAGAAGGCCTGCGTTT  13232
+                     ||      |||...|.|.|..|||.|....|...|....||||...||||
+1793293-18088   1105 GA------AAGTTCCCATTGTTGGCGTCCCCCTCCCCCGGGCCCCAGTTT   1148
+
+52158588-5220  13233 GTCTGTTTATTTCTGTAACTTTGGAAGAAGTTTCAGTTTCTCTGAGTATT  13282
+                     |                    |||.        |||.|||          
+1793293-18088   1149 G--------------------TGGC--------CAGCTTC----------   1160
+
+52158588-5220  13283 AACCTAGTAGCTAATAGTTGAAAAGAAAGATGATTCTAAAGTTCTAAACC  13332
+                     ..||.||  ||         .|.|||..|. ..||||||.|.|       
+1793293-18088   1161 GGCCAAG--GC---------GAGAGACCGG-ACTTCTAAGGGT-------   1191
+
+52158588-5220  13333 AGAAGAAAGCCAGTCAGC--TGCATGTCTTATAACCTCTGCTTTGGCTTC  13380
+                       ..|...||..||||||  .||..|       .||.||||         
+1793293-18088   1192 --GGGTGTGCGCGTCAGCGAAGCCCG-------GCCCCTGC---------   1223
+
+52158588-5220  13381 TCAGCCCTGAGCTGTTTCTTCTTTGTGGGATCATGCAGTCAAGGTTGACT  13430
+                      |.||||..||..|...|..|        .||..|| |||          
+1793293-18088   1224 -CCGCCCGAAGAGGCAGCAGC--------CTCCAGC-GTC----------   1253
+
+52158588-5220  13431 TTGCACTCATTGTCCAACAAGCTAGATGCTGCCCTTACC---AGCCCGT-  13476
+                          |.|..|| ||.||.         ||||||.|.||   .|.|||. 
+1793293-18088   1254 -----CCCGCTG-CCGACC---------CTGCCCCTGCCTGGGGGCCGAG   1288
+
+52158588-5220  13477 ---GTATCCACAT---TTCTCACAGGGCATCCCCGGAGTTACAGGGGGCT  13520
+                        |..|||.|.|   |.|.|.|.|.||.   ||.|.....|..||||| 
+1793293-18088   1289 GGCGCTTCCCCGTGGGTGCGCGCCGAGCT---CCAGGCAAGCGAGGGGC-   1334
+
+52158588-5220  13521 TCAGGATAAACATGATCCACCTTCTAGAGCCCTGTTTTACCCTAAGACTT  13570
+                              .|.||..|||.|.||..|.|||||           |||||.
+1793293-18088   1335 ---------GCGTGTCCCAGCGTCGCGGGCCCT-----------AGACTG   1364
+
+52158588-5220  13571 GGAAGACGAACAAAAGCCATTTCATGCAAACATATCTCAATACATTTCTG  13620
+                     ||..|.||..|.|...||                 |.|...||      |
+1793293-18088   1365 GGCTGGCGGTCCAGGTCC-----------------CGCGGGAC------G   1391
+
+52158588-5220  13621 ATTAGAGTAAGATGTTTACAGCAACTTTAAGATAAATCCCCAGGATGGTC  13670
+                     ...||.||..|                 |||..|..||||.||   ||.|
+1793293-18088   1392 TCGAGGGTCTG-----------------AAGGGAGGTCCCAAG---GGGC   1421
+
+52158588-5220  13671 GATGGCAGCAAATGACTGAGGGAATCCC--CTCGCAGCTACCCCAGCTGA  13718
+                     ||.||.||...|      ||||...|||  | ||.|.||.|.|..||...
+1793293-18088   1422 GAGGGGAGGGGA------AGGGGCGCCCGGC-CGGACCTGCACACGCGCC   1464
+
+52158588-5220  13719 GAGGTTCAGTAGTGTCTGGGTAACAGGAGCAAGGCCTGGA-CTCAGGGGC  13767
+                     |.|||||        ||      |..|.||..||||..|| |||.||.||
+1793293-18088   1465 GCGGTTC--------CT------CGTGGGCCGGGCCGAGAGCTCCGGTGC   1500
+
+52158588-5220  13768 TTTGGACAGCACCCTTCATAAGCC-CAGACGCATGCAGCGGCTTTCTTCT  13816
+                              |.||        ||| |..||.|..|||||           
+1793293-18088   1501 ---------CGCC--------GCCGCGTACACCCGCAGC-----------   1522
+
+52158588-5220  13817 GCAGCATTAGGGAAATGCTTTACTGACGTAGAAATAAGTGACCCTAATGT  13866
+                      |.||               |.|.||||           |.|      |.
+1793293-18088   1523 -CGGC---------------TCCGGACG-----------GGC------GA   1539
+
+52158588-5220  13867 GGAAATAACCAGGGAAATCCCGAGCACAGATATGTAGAAATGTGACCAGA  13916
+                     ||         |||.     ||.||||||.|               ||| 
+1793293-18088   1540 GG---------GGGG-----CGCGCACAGCT---------------CAG-   1559
+
+52158588-5220  13917 TCCCAGACAAGTGAGGCAAATTTGAAGTGTGAGTGTATGATTTCTCATTT  13966
+                      |||          |||                                 
+1793293-18088   1560 -CCC----------GGC---------------------------------   1565
+
+52158588-5220  13967 AAGCTGAGCTGTGTCTCTGTAAGAGGAC----CCTGGTGAGCACGCCAGG  14012
+                      .||.|.||.|.|        .||||.|    ||.|||||||.|||    
+1793293-18088   1566 -GGCCGCGCGGAG--------GGAGGCCTTGGCCCGGTGAGCTCGC----   1602
+
+52158588-5220  14013 ACTTCCCCAGTCTCCGGCC--TGCCTGCTCAGCCTTCTTGTAAGGGGACG  14060
+                        .|||||  |.|.||||  .|||.|..|||||                
+1793293-18088   1603 ---GCCCCA--CCCGGGCCGAGGCCCGAACAGCC----------------   1631
+
+52158588-5220  14061 GAGGGGCTTTCCATGAACTTGTGTTTTTCCTTTTGTATGCTTCACAGTGA  14110
+                          ||||        ||    ||.|.|||        |..|.|.|..|
+1793293-18088   1632 -----GCTT--------CT----TTGTACCT--------CGACGCGGCCA   1656
+
+52158588-5220  14111 GATTCTTGAAGTCATTCAGAGACATTCAAATATGACGAGGAAGGGCGGGA  14160
+                                 ||..|.|.| ||||    .|||.|  ||...||||   
+1793293-18088   1657 ------------CAGACCGCG-CATT----GATGGC--GGCTCGGCG---   1684
+
+52158588-5220  14161 GAGAGCTCATGGGTCAAATGAGCGTGAAGACCTGAGTCCAGATGCCCAGA  14210
+                         ||||..|||      ||| |||....|    |.||    ||   |.
+1793293-18088   1685 ----GCTCGCGGG------GAG-GTGTGAGC----GACC----GC---GG   1712
+
+52158588-5220  14211 GCTCATTTAATAAGCTGTGTGTAGGAAATGTCATCTGTATCTCAGGTTTA  14260
+                     ||.|                                              
+1793293-18088   1713 GCGC----------------------------------------------   1716
+
+52158588-5220  14261 CGATGGCATTACTGATGTCACTGAGGCCAGCTGCTTAGCTCCAGGCTCCA  14310
+                         |||                .||||.|                    
+1793293-18088   1717 ----GGC----------------GGGCCGG--------------------   1726
+
+52158588-5220  14311 GGAGGGACCCTGTCTTGAGGGAACAGCAGAGACTGACAGAGAGGGATGCC  14360
+                     ||||||..||||    ||||     ||.|||.|.||              
+1793293-18088   1727 GGAGGGCGCCTG----GAGG-----GCCGAGGCAGA--------------   1753
+
+52158588-5220  14361 CAACATTCTCCTCTGGCCTCCACATGAATGCACACACACACACACACACA  14410
+                                  ||||.|||.|       |.|.|.|.|.|.|.|.|.| 
+1793293-18088   1754 -------------TGGCGTCCGC-------CCCGCCCGCGCCCCCGCGC-   1782
+
+52158588-5220  14411 CACACACACACATTGTACAGAGAAATAAAAATTTAGACCCTGAACCAGGT  14460
+                     |.|...|.| |.|    |.|.|.....|...|     |||.||||.|.||
+1793293-18088   1783 CCCTTTCTC-CGT----CGGCGGCTGCAGCCT-----CCCGGAACAATGT   1822
+
+52158588-5220  14461 GGTATCAGTTTGAAAATTTTCTACATTTTCTAATTTTGATAAATGATCTT  14510
+                                            |||||     ||||.||.|||||    
+1793293-18088   1823 -----------------------CATTT-----TTTTTATGAATGA----   1840
+
+52158588-5220  14511 TTTATTGTTTTAAATCTATTTTAGTATTAAAAATATAAGGAACTTGCTCA  14560
+                                                             ||.|.||.|.
+1793293-18088   1841 ----------------------------------------AAGTGGCCCG   1850
+
+52158588-5220  14561 GCAGGATTAATTACTACATCACTTAGAAATCAATTTCTTTCTGCTTCAGG  14610
+                     |                  |.|||..|..|...|.||.|||.||    ||
+1793293-18088   1851 G------------------CGCTTGAATGTGCGTGTCATTCAGC----GG   1878
+
+52158588-5220  14611 CTAACTTATAAGACTCTGGGGAAGTATAGACATACAACAAAGAAGACATT  14660
+                     |          |...|.||||..||             ...||.|.|   
+1793293-18088   1879 C----------GTGACAGGGGCCGT-------------CGGGAGGTC---   1902
+
+52158588-5220  14661 CTTTTTGAGTACTTAACTAATAATAATGAAAAGCGGTTTTGGTGGTGAAA  14710
+                            ||..|                    |||.||||.|        
+1793293-18088   1903 -------AGCGC--------------------GCGCTTTTAG--------   1917
+
+52158588-5220  14711 TGAAATGAATGAAATGAAAACGATTGTGCTAGAGGTTGCAATGAAAAGGT  14760
+                                         ||  |.||||.|               ||.
+1793293-18088   1918 --------------------CG--TCTGCTCG---------------GGC   1930
+
+52158588-5220  14761 GTCCTTACTAGTGAATGAAGCAGGCAGGCGGCATCCAAGGGCTGCAATTT  14810
+                     |.||                        |.||.||||.||| |||     
+1793293-18088   1931 GGCC------------------------CCGCTTCCAGGGG-TGC-----   1950
+
+52158588-5220  14811 CAGAGTAAC--CCAACATAGTTAATATTTCTTGAAGTAGATGGTAGAGGA  14858
+                     |.|||...|  ||                         |..||..|||  
+1793293-18088   1951 CGGAGGGGCGGCC-------------------------GCGGGGGGAG--   1973
+
+52158588-5220  14859 CACGTTTCATACTAGTTTGTTTCTTGTTAAATCTAAC-AAGTCTACAGAC  14907
+                                           ||||     .||..| .|.|||     |
+1793293-18088   1974 ----------------------CTTG-----GCTTTCGCATTCT-----C   1991
+
+52158588-5220  14908 ATTCATTTGCAGAAGAGGTACTCACTCAGAGTTGCCTAG---AGTCAGTT  14954
+                     |||||..|..|||...  |||||.||..|    |||..|   .|||||  
+1793293-18088   1992 ATTCAGATAAAGATAT--TACTCCCTACG----GCCCGGGAATGTCAG--   2033
+
+52158588-5220  14955 TCTTCCCAGTCAGTTAAAATAAAAGTCGAAATGTCCAGATTTAAGTGACC  15004
+                     .|..|||.|         ...||.|.||..  |.||||..|...|.|.| 
+1793293-18088   2034 CCAGCCCCG---------GGGAAGGGCGGC--GGCCAGGCTGCGGAGCC-   2071
+
+52158588-5220  15005 CACTAGTCTCCAAAATCCACAAAATATTCGTAACAGATAGGC-CGAGATT  15053
+                           |||||...|.||.|      |.||         ||| ||.|. .
+1793293-18088   2072 ------TCTCCTGGACCCCC------TGCG---------GGCGCGCGG-G   2099
+
+52158588-5220  15054 AACTCTCCCAGTCACTCCT-GACTGTCTCGGTCTTTATGATGTAGAGGAA  15102
+                     ..|||.|||||||.||||| ||..|.|.||..|               |.
+1793293-18088   2100 GCCTCCCCCAGTCGCTCCTGGAACGCCCCGCCC---------------AC   2134
+
+52158588-5220  15103 CACTAACAATGTATGAAGCATGTTATTTCTGCCCTTTCGAAGATGGCGGA  15152
+                     |.||..|...|...|..||.       .|.||||           ||  |
+1793293-18088   2135 CCCTCCCCCGGGGCGGCGCC-------CCCGCCC-----------GC--A   2164
+
+52158588-5220  15153 CGTGCCGCTTGTAGGTTAGCTCCTAGTGTGGAGGGTTGATAAGCGCCTCA  15202
+                     | ||..|||.||.....||        ||.|.|.||||||..|    |||
+1793293-18088   2165 C-TGGAGCTGGTGAAACAG--------GTAGTGAGTTGATCGG----TCA   2201
+
+52158588-5220  15203 ATGAACAGAAAACACATTTCTCATTTATAATATCCTGCTTATTTCGGGTC  15252
+                     ||.|||                  |||    ||||.|     |||    |
+1793293-18088   2202 ATAAAC------------------TTA----ATCCGG-----TTC----C   2220
+
+52158588-5220  15253 TGAACACGGTGCCAAGAGGTAAATGTTTTCCTGCCATTGTACTTAGGATG  15302
+                     |.||||.|.||                    .|||.              
+1793293-18088   2221 TTAACAAGATG--------------------GGCCG--------------   2236
+
+52158588-5220  15303 TGGCAGTAATCTCGATTCAAGGTAGGCACAAAACACCCGCATGTGCTGGG  15352
+                      ||||||||   ..||.|||.|             .||.|.||...|||.
+1793293-18088   2237 -GGCAGTAA---AAATACAAAG-------------ACCTCGTGAAATGGA   2269
+
+52158588-5220  15353 AGAGTTGGTGGGCAGTCT--GCACCCACTTGTGTCCTCCGAAGTCTCCAC  15400
+                     .       ||.|  ||||  ||...|.||||    | |||....|...|.
+1793293-18088   2270 C-------TGAG--GTCTAGGCTGGCGCTTG----C-CCGGGAACATAAA   2305
+
+52158588-5220  15401 TTCTGTCCCATCGGAATGAATGCATACAAACCTCTGAGAAGGGTCTTTGA  15450
+                     ||.||...|.|.||...|.|.|..|..|...|..||.|||.|||.||.|.
+1793293-18088   2306 TTATGGAGCCTTGGCTCGCAGGGGTCAAGGGCGGTGGGAAAGGTTTTGGC   2355
+
+52158588-5220  15451 CTATTTGAACTGAGTAGTCCTGATTTGGTATTAGGAATACAGTGGTGTTC  15500
+                     |       ||||....|.|||            ||....|...||    |
+1793293-18088   2356 C-------ACTGGACTGCCCT------------GGCCACCCCAGG----C   2382
+
+52158588-5220  15501 ACAGTCAGGAACTCGAGGAACTTGACCACGGCAGCTTGTGTGAAGCTAGT  15550
+                     .|.|.|||||...|           ||.|..|..|          |.||.
+1793293-18088   2383 CCTGCCAGGACAGC-----------CCCCATCTCC----------CCAGG   2411
+
+52158588-5220  15551 AGGACTAGCCTGTCCTTCTTGTAGCTCTGGATATCCCATTCATCTCCTGA  15600
+                     .||.|  |..| ||||..|||...| |||||....||      |.||.|.
+1793293-18088   2412 GGGCC--GTAT-TCCTGGTTGGGAC-CTGGAGTGACC------CCCCAGG   2451
+
+52158588-5220  15601 GTGCGGACAGACGAGTGGCACCCATAGT-GACTCATTCATTCACTTTCTA  15649
+                     ||||       .|.|.||.||.||..|| |.|||      ||.|      
+1793293-18088   2452 GTGC-------AGGGAGGTACACAAGGTCGGCTC------TCCC------   2482
+
+52158588-5220  15650 GATCAGTCTAGATCATCCGCCGTCCA-CA-AGGTCACACGAT-CAAG--C  15694
+                       .|||||     |..|| ||..||| || .||||....|.| ||.|  |
+1793293-18088   2483 --ACAGTC-----CCACC-CCACCCAGCAGGGGTCTGGGGGTGCAGGGCC   2524
+
+52158588-5220  15695 TTAC-------TTCTGTTCAGTCACTCTTCGCACAAACTCTTCTGTATCT  15737
+                     ||.|       |.||| .|.|..||    |.|.|..||||.||       
+1793293-18088   2525 TTTCCCGAAGGTGCTG-GCTGCAAC----CTCCCCCACTCCTC-------   2562
+
+52158588-5220  15738 CTCTGAGACCTGGGCTCAGCTTCATTAG-CACAGGGGCCTGAGACCTACA  15786
+                     |||||    |.|||||...|||  |.|| |.|..||||||          
+1793293-18088   2563 CTCTG----CAGGGCTGGACTT--TGAGCCGCGTGGGCCT----------   2596
+
+52158588-5220  15787 GACAGGCTGATACAATTTTTT-AGTAACGCCTACCCCCAAAATGACTGTA  15835
+                       |.||.||.|.||.|....| .|....||||..||              
+1793293-18088   2597 --CTGGGTGGTTCATTAACCTGGGCTGAGCCTGGCC--------------   2630
+
+52158588-5220  15836 GTTCCATAAGGTCAGGATGCTGGGAGGAGTG-GGGTCTGGGCTCCCCACC  15884
+                       |||   |||||      ||      .||| |.|.||.||..||||.  
+1793293-18088   2631 --TCC---AGGTC------CT------TGTGTGAGCCTAGGAACCCCT--   2661
+
+52158588-5220  15885 TTAACTCTGTGCTGTTTCGTATCATTCCGCCACAGTTAAATTACCCATGC  15934
+                                 ||||.|        ||.||            |||..||
+1793293-18088   2662 ------------TGTTAC--------CCACC------------CCCCAGC   2679
+
+52158588-5220  15935 TAAAACCCTTTCCTGGTTTCTTTTTCTTTTCTCATCTTGATGGTTCCATC  15984
+                     |   .|||...||           ||...||||| ||||. ||.|..|||
+1793293-18088   2680 T---CCCCAGCCC-----------TCAGGTCTCA-CTTGG-GGCTAGATC   2713
+
+52158588-5220  15985 AGTAAGGGATGCACTAGGGCTAACCTCTCCTCATACCATGCT---CTTAG  16031
+                     .|   |||     ||..|||  |||   |||..|..|| |||   |||..
+1793293-18088   2714 TG---GGG-----CTGTGGC--ACC---CCTTGTTACA-GCTGAGCTTGA   2749
+
+52158588-5220  16032 CTGGAAGCCACAGG---TTTGTTCCACCCTCTGAAAAATGTTCTTACATT  16078
+                     .|||.|||| ||||   ||.|...|.||                      
+1793293-18088   2750 GTGGGAGCC-CAGGGGCTTGGGGTCTCC----------------------   2776
+
+52158588-5220  16079 CTTATTATTGAAATATTTTGTGTAAAAGATTGGAGTTCTATAAGGATGGT  16128
+                                         ||   .||...||.|.||||.|      ||
+1793293-18088   2777 --------------------TG---GAGGACGGGGATCTAAA------GT   2797
+
+52158588-5220  16129 C-CATCTTTCAGGGTGTTAGGAAACTCACTTATATCTTTATCTGCAGTGC  16177
+                     | |.||.|..||||.|..|.|.|.|.|.|...|...|...||.|.||||.
+1793293-18088   2798 CACCTCATCTAGGGAGGCATGCAGCCCTCACCTGAGTGATTCAGGAGTGA   2847
+
+52158588-5220  16178 ATAGAGCAGGAAATCAAGACCCTAGAAGAATTACAAGATGAATATGACTT  16227
+                     || ||||..|.|.|..||.|.|                         |||
+1793293-18088   2848 AT-GAGCCAGGAGTGGAGCCAC-------------------------CTT   2871
+
+52158588-5220  16228 TAAATGCAAAACCTCTCAGAACAGAGGTAAGAGTCCCAACAGCACCCGTT  16277
+                     |..                   .|.||||.|.|| |...|.|.|||..|.
+1793293-18088   2872 TGG-------------------TGGGGTAGGGGT-CAGCCTGGACCTCTA   2901
+
+52158588-5220  16278 GGCTGCTTTTTCCCCTGTGTACGTTAGTAAACATTTATGTTTTCCGATCG  16327
+                     ||||||     |..||..|                          |.|||
+1793293-18088   2902 GGCTGC-----CAGCTCAG--------------------------GCTCG   2920
+
+52158588-5220  16328 ATTGACCGCTTTGGGCTTC---TTGATGACCTAGGTCACTGTGTTTCAAG  16374
+                     ..||.||.|||.|..|.||   ||..|.||||  |||...|.|...|.|.
+1793293-18088   2921 GGTGCCCTCTTCGAACCTCAGTTTCCTTACCT--GTCCAAGAGAACCGAT   2968
+
+52158588-5220  16375 CACTGATTTCTG-CTGATGGTTTGGACCAGACATTTTCCTTTATAGCACT  16423
+                     .|..|....||| .|||.||.||.|.||||  ||...|||....|||.| 
+1793293-18088   2969 AATGGCAGGCTGTTTGAAGGATTAGGCCAG--ATAACCCTGGCAAGCCC-   3015
+
+52158588-5220  16424 GTCTGGTGCCTTGCGGTGTGAGGCTCATGGCACTAACCTCCAAGCCCCAG  16473
+                      |||...||||                  ||.| |.||||||...|||  
+1793293-18088   3016 -TCTTTAGCCT------------------GCCC-AGCCTCCAGATCCC--   3043
+
+52158588-5220  16474 TAGTGACAATCAAAATTGTTTCCAGTCATTGGCAGATGTCTTCAAGGGAG  16523
+                                    ||.|||||.|.|.||.........||.||.|.|.|
+1793293-18088   3044 ---------------TTTTTTCCGGACTTTATTGTGAAACTCCAGGTGGG   3078
+
+52158588-5220  16524 GAGAACAAAGTATTTGTTGGAAAAGACAGAAAAGTACACAATTGGAGTTT  16573
+                     ||| |||..|             ||.|.|.       ||..||||.|   
+1793293-18088   3079 GAG-ACAGGG-------------AGGCTGG-------ACTTTTGGGG---   3104
+
+52158588-5220  16574 CTATGACCTAACATCCATGATGTGGCTGCAGCATTGTGTTTTATTGTCGC  16623
+                         |.||   |.|||.        ||...||    |.||||||.|...|
+1793293-18088   3105 ----GCCC---CCTCCT--------CTTAGGC----TATTTTATAGCTCC   3135
+
+52158588-5220  16624 TGCATGTTTTTTGTTTTTATTTTTTTAATGATAATTGCAACTAAAATGCT  16673
+                     |.|.||                              ||||          
+1793293-18088   3136 TACCTG------------------------------GCAA----------   3145
+
+52158588-5220  16674 TCCAGAAGGCCACCTACAGAACACCAGGCCCTAGCAATCACTTAGTCAAC  16723
+                               .||||.|.|.||.||||                       
+1793293-18088   3146 ----------TACCTCCTGTACCCCAG-----------------------   3162
+
+52158588-5220  16724 AGGGAGAGATTATTAGTGTAGCTTGGAGCTGTATGAGGAGAAAGATCCTT  16773
+                                             .||||||.|    |||||. .||.|.
+1793293-18088   3163 ------------------------AGAGCTGCA----GAGAAC-TTCATG   3183
+
+52158588-5220  16774 AGCTTCTACTTCCTG---GTG-TGTCTCCTCCCTCAAAGCCATAGACAGG  16819
+                     .||.||.....||.|   ||| |||.||||..|.|.|.|||.|       
+1793293-18088   3184 TGCATCCGAAACCAGAATGTGTTGTTTCCTGACCCCAGGCCCT-------   3226
+
+52158588-5220  16820 CTTTATACATACTCACGTGACACTTTGCACTTTCTTGTGTTCATTTAATC  16869
+                            ||| |||||    |.|....|.            ||..|||.|
+1793293-18088   3227 -------CAT-CTCAC----CCCAAAACC------------CAAATAAAC   3252
+
+52158588-5220  16870 GAAACTCGGTCAGCGACTTAAATAGTAGATGGTACTATGTCAATTTATGC  16919
+                       ..||.||.||||                          ||        
+1793293-18088   3253 --CCCTGGGGCAGC--------------------------CA--------   3266
+
+52158588-5220  16920 GTGCTGGTGAGAAATGGCACTTGGTTTAAGCATGGATGCACTTAACTGTT  16969
+                                     ||.|          |  |||.||...|  |||..
+1793293-18088   3267 ----------------GCTC----------C--GGAAGCGAGT--CTGGA   3286
+
+52158588-5220  16970 TTTAGGATATATATTGGTACACTCTTGTCTTCATTCCTTTCCCTGTTGCC  17019
+                     |||             |..|   ||||           |||.|||..|.|
+1793293-18088   3287 TTT-------------GATC---CTTG-----------TTCTCTGGGGTC   3309
+
+52158588-5220  17020 GTGAGAAGATACTCGGACAAAAGCAGCTTAAG--GGAGCTCTAGCTACAG  17067
+                              .||.||      ||..|||||.|  |||||       |..|
+1793293-18088   3310 ---------AACCCG------AGGGGCTTATGATGGAGC-------AAGG   3337
+
+52158588-5220  17068 TTCCAGGTCCAGTGCATCC-CTGTGGAGTAGTCAGCTTGAAACAGCTGCT  17116
+                     .|||    ||    ||||| |          |||||      ||  ||||
+1793293-18088   3338 CTCC----CC----CATCCTC----------TCAGC------CA--TGCT   3361
+
+52158588-5220  17117 CACACTGCATCCACAAACAGGAAGCAGAGAGACACAAATGCGCACACGGT  17166
+                     |.|.| .|||                               ||||..|| 
+1793293-18088   3362 CCCTC-ACAT-------------------------------GCACTGGG-   3378
+
+52158588-5220  17167 AGTTAGGCTCCCTCTTTCCCTTCTATAGTCCCGGATCCTTCCCCAGGGAC  17216
+                               ||||   |.||.| |.||.|||.||.|||      ||...
+1793293-18088   3379 ----------CCTC---CACTGC-AGAGACCCAGAGCCT------GGAGA   3408
+
+52158588-5220  17217 TAGTCGTGCCCTCAGCCAGGTGGGCTTTCCCACATCAGTCACTGTAATCA  17266
+                     .||  ||.|||...|||||                               
+1793293-18088   3409 AAG--GTTCCCCAGGCCAG-------------------------------   3425
+
+52158588-5220  17267 AGGTAATCCCGCCCAGGCACGGCAGGAGCCTGTCACCCAGGGATTTTAGA  17316
+                     ||.|...||..|||..||||        ||||    ||            
+1793293-18088   3426 AGTTTGGCCGTCCCCAGCAC--------CCTG----CC------------   3451
+
+52158588-5220  17317 TTCTGTCAAGTTTATAGTTAACATCAGACTTTGCGTTTTTATCATGTTTG  17366
+                                   ||.|..|||||||.|||.|.|       |..|  .|
+1793293-18088   3452 --------------TAATGGACATCAGTCTTGGGG-------CCAG--AG   3478
+
+52158588-5220  17367 ACCCAAGTTTGTGTGAACCTTGGTTTTCGTTGGATTTATCTTCTTTGCAC  17416
+                     |||||.|...|.|.|..||                      |||   |||
+1793293-18088   3479 ACCCAGGGCAGGGAGCGCC----------------------TCT---CAC   3503
+
+52158588-5220  17417 GTTTTAGACTTACTCCCTGTTCCTTCATTCACAGAAGGTGAAGCCAATGG  17466
+                                   |||  |.||.|||.||.       ||.|||||.|  
+1793293-18088   3504 --------------CCC--TACCCTCACTCC-------TGCAGCCATT--   3528
+
+52158588-5220  17467 TGTGGCGAAGAGCGACCAAAAACAGGAACAGCTGCTGCTCCACAAGATGT  17516
+                                          .||||..|.|.|||    ||.|       
+1793293-18088   3529 ---------------------TCAGGGCCTGGTGC----CCTC-------   3546
+
+52158588-5220  17517 TTTTAATGCTTGACAATAAGAGAAAGGTAGCGACCGCTTCCCAGTCATGA  17566
+                             |.|||                      || |||..|.|.||.
+1793293-18088   3547 --------CCTGA----------------------GC-TCCTGGGCCTGT   3565
+
+52158588-5220  17567 GGCATACATTATGGACTTTAATTTACTGTTTACTTTGTGTGTGAGGGCAG  17616
+                     ||       ..|||..||          |||||||||||           
+1793293-18088   3566 GG-------GGTGGGATT----------TTTACTTTGTG-----------   3587
+
+52158588-5220  17617 AGAGCAGAGGACAGCTGTGTGACCCCTGGGAATCCAGCTTGGGCTCAGCA  17666
+                                |..|.|||        |||.|   |.||..||..|||  
+1793293-18088   3588 -----------CCACAGTG--------GGGGA---AACTGAGGTACAG--   3613
+
+52158588-5220  17667 AGCACCACGACCAGGCTCATGGGCTTGGAAAAGTTAGGGCTCTAAAAACT  17716
+                             ||||||     ||.|  |||.|.||||..||      |.|||
+1793293-18088   3614 --------GACCAG-----TGAG--TGGCAGAGTTGTGG------AGACT   3642
+
+52158588-5220  17717 TTGCTTAGAACGCCAGCAAAATAGGAAGAGATACGTGCTTTGTTTAAAAT  17766
+                     .||    |.|| .|||||.|              |.|||           
+1793293-18088   3643 CTG----GGAC-ACAGCAGA--------------GGGCT-----------   3662
+
+52158588-5220  17767 AAACAAACAAACAAACAAACAACCCTCTCGAAGTTCAGTAGTTGCACATG  17816
+                                                          ||.|||| .||||
+1793293-18088   3663 -------------------------------------GTCGTTG-GCATG   3674
+
+52158588-5220  17817 AGTTTATTCCACCTTGTTCTTCCTCTCCCTTTAGGAGATAATTCACAAAA  17866
+                                                     .||||      |.||   
+1793293-18088   3675 --------------------------------TGGAG------CCCA---   3683
+
+52158588-5220  17867 TCAGAGAGTTGCTGAATTCCATCGAGCTCACTCAGAACACTCTGATTAAT  17916
+                           |||||..|       |||              .|.|||.     
+1793293-18088   3684 ------AGTTGAGG-------TCG--------------GCACTGT-----   3701
+
+52158588-5220  17917 GACGAGCTCGTGGAGTGGAAGCGAAGGCAGCAGAGCGCCTGCATCGGGGG  17966
+                              ||||.||.|..|||..|||||  ||||.|.||  |.|.|||
+1793293-18088   3702 ---------GTGGGGTTGGGGCGCCGGCAG--GAGCACGTG--TTGTGGG   3738
+
+52158588-5220  17967 ACCGCCCAACGCCTGCCTGGATCAGCTGCAAAGCTGGTAAGGTTTTCCCC  18016
+                     |.|            |.|.||                             
+1793293-18088   3739 ATC------------CATAGA-----------------------------   3747
+
+52158588-5220  18017 GGGGTGGAAGATTGGCAGCTCATGTGTGGACCACAGACACTGATGGAGAG  18066
+                     .||||||.||.|.||..||      ||.| ||.|..||.|          
+1793293-18088   3748 AGGGTGGGAGGTGGGACGC------GTTG-CCTCCTACCC----------   3780
+
+52158588-5220  18067 TGCCTTGGGGCTGGTGGGCCCGGTCAGCACTGCACTGGAGTCCTGGACAT  18116
+                     .|||||||                  |.||.|||  |||||..||     
+1793293-18088   3781 CGCCTTGG------------------GTACAGCA--GGAGTTTTG-----   3805
+
+52158588-5220  18117 GCTCAGCTTCTCGCCACCGAGAGCGTTTGGAAAGCACAGCAGTCCATGTG  18166
+                               ||.|||.||.    ||||||   ||||....|||..||||
+1793293-18088   3806 ----------TCTCCAACGT----GTTTGG---GCACCAGTGTCTGTGTG   3838
+
+52158588-5220  18167 GCTGCCGTCGTGTGCAGCTACGTCTGCTTGATTGCCTGATTTTGACCACA  18216
+                     |    .||| .|||..||..|             ||   |||||      
+1793293-18088   3839 G----TGTC-AGTGGGGCCTC-------------CC---TTTTG------   3861
+
+52158588-5220  18217 CAAAACCACAAATGAATAGTAGTTACTGAGCCCACTGACCAATTTGAGAC  18266
+                      ...|.||..||.|||          .||.|||          ||    |
+1793293-18088   3862 -TGGATCAAGAAAGAA----------AGAACCC----------TT----C   3886
+
+52158588-5220  18267 CTGATATTAAAAGCAAAATATCTATTCAGGCAGTGGTACCACATGGCTTT  18316
+                     ||       |..||.              ||.|.||        ||||.|
+1793293-18088   3887 CT-------AGGGCT--------------GCTGGGG--------GGCTAT   3907
+
+52158588-5220  18317 AATCCCAGCACTCAGGAAGCAGAAACTCTGTGAGTTCGAGGCCA-GCCTG  18365
+                           |||.|||.                           ||| |||||
+1793293-18088   3908 ------AGCTCTCC---------------------------CCATGCCTG   3924
+
+52158588-5220  18366 GTCTCTGGGTCTATAGAGTGAGTTTTAGGGCAGCTAAGGCTACACAGAAA  18415
+                     |...||||         |||.|.|.|.||        ||||.|||     
+1793293-18088   3925 GCAGCTGG---------GTGGGGTATGGG--------GGCTCCAC-----   3952
+
+52158588-5220  18416 AACC--CTGTGTCAAAAAAAAAAAAAAAAATCGGTCATCTATCCACTAAA  18463
+                       ||  |||                      |.|.|.||   |||     
+1793293-18088   3953 --CCAACTG----------------------CTGACTTC---CCA-----   3970
+
+52158588-5220  18464 TAATCTATGAATGTTGGCTGAATGGCAAACACTTTTCTGGGACTTC-AAC  18512
+                                 ||.||     .|.||.||.||      |.||||. |.|
+1793293-18088   3971 ------------GTGGG-----AGTCAGACCCT------GAACTTATAGC   3997
+
+52158588-5220  18513 ACCCAAAAAGACTGATTTGGGAGGCTTTCTCC---TCAAGAGCTTTGCCC  18559
+                     ||||      |||           |.|.|.||   |||    |..||.||
+1793293-18088   3998 ACCC------ACT-----------CATGCCCCGTGTCA----CACTGTCC   4026
+
+52158588-5220  18560 T---CCTGGGGGTGAAGGGGGTACTTTAGGGAAATGGGGAGGAAATCTTT  18606
+                     |   |||            |||.|                         |
+1793293-18088   4027 TTCACCT------------GGTGC-------------------------T   4039
+
+52158588-5220  18607 CAGCAATCAATTCATGTGGCAGAGATACAGAAGCAGCCTGCTG---ACTG  18653
+                     |..||..||...|.|   ||.|.|.|||....||. .||||||   .||.
+1793293-18088   4040 CGCCACCCAGCCCCT---GCTGGGGTACCCTGGCC-TCTGCTGGCACCTA   4085
+
+52158588-5220  18654 GCTGGACAGGAGACAGAAGGGAGACACGGCAGCAAGAGCCGCTGTCGCTC  18703
+                     ||.|| ||||   |||..|||.|    |||||..||.||.|    |.|.|
+1793293-18088   4086 GCAGG-CAGG---CAGTGGGGGG----GGCAGTCAGGGCTG----CACCC   4123
+
+52158588-5220  18704 TCTGTGGAAGATCAAGCCCTTTGTGGAACTGCCTTCATTCACTTAGCTGG  18753
+                     ||              |||        ||..|...|...||..|.||   
+1793293-18088   4124 TC--------------CCC--------ACCACACACGGGCAGATGGC---   4148
+
+52158588-5220  18754 CACCGGAGAGCAAAAGCGTGCTTGTATCTTCCTCCAGGGGCTCCATTTTC  18803
+                     |||.||.|.|         |||.|         ||.||||||.|..|.||
+1793293-18088   4149 CACTGGTGTG---------GCTGG---------CCTGGGGCTGCTGTGTC   4180
+
+52158588-5220  18804 TCTGCTCCCTTGTTTATTCAGGAGGGTCACGGGCGGCAGCCTAGAGGACA  18853
+                     .|...||||                  |.||.||          .||||.
+1793293-18088   4181 CCCCGTCCC------------------CCCGTGC----------TGGACC   4202
+
+52158588-5220  18854 GAACAGAAACAAGTTTCCTGCTAGCAAGTTAATGTAGTCCCCATGGCTGG  18903
+                     ...|.|||.|||     .|.||.|        |||.|     ||||||.|
+1793293-18088   4203 AGGCTGAAGCAA-----ATACTTG--------TGTGG-----ATGGCTTG   4234
+
+52158588-5220  18904 TCTGTTTCTTCCAGGCTGCC-CCAATCTCAGTCCCACACAGTGTCTCTAA  18952
+                     .|     ||     |.||.| |||  ||||| .|||.||.|         
+1793293-18088   4235 AC-----CT-----GTTGTCGCCA--CTCAG-ACCAAACCG---------   4262
+
+52158588-5220  18953 GAGGCCTTGCCATGGCTGTACCTGTCCTT--ACACAGAACCTTCAGTGGC  19000
+                       |..|...||  ||||||   ||.||||  .| |||..|||.|||    
+1793293-18088   4263 --GAACCAACC--GGCTGT---TGCCCTTGGGC-CAGGGCCTGCAG----   4300
+
+52158588-5220  19001 TCCCTGGTGCCTGAAGGCATCTGCTTTGCCGGTC--TTCTGTGCCCTTTC  19048
+                               ||| ||||..|  |.|..||.|.|  ||||..|||     
+1793293-18088   4301 ----------CTG-AGGCTGC--CATAACCAGCCTGTTCTCGGCC-----   4332
+
+52158588-5220  19049 CTTTTGAAACCCCAGATTCTTGAAAGTCTCGGATCACCTGGAGCCCTGCC  19098
+                                     ||||.|...|.||| ||.||.||    |||.||.
+1793293-18088   4333 ----------------TTCTGGGGGGCCTC-GAGCAGCT----CCCAGCT   4361
+
+52158588-5220  19099 CTGATTG--CCTTGCTTTGTTTCTCAGTTAGGGTCTCTATTGCTCGGATG  19146
+                     |||..||  ||   |       |.||     .|.|.||       ||   
+1793293-18088   4362 CTGGGTGGTCC---C-------CACA-----AGACACT-------GG---   4386
+
+52158588-5220  19147 AAGCACCATGACCAAAAGCAATGTGGGGAGGAGAGGGTTTATTTCAGCTT  19196
+                          |||.||||             |||||               ||| 
+1793293-18088   4387 -----CCAGGACC-------------GGAGG---------------GCT-   4402
+
+52158588-5220  19197 AAAACTCGGAGGTTACACTCCATCACTGAGGGAAGTCGGGCCAGGAACTT  19246
+                                                   |||.|||.||||||||.|  
+1793293-18088   4403 ------------------------------GGAGGTCAGGCCAGGAGC--   4420
+
+52158588-5220  19247 AAACCAGGAACCTGAAAGCAGGACACAAAAACAGAAGCCATAAAGAAGTA  19296
+                        ||    .|||||..||.||              |.|           
+1793293-18088   4421 ---CC----CCCTGACTGCGGG--------------GTC-----------   4438
+
+52158588-5220  19297 CTGCCTACTGGATTGCTGCCCCCTGGTTTGCTCAGCCTGCTTTCTTATAC  19346
+                        |||||.||.  ||.|.||      |||..|.|               
+1793293-18088   4439 ---CCTACAGGG--GCAGTCC------TTGAGCTG---------------   4462
+
+52158588-5220  19347 ACCCCTGAATAGCCTGCTCAGAGTTGCCACCAACCGCAATGGGCTGGGGC  19396
+                          ||..|  ||    |.|.|                 ||||..||||
+1793293-18088   4463 -----TGGGT--CC----CGGTG-----------------GGGCGAGGGC   4484
+
+52158588-5220  19397 TTCTCACATCAGTCACTAATTTAAAAAGCGCTCCCAGACTTGGCTGAGGC  19446
+                     |.||    ||.|      ||         |||.|..|    ||.||||  
+1793293-18088   4485 TCCT----TCGG------AT---------GCTTCAGG----GGATGAG--   4509
+
+52158588-5220  19447 TGTCTGATGGAGGCACTTTTTCACTTGAGGCT--CC---TCTCCCAGAAA  19491
+                            ||..|||.|||     ||   ||||  |.   ||.|||.|...
+1793293-18088   4510 -------TGTGGGCCCTT-----CT---GGCTGGCAGGGTCACCCTGGGC   4544
+
+52158588-5220  19492 GCTATAGCTTGTGTCAAGTTGACAAAAAACAACCAGGATAGTAGCTCTCA  19541
+                     .||| .||.|||||  .|.||         .|.||||...||        
+1793293-18088   4545 ACTA-GGCGTGTGT--GGCTG---------GATCAGGTGGGT--------   4574
+
+52158588-5220  19542 GAACTGTGCAGAGAGAGGCCTTTGGCCATATTGTAATTCTTCAGGGCATG  19591
+                         ||.|||||....||||  |||||                ||||| |
+1793293-18088   4575 ----TGGGCAGAAGAGGGCC--TGGCC----------------GGGCA-G   4601
+
+52158588-5220  19592 CCAAGTGTTTTCTATAAGTCCCTAAGCTTAATGCTTCCACAGGCCTCCAT  19641
+                     |||.| |..|..|.|..   ||..||......|||     .||||.||..
+1793293-18088   4602 CCAGG-GACTGGTGTGG---CCAGAGTGGGCAGCT-----GGGCCCCCGA   4642
+
+52158588-5220  19642 CTCT---CCTTGAGTGTGAAGGATAATCCCATGTGATGCCCATAGCATGT  19688
+                     .|||   ||..|.||.||.||.||.|   ||.||||||.|    |||   
+1793293-18088   4643 ATCTAGGCCACGCGTCTGCAGAATGA---CAAGTGATGGC----GCA---   4682
+
+52158588-5220  19689 GGAGATTCTGTGACTCTCTCATCTAGTGTGTTTTGGGACTGTTGTTCATG  19738
+                                 ||.|.|.||.|          ||||.|||..|   |.|
+1793293-18088   4683 ------------ACCCGCCCAGC----------TGGGTCTGAAG---AAG   4707
+
+52158588-5220  19739 GAGACCCCAT----GTCCTGTACCCTCCCAGGTTCACCATTGTTGCAGAG  19784
+                     |||.|..|.|    |.||   ||||.|||       ||           |
+1793293-18088   4708 GAGGCTGCCTGGGGGACC---ACCCACCC-------CC-----------G   4736
+
+52158588-5220  19785 ACCCTGCAGCAGATCCGTCAGCAGCTTAAAAAGCTGGAGGAGTTGGAACA  19834
+                     .|||.||..||...|||                           |||   
+1793293-18088   4737 TCCCGGCCCCAAGCCCG---------------------------GGA---   4756
+
+52158588-5220  19835 GAAATTCACCTATGAGCCCGACCCTATTACAAAAAACAAGCAGGTGTTGT  19884
+                           |.|||    |||.|                ||.|||    ||||
+1793293-18088   4757 ------CGCCT----GCCTG----------------CATGCA----TTGT   4776
+
+52158588-5220  19885 CAGATCGAACCTTCCTCCTCTTCCAGCAGCTCATTCAGAGGTAAGGCTAG  19934
+                     |.|.            ||    |..||           |||.|||.||||
+1793293-18088   4777 CTGG------------CC----CTGGC-----------AGGGAAGCCTAG   4799
+
+52158588-5220  19935 GCAGACTGACTATCCAGAAGGCCAT--CTATG----GTCATTTGGACAGT  19978
+                     |  |.| ||.|.|||.....|||.|  |.|||    |||.||.||.||  
+1793293-18088   4800 G--GGC-GATTGTCCCCCCAGCCCTGCCCATGGTGTGTCCTTGGGTCA--   4844
+
+52158588-5220  19979 TTGGAAGGGTTTGATGGTGGAGC-GTGGAGTTTGGCTACT-CTGTTTTGG  20026
+                         .|||.||   ||||||..| |.||||.|.|||..|| |||....||
+1793293-18088   4845 ----CAGGCTT---TGGTGGCTCTGGGGAGCTGGGCAGCTACTGGGGAGG   4887
+
+52158588-5220  20027 CTCTCAGCAGTGGTCGTGCATTCCAG-ACACCTGCCCAGGAACTCTTTGG  20075
+                     ..|.|||    ||.|   ||  ||.| |||.||||||       ||.|||
+1793293-18088   4888 GACCCAG----GGGC---CA--CCTGCACATCTGCCC-------CTGTGG   4921
+
+52158588-5220  20076 ATTCCTGAATGAAACACACACACACACACACACATTAGCTTATTTTTGAA  20125
+                     .|         ...|.|.|||.|.            |||||         
+1793293-18088   4922 GT---------GGGCCCCCACCCC------------AGCTT---------   4941
+
+52158588-5220  20126 ATGCCTTGGCTACTCTAGGGCTGGGCAGTTCCAATCCTCCATCGGCTGTA  20175
+                         ||..||  |.|.||||..|||     |||...||      ||||..
+1793293-18088   4942 ----CTCAGC--CCCCAGGGAGGGG-----CCAGGGCT------GCTGAC   4974
+
+52158588-5220  20176 CT--CCTGGCTC-AACATCTTCTAAATCTACCTTTAACTTTGCTGCCCTG  20222
+                     ||  |||||||| .|||.||||                    ||||||  
+1793293-18088   4975 CTGCCCTGGCTCTCACAGCTTC--------------------CTGCCC--   5002
+
+52158588-5220  20223 TTACCTTCTGTGAGGCCCGTTGGTCTTTGCTGCCCAGGATGCTTCTGAGC  20272
+                        ||        .|||   |||||      |.||        ||||.|.
+1793293-18088   5003 ---CC--------AGCC---TGGTC------GTCC--------TCTGTGA   5024
+
+52158588-5220  20273 GGCCCTTTTGGGAGCTGTCTTTTCTTTGCTCCTACCTTTTGGATGATCTT  20322
+                     |        |||               ||.||..               |
+1793293-18088   5025 G--------GGG---------------GCCCCAG---------------T   5036
+
+52158588-5220  20323 CCCTCTGCAGCTCTAAATCTGATCTGTCTCTCTCCCCGAGTCATGGCCAT  20372
+                     |||.||||||    ..|.|.|    |.||| |.||||             
+1793293-18088   5037 CCCCCTGCAG----GCAGCAG----GACTC-CACCCC-------------   5064
+
+52158588-5220  20373 TCTGTTTCTCCAGCCCCCTTCA--GCCTAGCCTGTGCAAATATAAGGGTT  20420
+                              ||.||||||||.|  ||| .|||||.||..           
+1793293-18088   5065 ---------CCGGCCCCCTTGAGGGCC-CGCCTGGGCCT-----------   5093
+
+52158588-5220  20421 TTGCCCCATCTCCCTTTGCCCAGCCATTGG---CCGC-TGGCATTTTATT  20466
+                        ||||| |||      |||.|||..||.   ||.| ||||.       
+1793293-18088   5094 ---CCCCA-CTC------CCCGGCCTGTGAGACCCACTTGGCC-------   5126
+
+52158588-5220  20467 GATTGATCAAAAACCAATTGAGGGCAAGGACTTTCAGTGTCTGGATACTT  20516
+                         |..|     |||       ||.        |.||||.||  |||||
+1793293-18088   5127 ----GGAC-----CCA-------GCG--------CCGTGTTTG--TACTT   5150
+
+52158588-5220  20517 AGATTACTCAATCAATTCAAAGCATTAGAACCAATTCCCAGTGTGACGGG  20566
+                     .|    |||                         |||.|.||.|      
+1793293-18088   5151 TG----CTC-------------------------TTCTCGGTAT------   5165
+
+52158588-5220  20567 CTAATCGGTTTTCAGTGGCACTTGATTCTGTGTGCATGCCTTGCTTATGC  20616
+                            ||||||.||    |.|||             ||  ||     |
+1793293-18088   5166 -------GTTTTCCGT----CATGA-------------CC--GC-----C   5184
+
+52158588-5220  20617 ACGTGCCTCTTCCATAAACTTCCTTTTGGCTTCCTAGGA-ACAGTATAGT  20665
+                     ..|||...||||||||..         .|||.|  |||| ||||.|    
+1793293-18088   5185 GTGTGGAGCTTCCATAGG---------AGCTGC--AGGATACAGAA----   5219
+
+52158588-5220  20666 AGTTCTTACTCTTTCTGCCCCTT--AGCCAGTATGTGCCAGGCCCAGCAA  20713
+                        .|||.|     |..||||..  ||||        ||...|||.||. 
+1793293-18088   5220 ---CCTTGC-----CCACCCCAAGGAGCC--------CCCACCCCCGCC-   5252
+
+52158588-5220  20714 GTCTGACGTCAGATGCCTGCCCTCCTCTCGCTGTACGGTGTGGCCTGAGC  20763
+                                    ||.|||| ||||.|||||..|    .||||||.||
+1793293-18088   5253 ---------------CCGGCCC-CCTCGCGCTGCTC----CGGCCTGTGC   5282
+
+52158588-5220  20764 -CTGCACCAG-GCTCTCGCATCCTGCCTCCCATCAGCCTTTCTCAGCCTT  20811
+                      ||| |||.| |..|.|||     ||.||.|                   
+1793293-18088   5283 TCTG-ACCGGTGAACCCGC-----GCATCGC-------------------   5307
+
+52158588-5220  20812 TCCCCCTAGGTTCTGAGACCCACAGCAGGATTTTGATCTGGCCCTTCATT  20861
+                      |||||         |||||                    |.||      
+1793293-18088   5308 -CCCCC---------AGACC--------------------GTCC------   5321
+
+52158588-5220  20862 ACCTGGTAACTGCGTGGGGGTTCATTACCTGGTAACTGCGTGGGGTCTTC  20911
+                                                                       
+1793293-18088   5322 --------------------------------------------------   5321
+
+52158588-5220  20912 AGCTACACCATCAGGCCCCCTTTCCACAGTGACCCATAGGCCACTCTACA  20961
+                         ||||     ||||.|         |||||||               
+1793293-18088   5322 ----ACAC-----GGCCAC---------GTGACCC---------------   5338
+
+52158588-5220  20962 CTTGCAGCCCACGTTACTTCTACCCAGTTTGTCAGACTCTCAAAATATTA  21011
+                       ||||  ||.|.||.|||||..||.|||                     
+1793293-18088   5339 --TGCA--CCTCCTTCCTTCTCGCCTGTT---------------------   5363
+
+52158588-5220  21012 CTCAATGCTCCAATGTTTTTATAGCCTTTCAAGTTTTCCGTCTATTGTCT  21061
+                         .||.|||                  |..|.|.|||.|||.    ..
+1793293-18088   5364 ----CTGTTCC------------------CTGGCTGTCCATCTG----AA   5387
+
+52158588-5220  21062 CTGTAGGGAGAAGTTACTAATTTATTTTTTTACTGTGTTAACTGTGATGC  21111
+                     |||             |           |||.|.|..|.|..||.|.|||
+1793293-18088   5388 CTG-------------C-----------TTTTCAGGCTCATATGGGGTGC   5413
+
+52158588-5220  21112 AAAAGCTAATTTATCTGTGTTTCCGGGTCACTGACAGCTCCTTCGTGGTA  21161
+                     ....||||      |||.|.         ||.|||..|||||  |.|||.
+1793293-18088   5414 GGGGGCTA------CTGAGG---------ACGGACCCCTCCT--GGGGTG   5446
+
+52158588-5220  21162 GAACGACAGCCGTGCATGCCCACTCACCCGCAGAGGCCCCTGGTCTTGAA  21211
+                     .|.|        ||||   ||||                           
+1793293-18088   5447 AATC--------TGCA---CCAC---------------------------   5458
+
+52158588-5220  21212 GACTGGGGTACAGTTCACTGTCAAGCTGAGGTAACGAACATAGAGCTCCA  21261
+                     ||  ||||                ||||                      
+1793293-18088   5459 GA--GGGG----------------GCTG----------------------   5468
+
+52158588-5220  21262 TATGCTGCCTGTCCCAGAATTTGTGCCTTTAATCCGCCCCCTTCTTTTTT  21311
+                        ||||.|...|||.|.                |.||||||        
+1793293-18088   5469 ---GCTGGCCAACCCTGG----------------CACCCCCT--------   5491
+
+52158588-5220  21312 TCATCCCAACTTGCTTCAAATATATAATACTCCTGGCTCAGCTTGCCAAG  21361
+                                                         ||.||||       
+1793293-18088   5492 ------------------------------------CTGAGCT-------   5498
+
+52158588-5220  21362 TGCTGGAATACATCTAGCCCTTTCATTTGCTTTTATAAAATGGTTCTAGG  21411
+                                      ||.|||||                         
+1793293-18088   5499 -----------------CCATTTCA-------------------------   5506
+
+52158588-5220  21412 GTTTGTGAGATGGCTCAACGGTTAAGAGCACCGACTGCTTTTCTAGAGGT  21461
+                         ||.||| |||    |.|..|||.|||.|          ||    ||
+1793293-18088   5507 ----GTCAGA-GGC----CAGCAAAGGGCAGC----------CT----GT   5533
+
+52158588-5220  21462 CCTGAGTTCATTTCCCAGCAACCACATGGTGGCTCAGAACCATCTATAAT  21511
+                     ||      |.|||.||.|||.|                |||         
+1793293-18088   5534 CC------CCTTTGCCCGCAGC----------------ACC---------   5552
+
+52158588-5220  21512 GGGATCTGATGCCCTCTTC-TGGTGTGTATGAAGACAGCTACAGTGTACT  21560
+                              ||||  |.|| |||||          |.||  |.|||    
+1793293-18088   5553 ---------TGCC--CGTCGTGGTG----------CCGC--CTGTG----   5575
+
+52158588-5220  21561 CATATATACATAAAAATGATTAATTTTTTTTAAAGGTTCTATAGAGTAAT  21610
+                                                                       
+1793293-18088   5576 --------------------------------------------------   5575
+
+52158588-5220  21611 CTAGAGAAAACAAGTTTGGAGTGGCCATTTTAATATGAAATCTTACTTTG  21660
+                            |.|||||..|||       |||||        ||.||.|    
+1793293-18088   5576 -------AGACAAGCATGG-------ATTTT--------ATGTTTC----   5599
+
+52158588-5220  21661 GCTAGCCAAGGTTTATGCTCAAAATACAAGTATAGCTAATATAGTCGCAT  21710
+                      |.|||.|      .||..||||.||.|||   |.|.|  |.||||.|||
+1793293-18088   5600 -CAAGCAA------TTGAACAAATTAAAAG---AACGA--AGAGTCACAT   5637
+
+52158588-5220  21711 ATACACATGGGTGCCTCTTTTTTCTCACTGTAAATATAGGACATTTTTAT  21760
+                     .|.       |||.|.||||                   ||.||||..||
+1793293-18088   5638 TTT-------GTGACACTTT-------------------GAGATTTGAAT   5661
+
+52158588-5220  21761 AGTAAAAGAATCTCAGGGTACGGAACCTCAAAGTCGGATCAAGAACCTCA  21810
+                               ||||.|.||     .|.|.|..|..|.||||.|.      
+1793293-18088   5662 ----------TCTCCGTGT-----CCATGAGTGAAGCATCATGG------   5690
+
+52158588-5220  21811 TGACCAAATTTTCAGCACAACAAAAATGTATTTGCACCAGAGGGACAGAG  21860
+                      |.|||                            |..|.|.|||   |..
+1793293-18088   5691 -GGCCA----------------------------CTGCTGTGGG---GTT   5708
+
+52158588-5220  21861 GACAGGGATAAGGAACAAAGACAGGATATAGAGGAGGAGGGAGGAGGGGA  21910
+                     |.|.|                ||||.|.|    |.|| ||.|||.||...
+1793293-18088   5709 GGCTG----------------CAGGTTGT----GTGG-GGAAGGCGGCTG   5737
+
+52158588-5220  21911 GAACAACAGAGAGGGGAGAAGGGGAAAAATGAGAGGGGCAGGGGTATTTG  21960
+                     ..|||.|                       |||...|.|.||.||..|||
+1793293-18088   5738 TCACACC-----------------------GAGGCAGACCGGAGTCCTTG   5764
+
+52158588-5220  21961 TCCCAGATTGG--AACAAAGTACTGTCTCTGGACAGAGAGGAGGCACACG  22008
+                     ...||||.|||  ..|||||        |||.|.|.||||     ||...
+1793293-18088   5765 GGACAGACTGGTTGGCAAAG--------CTGAAGATAGAG-----ACCTT   5801
+
+52158588-5220  22009 TGGCCCGTAGTAAAATGGAGGCTTAAAATGGTTAAGGGGGAACCCCTATG  22058
+                     ||||||.|       |.|.|.|    |..|.||...|     |||||   
+1793293-18088   5802 TGGCCCTT-------TTGGGAC----ACAGTTTCCAG-----CCCCT---   5832
+
+52158588-5220  22059 TTAGGATGAGGTGTTTAATTTTAATTGGATATGTTAATTAGGTGAGCCAA  22108
+                              |||.|                          ||||.|.|. 
+1793293-18088   5833 ---------GGTCT--------------------------GGTGGGACC-   5846
+
+52158588-5220  22109 AGGGGCTTTTAATTGCTGGACTTGACTTCAATACCTAGATAGCTGGACCT  22158
+                                    ||||             |.||.|.|  |.|..|||
+1793293-18088   5847 ---------------CTGG-------------ATCTGGGT--CAGAGCCT   5866
+
+52158588-5220  22159 TGCTAGTCAGCCTCAGGAGGAGGAAGTGGCCAAATAAGGGAATAGACCTT  22208
+                     |.|   |||  |||||           ||||              .||..
+1793293-18088   5867 TCC---TCA--CTCAG-----------GGCC--------------GCCGA   5886
+
+52158588-5220  22209 GGTGGCCA--GCTTTAGGAATGTAATCTAACGGTCTTTTGCAAGGCAGAG  22256
+                     ||...|||  |||.|  |..||||    ||||||          ||.|  
+1793293-18088   5887 GGCTTCCACTGCTGT--GTCTGTA----AACGGT----------GCCG--   5918
+
+52158588-5220  22257 CGAATTGAGGAACAGGGCAAAGCCTACCAGAGCCATGTTTGCCACACTCA  22306
+                      |..|||.||                   |.|||     ||||.||    
+1793293-18088   5919 -GGTTTGGGG-------------------GTGCC-----TGCCTCA----   5939
+
+52158588-5220  22307 AGCTGGCCAGAGTGCCCTCTCTTCGAATTTCAGAAATGTTTATAGATAAA  22356
+                        |||.     ||||| .||||                           
+1793293-18088   5940 ---TGGT-----TGCCC-ATCTT---------------------------   5953
+
+52158588-5220  22357 GTTTCAAGCAGCCTTCCCCAGAGGTGCATAGGCTCATGATAGAGCTTTAT  22406
+                                ||  ||.||||.|| |...|||.|     |||||     
+1793293-18088   5954 -----------CC--CCACAGAAGT-CCCGGGCCC-----AGAGC-----   5979
+
+52158588-5220  22407 GAATGCTAGGCAGACACTGCAGTAGTGTGTGAGTGTAGACTGTGCTGTAT  22456
+                               |.|.| |.||||                   |.||.||  
+1793293-18088   5980 ----------CCGGC-CAGCAG-------------------GAGCAGT--   5997
+
+52158588-5220  22457 ACATTGTTTTTTCTGGTGAGCAAATTCATATCTTCCACCAGGCTGTACCA  22506
+                                  |||              |||||     |||.|   |.
+1793293-18088   5998 -------------TGG--------------TCTTC-----GGCAG---CG   6012
+
+52158588-5220  22507 GTGTTCTGTGATCTAAATGTCTGTGGACAACTGCAGTGACTTACCCATAT  22556
+                     |.|             ||| |||||||     ||.|.| ||..|||    
+1793293-18088   6013 GGG-------------ATG-CTGTGGA-----GCTGAG-CTGTCCC----   6038
+
+52158588-5220  22557 GTATCCTCCCGTGATTTTGTACACGTGTCCATGTTTCACACTTAGGCGCA  22606
+                         ||.||||.|.    ||...|    |||||...|.||||        
+1793293-18088   6039 ----CCGCCCGGGG----GTGGTC----CCATGGGGCCCACT--------   6068
+
+52158588-5220  22607 TGTACATAAACGTACGGCTTACAGCATTTCAAGTGTTAAAACTAGGATTT  22656
+                                ||..||          .||||| |.|...||..||.|. 
+1793293-18088   6069 -----------GTCTGG----------GTCAAG-GATGGCACAGGGCTG-   6095
+
+52158588-5220  22657 CGTTTGCATGCAGTCTGCTCTTGTCCTTGCTACAGTGGTAGGACGCTCCG  22706
+                            .|||..||.|..|.|||||         ||||.||  ||.||.
+1793293-18088   6096 -------GTGCCCTCGGAGCGTGTCC---------TGGTGGG--GCCCCA   6127
+
+52158588-5220  22707 GGGGTGCTTTGCTGTGTTCTAGAGAGTGGCTGCACTCAGTAATTACTGCT  22756
+                     |.|  ||  |||.| ||.||   ||.||.|| |.|.|....|      ||
+1793293-18088   6128 GCG--GC--TGCAG-GTGCT---GAATGCCT-CCCACGAGGA------CT   6162
+
+52158588-5220  22757 CAGGAGCCG--AGCAGCCTGCAAGAGCTGGGCTTGTCTTCTGTGGGGTGC  22804
+                     |.||.|||.  |||.|||.||   |||  |||   || .|        ||
+1793293-18088   6163 CCGGGGCCTACAGCTGCCGGC---AGC--GGC---TC-AC--------GC   6195
+
+52158588-5220  22805 TGCTGTGGGTACATGGACACTGTTTCTCTGCCAGGCAGCCCTATGACACA  22854
+                     .||   |.||||...|.|||   |||..||.   ||.|    .|||||  
+1793293-18088   6196 AGC---GCGTACTGTGCCAC---TTCAGTGT---GCGG----GTGACA--   6230
+
+52158588-5220  22855 CATAAACACCAGTGGAGTCTAGAGTTCATAATGCACAGGAAAGAGGAAGG  22904
+                                  ||.|              .||.|.||         ||
+1793293-18088   6231 -------------GGTG--------------AGCTCTGG---------GG   6244
+
+52158588-5220  22905 CCACTCCTCTCACCTGCTCCTGACCAGAGGCCCCAAGCTC----CTCCCC  22950
+                     |||       |.||.|||.|.||...|||   ||.||..|    |||||.
+1793293-18088   6245 CCA-------CGCCAGCTACAGAAAGGAG---CCGAGTGCCGGGCTCCCT   6284
+
+52158588-5220  22951 AGGTCTCTAGC---TGTCA-GAGCAGAGGCACATGGAGTCCTTTCTACAC  22996
+                     ..|||.|| ||   .|||| ||||.|     |..||.|||          
+1793293-18088   6285 GAGTCCCT-GCGTGGGTCAGGAGCGG-----CTGGGGGTC----------   6318
+
+52158588-5220  22997 TCTTTCTACATCCCTGGTGCCATCCTGCCGTTTTCTGATTATGGGTAGTA  23046
+                               ||.|||||  |||                  |||      
+1793293-18088   6319 ----------TCTCTGGT--CAT------------------TGG------   6332
+
+52158588-5220  23047 GTTGTAATTTAATTTCTTGGTGATGCTTTGTATTTTCTCCCAACAGCACA  23096
+                                      |||.||.|                        |
+1793293-18088   6333 -----------------TGGAGAGG------------------------A   6341
+
+52158588-5220  23097 GGGAATTAAATATAAGTTTTGTAAAGAGTGATATTCACTTTTTTTTTGCC  23146
+                     |||                                |||          ||
+1793293-18088   6342 GGG--------------------------------CAC----------CC   6349
+
+52158588-5220  23147 CATATAGATCAGAAGTGGAAATTTTGATTAAAACTATGTTGGTGGGTTAT  23196
+                     |        |||                                      
+1793293-18088   6350 C--------CAG--------------------------------------   6353
+
+52158588-5220  23197 ATAGAAAAGCAGCTGTTTGTACTAATGTCTGATTAGAGTGTAAAATCAGT  23246
+                        |||..||.||       .|.||||                       
+1793293-18088   6354 ---GAAGTGCTGC-------CCAAATG-----------------------   6370
+
+52158588-5220  23247 GCTGTGTTCTGTTAGAGCTTAATGTTAGAATTGTCCCAGCATTGCCAGCT  23296
+                                   |.|               |.|||.||.   |||.||
+1793293-18088   6371 --------------GGG---------------GACCCTGCC---CCATCT   6388
+
+52158588-5220  23297 AGGAACTGATTCTAAAAGCCAAAAAGCTATATAAACTTGTCAGTTCATCT  23346
+                     .|||...|...||....|||                              
+1793293-18088   6389 GGGAGGGGCACCTGGGGGCC------------------------------   6408
+
+52158588-5220  23347 TAACAACCATAATCTAAAAGTGGGGAGAGTGGTTTATATAAATGTTCACA  23396
+                          .||            |||||                       ||
+1793293-18088   6409 -----TCC------------TGGGG-----------------------CA   6418
+
+52158588-5220  23397 GTTGGGGAATTTGCATAATAAATAAATTTTAGTCAATAGCTTTGGTTAAG  23446
+                     |.|.||                                ||.||||||..|
+1793293-18088   6419 GGTTGG--------------------------------GCATTGGTTGCG   6436
+
+52158588-5220  23447 GTAACAACTGTTATTTTTCTTTCAAGACTGTTGGTGAAATTGCAAGAGCT  23496
+                     |  .||.||                  |||       ..|||||...|||
+1793293-18088   6437 G--CCATCT------------------CTG-------CCTTGCAGACGCT   6459
+
+52158588-5220  23497 GAACTATAACTTGAAAGTGAAAGTCTCATTTGACAAGTAAGATTTCTGTA  23546
+                        |.|| .||.|..||   |.|.|..|   |||..|.|.||        
+1793293-18088   6460 ---CCAT-CCTCGGGAG---ATGACGAA---GACGGGGAGGA--------   6491
+
+52158588-5220  23547 ATCTTATCTAAGTAGCTATTTAAAATGCTAGTTCTGTTTACCTCTCCGTC  23596
+                       |....||.||.|                             |.|.|..
+1793293-18088   6492 --CGAGGCTGAGGA-----------------------------CACAGGT   6510
+
+52158588-5220  23597 AAATAAGCAGGCTGGAAATTCTTCCCAGGACCAGGGCTGCACTGTAGGTC  23646
+                     ....|..||||..|||.       |..||.||||            |||.
+1793293-18088   6511 GTGGACACAGGTAGGAG-------CAGGGTCCAG------------GGTT   6541
+
+52158588-5220  23647 CTGAGGCCATGGCCTGTGAGGAGAGGCAC-CTAATGGGTTAC--CCAGGG  23693
+                     |  ||||||  |||   |.||.|.|||.| ||     |..||  |||.|.
+1793293-18088   6542 C--AGGCCA--GCC---GGGGTGGGGCCCGCT-----GCCACCGCCAAGC   6579
+
+52158588-5220  23694 CCAACCCTAGCAGACGTTGGTAACTGGCTTCTCTCTGAGGATTGGGAGCT  23743
+                     ||..||||            |.||.|||    ..||||||.......|| 
+1793293-18088   6580 CCTGCCCT------------TCACAGGC----AGCTGAGGGACTAAGGC-   6612
+
+52158588-5220  23744 TTGCCTAGAACATGTGCTCTCTAGACTAGAATAAACCAAAGAGCAAACAG  23793
+                        ||..|||||   .| |||   .||.|..|.|.||          |..
+1793293-18088   6613 ---CCCGGAACA---AC-CTC---CCTGGGGTCACCC----------CGA   6642
+
+52158588-5220  23794 AGGAAAGGAGATTGCCTTCATCAAGTCTTAAAGCAGTTGGGC---GTCAC  23840
+                     |||...||.     ||  |.|||.|  .||.||.||  ||||   |||||
+1793293-18088   6643 AGGTCTGGT-----CC--CCTCAGG--ATACAGGAG--GGGCTGGGTCAC   6681
+
+52158588-5220  23841 ACATTACATCTCTCTGGCCATCCCCAGAGAAGATGCCCTTAGTGCAACAC  23890
+                        |.||||..||||               ||||||||         |||
+1793293-18088   6682 ---TGACATGGCTCT---------------AGATGCCC---------CAC   6704
+
+52158588-5220  23891 ACTCAAAGATCCAGGCATGTGCATCTGTAGCCAAGAGGGAGGGTGTTCCT  23940
+                     .||....|   ||||..||.|     || ||.|.|.|..|..|||||.||
+1793293-18088   6705 CCTGGTGG---CAGGGCTGGG-----GT-GCAAGGGGACACCGTGTTGCT   6745
+
+52158588-5220  23941 GGAGTGAGGTTAGAGACATCTGGGGCAGGCGTGAGGGGGAGCGACAGGGG  23990
+                     |..|.|..|...|||.|| |.|||.|.      .|||||..|  ||||.|
+1793293-18088   6746 GATGGGGAGACTGAGGCA-CAGGGCCC------TGGGGGTTC--CAGGAG   6786
+
+52158588-5220  23991 TAGGTGTGAGGCCCAGTGGAGCCTGCTGCATTCTCTTATGTTTAGTTGCC  24040
+                     .|||.| ||||||..|        ||||                   |||
+1793293-18088   6787 CAGGAG-GAGGCCAGG--------GCTG-------------------GCC   6808
+
+52158588-5220  24041 AGCACTGAAGGAAAAAGAATGGGAAAAACACTATCTTGTTATTTTTTCTC  24090
+                     .|                 ||||                           
+1793293-18088   6809 TG-----------------TGGG---------------------------   6814
+
+52158588-5220  24091 AAAATCACTCCAGATGACAGGGGAAGAGATAAAGCTTAGTGGCTTT--GT  24138
+                           .|||..|                       |..|||||.|  ||
+1793293-18088   6815 ------GCTCTGG-----------------------TGTTGGCTATAGGT   6835
+
+52158588-5220  24139 GATGTCCTCTCGTTTCTGGGCCAACAGAGCATTGCTGTCTGTGGGTCACT  24188
+                     ||.|            |||.||.    .|||             |.||.|
+1793293-18088   6836 GAGG------------TGGACCC----CGCA-------------GACATT   6856
+
+52158588-5220  24189 AGCGCTGAGACAGGGGACGTGCAATTCCCTGAGCTCCTTCACCTGTTAGC  24238
+                     |||||.|   |||||             |.|.||.|  |||   |.|.||
+1793293-18088   6857 AGCGCAG---CAGGG-------------CAGGGCAC--TCA---GGTGGC   6885
+
+52158588-5220  24239 CATTTATGCCTCACAGTCCCCTGTAGTGTAGAGCTGGCAGCAGGCTGTGT  24288
+                           ||||            ||.|.||.||  |||...|.||    ||
+1793293-18088   6886 ------TGCC------------GTGGGGTGGA--TGGACCCGGG----GT   6911
+
+52158588-5220  24289 GAGGGAGAAATGCCAGGCAGGTGGCTTCCCACCCATGACATTCAGTGTTA  24338
+                     |||||.     |||.|      ||| .||..||    |||..|||     
+1793293-18088   6912 GAGGGC-----GCCGG------GGC-ACCTGCC----ACAACCAG-----   6940
+
+52158588-5220  24339 CTTGATCTCATTGGCGTGGGTGGGAAGGAACAAGTGATTGAAGGGACAGG  24388
+                                ||||      |||.|||     |||..||...|||..|.
+1793293-18088   6941 -----------TGGC------GGGCAGG-----GTGGCTGGCAGGAGGGT   6968
+
+52158588-5220  24389 GACCACAGTGTAGATGAGCCCCTATTACTCTGTACATACTTTATGTGCAT  24438
+                     |.|..    ||.|.||.||                        ||.|..|
+1793293-18088   6969 GGCTG----GTGGGTGGGC------------------------TGCGGCT   6990
+
+52158588-5220  24439 TTATGAGACCAGTCTTACTCTGCAGCACACTCTGGCCTGGAACTCATGGT  24488
+                     .|..||||.|||||                        ||       ||.
+1793293-18088   6991 GTGAGAGAGCAGTC------------------------GG-------GGA   7009
+
+52158588-5220  24489 CTTCTGCCTCTGTCTTCTGTGTGTTGAAGCGTAAACCACAGGGAGTTTCC  24538
+                     | ..|||||                  .|||                |||
+1793293-18088   7010 C-GATGCCT------------------GGCG----------------TCC   7024
+
+52158588-5220  24539 CCCCCTCCCCCGGCGCAGCCAATGTATTCATTTTCTCTTTTATTTATATG  24588
+                     |..|||....|||.|  ||...||                         |
+1793293-18088   7025 CGGCCTGGAACGGTG--GCAGGTG-------------------------G   7047
+
+52158588-5220  24589 ACTGTGTAATCATATGCATCTGTTTTGTATCTATTGAATCTTACTTCAAA  24638
+                     ||                                                
+1793293-18088   7048 AC------------------------------------------------   7049
+
+52158588-5220  24639 TTTACATATTTTTTTACAGAGATGTGAACGAGAAAAACACAGTTAAAGGG  24688
+                                 |||.|..||.|||   .|.|              .|||
+1793293-18088   7050 ------------TTTGCCAAGTTGT---AGGG--------------TGGG   7070
+
+52158588-5220  24689 TAGGTATAGCATCTGCACCCTACTTTGCTTATCCTGTTTGTTTAGTAGTT  24738
+                     .||||...||.||||                        ||||.|.||  
+1793293-18088   7071 GAGGTGGGGCTTCTG------------------------GTTTTGGAG--   7094
+
+52158588-5220  24739 TGAAGCACTTTAAGGATTTGTGTCTTGCGTTGTATAGATTTCGGAAGTTC  24788
+                      |.|||.||....|||   ||| |.|||       ||.|    ||.|.| 
+1793293-18088   7095 -GGAGCTCTGAGGGGA---GTG-CGTGC-------AGGT----GAGGGT-   7127
+
+52158588-5220  24789 AACATCTTGGGTACGCACACAAAAGTGATGAACATGGAAGAATCCACCAA  24838
+                       ||||.|||       ||||         .||||||             
+1793293-18088   7128 --CATCGTGG-------CACA---------GACATGG-------------   7146
+
+52158588-5220  24839 CGGAAGTCTGGCAGCTGAGTTCCGACACCTGGTAGGCAGAGCAGTTTGAT  24888
+                      ||      |||     ||||.|||   ||.|..|.|.||      ||.|
+1793293-18088   7147 -GG------GGC-----AGTTACGA---CTTGCGGACTGA------TGGT   7175
+
+52158588-5220  24889 GTCT-TGATGCATCTCTGGTCCTTTGGAAGTCTTATAGGATTGACCCCCA  24937
+                     ||.| .|.||..||.||||.||..|||          ||...|   |...
+1793293-18088   7176 GTGTGCGCTGGGTCCCTGGGCCAGTGG----------GGTAAG---CAGG   7212
+
+52158588-5220  24938 TACTTTCCCGACGGTGGGATGCTG-GTCCCTTCTTCATCTCCTGAGTCTC  24986
+                     |        ||.|..||||.|||| ||||                     
+1793293-18088   7213 T--------GAGGAAGGGAGGCTGAGTCC---------------------   7233
+
+52158588-5220  24987 CTGGCTGTGTGTTTTGACAGGGGCTGTACGGACCTCAGTAGAGTGCTTTA  25036
+                         .||.|.|......|.|||       |||.||||             
+1793293-18088   7234 ----ATGAGAGAAACAGCTGGG-------GGAACTCA-------------   7259
+
+52158588-5220  25037 TAAACTTGCATGTGCATAAATTATATAAGCACTTGCCGCCTCCTCTGCGA  25086
+                                                  |.||.|..|.|||     |..
+1793293-18088   7260 -----------------------------CCCTGGGGGTCTC-----CAG   7275
+
+52158588-5220  25087 GCAGCCCCTGAGGTTCCAGCAGCATTCTAAGGAAACCATTCCCCACTTCA  25136
+                     |..|||...||||...|. |||||...|..||..        ||.|||  
+1793293-18088   7276 GAGGCCTGGGAGGGAGCT-CAGCACCGTGGGGTG--------CCTCTT--   7314
+
+52158588-5220  25137 GTCCTCACTTCTCCTGCCTTCCAAGTGTGTAGCAGCTTGACCACGAATGC  25186
+                                |||.|||       |||||          |||| |.|||
+1793293-18088   7315 -----------TCCAGCC-------TGTGT----------CCAC-ACTGC   7335
+
+52158588-5220  25187 TGCAAGAGCAGGAGGCCTCGTTCCATTGGGTAGAAGGGTGGTACTTTCCT  25236
+                     |||.  .||.|  ||||||                 .|||       ||.
+1793293-18088   7336 TGCT--TGCTG--GGCCTC-----------------AGTG-------CCC   7357
+
+52158588-5220  25237 CTGGTCTCCATAAACCCAGTGTTGGGGCTGGGTACCAGCTGGTGAGCTAC  25286
+                     |||.|...|.|...||..|.|  ||||||||    ||    ||||||| |
+1793293-18088   7358 CTGATGGGCGTGTGCCTGGAG--GGGGCTGG----CA----GTGAGCT-C   7396
+
+52158588-5220  25287 AGATTTCAGAGCTCGGGAGTGACATGTGAGGCGAGGGCCTCCGTCCAGCT  25336
+                     |     |.|||   |||||          |||   .||.|||.|||.|  
+1793293-18088   7397 A-----CTGAG---GGGAG----------GGC---TGCTTCCCTCCTG--   7423
+
+52158588-5220  25337 TGGAAATCTGAGCGTGTCCAGATTGGCCCTTTAAATCTCAAGGATTGAAA  25386
+                      ||.|||    ||..|.|||...|.|||  |..|.||.|  ||...|||.
+1793293-18088   7424 -GGGAAT----GCCAGCCCATCCTTGCC--TGGAGTCCC--GGCAGGAAG   7464
+
+52158588-5220  25387 TCTGAACGAGGAGACTAGGTCAGCCTGCTGTGCTGAGCCTGGTCTGGAAG  25436
+                     .|.|.||             |||||       |||||...||  .|.||.
+1793293-18088   7465 GCAGCAC-------------CAGCC-------CTGAGGAAGG--AGAAAA   7492
+
+52158588-5220  25437 ACTGCAG--AGGCTGGAAGACTGCAGAAGCTGTTTCGTGTGCCTGGGCCA  25484
+                     ||  |||  .|||||..||     ||..|..||   |.|.|||..||.||
+1793293-18088   7493 AC--CAGTTGGGCTGTGAG-----AGGGGTGGT---GGGAGCCCTGGACA   7532
+
+52158588-5220  25485 T-GAAATCGCTGCTGAAGGTGCTGGGCACCCATTGCATGCAGGAGCAGCA  25533
+                     | ||.||.|     ||.|..||.||||..|||        .||.||..|.
+1793293-18088   7533 TCGAGATGG-----GAGGAGGCAGGGCCTCCA--------GGGTGCCACC   7569
+
+52158588-5220  25534 GACCTAGGTTCTGGGGCGTCCCCTCCCTCAGATTACTCACACTTCGCCAG  25583
+                     |.|      ||||||        |.||                 ||||||
+1793293-18088   7570 GTC------TCTGGG--------TGCC-----------------CGCCAG   7588
+
+52158588-5220  25584 GCTTCAGGAAGAGGCACTTCCCCCTCTTGTTCCTAGGAGGTTGTCACACC  25633
+                     .|||  |||    ||.|            |.|..|||..|.|||.....|
+1793293-18088   7589 ACTT--GGA----GCTC------------TGCAGAGGGTGGTGTAGGGTC   7620
+
+52158588-5220  25634 TTTCTTTCTAGTTATGACTGGGAACTGATCTGTGAATAAACACAT-CAAC  25682
+                     ||..||||..        ||||                  |.||| |..|
+1793293-18088   7621 TTGATTTCCG--------TGGG------------------CCCATGCTGC   7644
+
+52158588-5220  25683 TCTAATGATTAACCTGCCATTCGGTTCCTTCTTTTACAGCAACTGAAGGA  25732
+                     .|...||     ||| |||  .||.||||        .|| .|||.||| 
+1793293-18088   7645 CCAGCTG-----CCT-CCA--AGGCTCCT--------GGC-TCTGCAGG-   7676
+
+52158588-5220  25733 ACAGAAAAACG-CTGGGAACAGAACTAATGAGGTGAGCATCTCTGGGTGG  25781
+                              || |||||..|    ||.....|||.|.|..|||       
+1793293-18088   7677 ---------CGACTGGGCTC----CTCTCCTGGTAAACTGCTC-------   7706
+
+52158588-5220  25782 CTAGCGGGTCCTAACAGAACTGTTCTGTTCCGAGA-GGACGCATCAGCGT  25830
+                     |   |.||||||..|.    |||.|    .|.||| ||.|    |.||..
+1793293-18088   7707 C---CAGGTCCTGGCT----TGTCC----ACTAGATGGGC----CTGCCC   7741
+
+52158588-5220  25831 CCTGGGACCTGATGTGGAAGAGGGCTCGGGGTATCTGTGGGGATGATAAA  25880
+                     ||||||.|                        .||.||            
+1793293-18088   7742 CCTGGGTC------------------------TTCAGT------------   7755
+
+52158588-5220  25881 AAACACTCTCCTGTGTACTTTCTGGTTGAAAGGCAGTTTAACCCACAGTC  25930
+                          |||.||             ||||...|||.               
+1793293-18088   7756 -----CTCCCC-------------GTTGGTGGGCC---------------   7772
+
+52158588-5220  25931 TCATTGGCCCTACAAAGACA-GCCAATCGGACGGGGCGTGGTGGGCTTTC  25979
+                         |||||||     |.|| |||..|    |.|||| .||||||||   
+1793293-18088   7773 ----TGGCCCT-----GGCACGCCTCT----CTGGGC-AGGTGGGCT---   7805
+
+52158588-5220  25980 ATATTGTTCACCTGGGTAAAGAAATGAAGGCCCGGACATTAGCATGGTTT  26029
+                               ||                  ||.|||||     |||    
+1793293-18088   7806 ----------CC------------------CCTGGACA-----ATG----   7818
+
+52158588-5220  26030 CCCCCAGAATGCACAGAAGAGCTGGAGAGGCTGAAGGTGACTGCCTTGGT  26079
+                       |||.|  |||.|.                     ||||||.|...|||
+1793293-18088   7819 --CCCTG--TGCCCT---------------------GTGACTTCACAGGT   7843
+
+52158588-5220  26080 TAGGGTTTCCACTGCTGCAAGGAAACACTGCGAACAAAAGCAAATGGGGA  26129
+                     ..|||    ||..||         ||.||| ||            |||||
+1793293-18088   7844 CCGGG----CAGAGC---------ACCCTG-GA------------GGGGA   7867
+
+52158588-5220  26130 GGAAAGTGTTTATTTGGCTTAACTTCCACATTGTCCATTGCTGAAGGAAG  26179
+                     ||..||.|                ..||||..|.|||...||| ||.|||
+1793293-18088   7868 GGGGAGGG----------------GACACACGGCCCAGCTCTG-AGAAAG   7900
+
+52158588-5220  26180 TCAGGAGAGAAACTCAAGCAGGGAGGAACATAGAGGCAGGAGGACATCTG  26229
+                     .|.               |.||||||.....|||.| .||||        
+1793293-18088   7901 CCC---------------CGGGGAGGGGACAAGATG-TGGAG--------   7926
+
+52158588-5220  26230 GTTTTTGCTACTTTGTGGGTTCTTCTTTCTTCCACCCTTTTTAAACCTCA  26279
+                           |||.|    ||||..|.|| .||  ||.||||.||    |||..
+1793293-18088   7927 ------GCTCC----TGGGAACCTC-ATC--CCGCCCTCTT----CCTAC   7959
+
+52158588-5220  26280 CCCTTTCAACCCCCTAACACTAGATAAGAGAGAGAGAA------GAAAAA  26323
+                     .|....|......||.|..||.|..|.|.|...|.|.|      |.||..
+1793293-18088   7960 ACAGGACGGGAAACTGAGGCTGGGGATGGGCAGGGGCAGCTCTGGGAAGG   8009
+
+52158588-5220  26324 GGATAGAGAGGAAGGGAAAGAGATCCCAGAATAAAGTCGGG-CTTGGAAA  26372
+                     ||.|.|....||.|||.....|.||||       |.||||| |.|||   
+1793293-18088   8010 GGGTTGTTCAGAGGGGCCTCTGCTCCC-------ACTCGGGTCATGG---   8049
+
+52158588-5220  26373 GTTGGAGTGATGTTATTGTTAGACTACTTCCTGCGGATTCGAGGCTCCTC  26422
+                                              .||||...||.| .|..||| ||.|
+1793293-18088   8050 -------------------------CCTTCACACGCA-CCTCGGC-CCGC   8072
+
+52158588-5220  26423 AGGGCCCTAGCATTTATTTATCCT--CT-GAAACTTCCCAGAATTTCAAA  26469
+                     ||||.||              |||  || ||.||..||| ||.   |..|
+1793293-18088   8073 AGGGGCC--------------CCTTACTGGACACGGCCC-GAG---CGGA   8104
+
+52158588-5220  26470 TGTCACACGATTGCAGAAACTATCTCTAGCTGGCAGAATTGTGCTTCTTC  26519
+                     ||. |||       ||||.||       ||||||.     ||||  |..|
+1793293-18088   8105 TGG-ACA-------AGAAGCT-------GCTGGCC-----GTGC--CGGC   8132
+
+52158588-5220  26520 TGCTATAGCATGAGGCACGTCAG--TCAGCTGCCGAGGACAGTCCCAAGC  26567
+                     .||.|...|        ||||.|  ||.||||||     |||.|.|..||
+1793293-18088   8133 CGCCAACAC--------CGTCCGCTTCCGCTGCC-----CAGCCGCTGGC   8169
+
+52158588-5220  26568 AGCCCCGTGTCCCCCTACCTGGAGCTTAAACGAAGACATACTCAGAATAT  26617
+                     |.||||   .|.||||.|.|                    |||     .|
+1793293-18088   8170 AACCCC---ACTCCCTCCAT--------------------CTC-----CT   8191
+
+52158588-5220  26618 TTCTGTGTTTTTTTTAAAAAGAAACCAAAATTTCAGAATTTTCACTCCAT  26667
+                     ..|||             |||||  |..     |||....||| |.|...
+1793293-18088   8192 GGCTG-------------AAGAA--CGG-----CAGGGAGTTC-CGCGGC   8220
+
+52158588-5220  26668 GGGAGCTGATGCAGAGGCTACGGAG-GGGTGCTGCTTACTGGCTTGCTTC  26716
+                     |.|..|.|.....|||||..|...| |||.||.||....|||||      
+1793293-18088   8221 GAGCACCGCATTGGAGGCATCAAGGTGGGCGCGGCGGGGTGGCT------   8264
+
+52158588-5220  26717 CTCTAGTTTGCTCAGCCTGCTCTCTTATAGAACCCAGTCCAGGGATGGCA  26766
+                               ||..|||||                   .||||       
+1793293-18088   8265 ----------CTGGGCCTG-------------------GCAGG-------   8278
+
+52158588-5220  26767 CCGCCACCCACAGTGG--GCTGGGCCCTCCCCATCAATCACCAATTAAGA  26814
+                             |.|.||||  ||||   |||||.| |||.|||||.       
+1793293-18088   8279 --------CGCGGTGGTTGCTG---CCTCCGC-TCACTCACCC-------   8309
+
+52158588-5220  26815 AAATGCCATATAGCTGAACCTTATAGGGGCACTGCCTGAATTGAGGTACC  26864
+                                                                    .||
+1793293-18088   8310 -----------------------------------------------GCC   8312
+
+52158588-5220  26865 CTCCTCTCGGATAACTCTTGCTTGTGTCGGGTTGACAGGAAGTTAGCCAG  26914
+                     |.|.||.|||        |||...|| |||     ||         .|||
+1793293-18088   8313 CGCGTCCCGG--------TGCAGCTG-CGG-----CA---------TCAG   8339
+
+52158588-5220  26915 CA-CGGTGACTGAGTC-TGAAGATCTAGTGTTGCCGACGGTTCCCTGCCA  26962
+                     || .||.|.||| ||| ||.|.|.|  |||.||||..|||..|.|.||.|
+1793293-18088   8340 CAGTGGAGCCTG-GTCATGGAAAGC--GTGGTGCCCTCGGACCGCGGCAA   8386
+
+52158588-5220  26963 TTGCATCCCCTACACCGTAGCATTGCTTTGTCATAGATCCTGTTTTTACA  27012
+                        |..|.|||.|..|||.|              |||.|..| |||..||
+1793293-18088   8387 ---CTACACCTGCGTCGTGG--------------AGAACAAG-TTTGGCA   8418
+
+52158588-5220  27013 ACCTGGACCTTAGAAGTTATGTTCTTGATGACTGAAAAATGAGAAATGGT  27062
+                     .|.|   ||  .|.||  |.||.|..|                  .|||.
+1793293-18088   8419 GCAT---CC--GGCAG--ACGTACACG------------------CTGGA   8443
+
+52158588-5220  27063 TGGGCATGGTAGTGCAGGCCTTTAATCCCAGCAGTTGGGAGGCAGAGGCA  27112
+                     .|.|| |||  |||..||||           |.|  |||.|||    ||.
+1793293-18088   8444 CGTGC-TGG--GTGAGGGCC-----------CTG--GGGCGGC----GCG   8473
+
+52158588-5220  27113 GGGGAATCTCTGAGTTGAAGGCCAGCCTGGCCTACAGAGTTCCAGGACAA  27162
+                     ||||           ||..|||      |||      |||          
+1793293-18088   8474 GGGG-----------TGGGGGC------GGC------AGT----------   8490
+
+52158588-5220  27163 CCAGGGCTGTTACATAGAGAAACCCTTTCTCAGAGAGAGGGGACTTGGGG  27212
+                         |||.||                         .|.||     ||.||
+1793293-18088   8491 ----GGCGGT-------------------------GGTGG-----TGAGG   8506
+
+52158588-5220  27213 GTAAGAAAATAAGGGGATGAGAGATGAACGGAGGGATAGTCTGGGCCTGG  27262
+                     |          |||||.||.....|||.||      |..|||  |||   
+1793293-18088   8507 G----------AGGGGGTGGCCCCTGAGCG------TCATCT--GCC---   8535
+
+52158588-5220  27263 GTTGGTTTGAAATTGTCCTTGGAGCACACGTTGTTGGCTGACGTTCCATT  27312
+                                    .||...||||.|.|        |  .||..||.  
+1793293-18088   8536 ---------------CCCACAGAGCGCTC--------C--CCGCACCG--   8558
+
+52158588-5220  27313 TCACGACC-ACTGGAGGTCACTGCAG--CTACAAGACAAATGCTGGTCTG  27359
+                     .|.|..|| .|.||.||. .||||.|  |.||.||||.   ||.|..|||
+1793293-18088   8559 GCCCATCCTGCAGGCGGG-GCTGCCGGCCAACCAGACG---GCGGTGCTG   8604
+
+52158588-5220  27360 TGCAGCCCAGACATCGCCTCCTTCGCAGTCTTTGTCACCTTCTAGGTCTA  27409
+                     .|||||   |||.|          |.|||     ||..||.|.||||   
+1793293-18088   8605 GGCAGC---GACGT----------GGAGT-----TCCACTGCAAGGT---   8633
+
+52158588-5220  27410 GCAGCTATCTCTATAGTTCCAAGATGGTGTGACACAGAAGAGCTGTGTAT  27459
+                                    ||.|        .|||||.|               
+1793293-18088   8634 ---------------GTAC--------AGTGACGC---------------   8645
+
+52158588-5220  27460 GGAAGTCACTTTGAAACTATCCCTTTCTAGCAAACCAGAGCACTTAGGAT  27509
+                                    ||...|||       ..|.||||       .||.|
+1793293-18088   8646 ---------------ACAGCCCC-------ACATCCAG-------TGGCT   8666
+
+52158588-5220  27510 CAAACATATGTGGGT---TAGCACTTTCAGGAGAGGCTCTGACTATTAAG  27556
+                     |||.||..||..|||   |.|||   .||.|...|||.|.|||      |
+1793293-18088   8667 CAAGCACGTGGAGGTGAATGGCA---GCAAGGTGGGCCCGGAC------G   8707
+
+52158588-5220  27557 ACCCACCCTCACTTCCACTGCCCCT-----GCCA-GGTGTGCAGTCTGTG  27600
+                     .|.||||||...||.|..|||.|..     |||| .|||||||  | |||
+1793293-18088   8708 GCACACCCTACGTTACCGTGCTCAAGGTGGGCCACCGTGTGCA--C-GTG   8754
+
+52158588-5220  27601 GGAGCCGGCAGATGGCTGGAGGTCAAGGGGTCATAGCTCGTGGATAAACC  27650
+                     ||.||||.|     |||||               .||||.|||       
+1793293-18088   8755 GGTGCCGCC-----GCTGG---------------GGCTCCTGG-------   8777
+
+52158588-5220  27651 CACTTGTAGTTGCCACTTTTCCCACTGGCGTTTCTGTCTCTGAACACATA  27700
+                             |.||.|      ||||..||                      
+1793293-18088   8778 --------GCTGGC------CCCAAGGG----------------------   8791
+
+52158588-5220  27701 ATCCTTGCCATAATTACAAACGCCTTTGAGGGAACACCAGGAAGCTTGGG  27750
+                          ||||             ||||.|      |..|.||..||.||.|
+1793293-18088   8792 -----TGCC-------------CCTTGG------CTGCGGGTTGCGTGAG   8817
+
+52158588-5220  27751 ATAGTAAAATCTGGGTATTATTGAGTTCTGAAGTCCAAGTTCTGGATCA-  27799
+                            .||.|||||.|..  |.||  ||.||  |   |||.||..|| 
+1793293-18088   8818 -------GATTTGGGTCTAG--GGGT--TGGAG--C---TTCGGGGGCAG   8851
+
+52158588-5220  27800 CAGCTGGTTTGAGGATCTCTACAACCTATTTGGGTTTTGAGAGCTCTTTT  27849
+                     .|||||                        |||     |.|.||      
+1793293-18088   8852 AAGCTG------------------------TGG-----GGGTGC------   8866
+
+52158588-5220  27850 CTTTTTGTTTTGGAAGGGGCC---TCTCATTGTCACCGAAGAACTTCACT  27896
+                         ||||       ||||||   |||||  |.||||      |..||| 
+1793293-18088   8867 ----TTGT-------GGGGCCAAGTCTCA--GCCACC------CCACAC-   8896
+
+52158588-5220  27897 CTCTTAGCTTTGAAACCCAGTTGTGCCAGCCAGGC-TTGGTGATTGACCT  27945
+                     |||...||..|            .|.||||.  || ||||     |||| 
+1793293-18088   8897 CTCAGGGCCAT------------AGGCAGCT--GCGTTGG-----GACC-   8926
+
+52158588-5220  27946 GGAGGTAAGAGTTACAGTTTC--CTGAGGGAGAAAACATGCTATCTTTAC  27993
+                              .|||.|.||.||  |.|||||      |..||   ||   |
+1793293-18088   8927 ---------CGTTTCCGTGTCTGCAGAGGG------CCAGC---CT---C   8955
+
+52158588-5220  27994 TTCCACAAAGGCTTATTTTTTCAGTTTTTATTTCAGCCTTATTTACCTAA  28043
+                     ..||||..|.|                                |.||   
+1793293-18088   8956 AGCCACTGAAG--------------------------------TCCC---   8970
+
+52158588-5220  28044 TTGTTAAAAAATAGGATCCCTTTAAAATTATCAATATTTAAAAACTTTTC  28093
+                         |.|.|...||...|||                   |....|||.| 
+1793293-18088   8971 ----TGACATGGAGCTGCCC-------------------ACGGGCTTCT-   8996
+
+52158588-5220  28094 TGTGTATGGATGTTTTATCTGCATGTATGTCTGTACACCACATGTATGTG  28143
+                     ||.|..|||.||      |.||.||   |.|.|       ||       |
+1793293-18088   8997 TGGGGGTGGGTG------CGGCTTG---GGCAG-------CA-------G   9023
+
+52158588-5220  28144 TGGTGCCTGCAGAGGCCGGAAGAGGGCATCAGATCCCCTGGGACCCAAGT  28193
+                     |||||||  |. |||.|.|  |||||||.         ||.|.||     
+1793293-18088   9024 TGGTGCC--CC-AGGACAG--GAGGGCAG---------TGTGGCC-----   9054
+
+52158588-5220  28194 TACAGACAGCTATAAGCCACCATGTGAGTGTTAGGAATCAAACTTGGGGC  28243
+                           .|||      ||.|||.|              |...||..||||
+1793293-18088   9055 ------AAGC------CCTCCAGG--------------CCCCCTCTGGGC   9078
+
+52158588-5220  28244 CCCTGGAAGATCAGGCAGTGCCCTTAACTACTGAACCATCTCTCTTCTCC  28293
+                     |.|.|       ||||.|||         .||||.             ||
+1793293-18088   9079 CTCAG-------AGGCGGTG---------GCTGAG-------------CC   9099
+
+52158588-5220  28294 CCAAAGTGGTCTTTTCCAGCTAATACTATGTTGACGTTAATGATCTAGGA  28343
+                     ||.|..|||      ||.           .|||.|        |||.|..
+1793293-18088   9100 CCGACCTGG------CCG-----------ATTGGC--------TCTCGTC   9124
+
+52158588-5220  28344 AGCTGGAGAGTTGGACTAACCTTAAAATTTTGCAAAAGAAATGTCCTGAT  28393
+                     |||||                       |.||||...|    |.||    
+1793293-18088   9125 AGCTG-----------------------TGTGCAGTGG----GGCC----   9143
+
+52158588-5220  28394 TGTGCTAGCTAGCCACTGTTGAGTGTTTAGCTACTAGAAGGGAGCTTGAA  28443
+                         |.||||   ||||||.   ||.....||.||     |.|||     
+1793293-18088   9144 ----CGAGCT---CACTGTC---TGCCCGCCTCCT-----GAAGC-----   9173
+
+52158588-5220  28444 ATGATTCCAAGGTCTTTGTTCCCTTTCAGACCACCTCTCTTCCTGTCGTG  28493
+                           ||...| ||||||||||.|   |.        ||.||.|  |||
+1793293-18088   9174 ------CCTTAG-CTTTGTTCCCAT---GG--------CTGCCGG--GTG   9203
+
+52158588-5220  28494 GTGATCTCCAACGTCAGCCAGCTCCCCAGTGGCTGGGCGTCTATCCTGTG  28543
+                     |.|             ||||      |.|.....||.||          |
+1793293-18088   9204 GGG-------------GCCA------CTGAATTGGGACG----------G   9224
+
+52158588-5220  28544 GTACAACATGCTGGTGACAGAGCCCAGGGTATGGAAAACACATGTGCTTT  28593
+                     .|.|.|||  ||     ||.||||||    |.|..|||||..|||.|   
+1793293-18088   9225 TTGCGACA--CT-----CAAAGCCCA----AAGAGAAACATCTGTTC---   9260
+
+52158588-5220  28594 AGTACGGTTAACCAAGGCTGCTGCTGCTGCTGCTGCTGCCTGCTCCCATC  28643
+                     ||...|       |||.|.|                            ||
+1793293-18088   9261 AGAGAG-------AAGACGG----------------------------TC   9275
+
+52158588-5220  28644 ACTAGATGTTGGGGAAGATAGTCCCAAGCCCCGTGGCACCAGTGAGGACC  28693
+                     .||.|..|..|||||.        ||.||.|.| |||....|||..|.||
+1793293-18088   9276 TCTTGGGGGCGGGGAG--------CAGGCGCAG-GGCGAGGGTGGAGTCC   9316
+
+52158588-5220  28694 TTGTGTGATGGGAAAATAGTCACACGTATGTGCCAGGCACGGGAACAGTG  28743
+                                      ||.|.|.       |||..|...||        
+1793293-18088   9317 -----------------AGACCCC-------GCCCAGAGAGG--------   9334
+
+52158588-5220  28744 ATTTTTCCAACTCAGGCAGTCGATGGCTTTATTTTTCTGGCTGTCCTTCT  28793
+                           ||..|||.|||.                      ||||||    
+1793293-18088   9335 ------CCGCCTCGGGCC----------------------CTGTCC----   9352
+
+52158588-5220  28794 GTGTTGCTTGCTTTAAAATGTATGCACTTGTTAAATGGACATGCATTTTC  28843
+                                                       |.||   ||||..|||
+1793293-18088   9353 ----------------------------------AGGG---TGCAGGTTC   9365
+
+52158588-5220  28844 TTAGAGCAGGAAGACACTGCAGACTGGTCCGTTGGTTCTCATTAGGAAAT  28893
+                     |    |||.||       ||        |||..||       ..||.|..
+1793293-18088   9366 T----GCAAGA-------GC--------CCGGGGG-------AGGGCAGG   9389
+
+52158588-5220  28894 ACTGTGTTCTGTAAAGTAGTCAGGAGCTCTGGTTAATCAAATACAGGATC  28943
+                     .|.|||..|.|  |.||.|||.|..|.|||||          .|.||.|.
+1793293-18088   9390 CCAGTGACCAG--AGGTTGTCTGAGGGTCTGG----------GCTGGGTT   9427
+
+52158588-5220  28944 ATTGCTCCCAGGGGAAAATTTAGAGCTCAGCTTCTGTAACCCTTGAGTCG  28993
+                     .||       ||||      |.|||    ||            .|||.||
+1793293-18088   9428 GTT-------GGGG------TGGAG----GC------------AGAGACG   9448
+
+52158588-5220  28994 CAGCATTCTTGGCAGCCCATGTATAGGTAACGTGAGTGTGTTTCTTTTTA  29043
+                     .          |||.||                   ||||          
+1793293-18088   9449 T----------GCATCC-------------------TGTG----------   9459
+
+52158588-5220  29044 AAGGCACCTTATCTAGTCTGTCTGGCGACTTGTTACACCATACCACGTGC  29093
+                                                            |.||||| .||
+1793293-18088   9460 ---------------------------------------AAACCAC-AGC   9469
+
+52158588-5220  29094 CTGAGTGAAGCTTATACTCTCTCCATGATGTCCCCCCCCAATGCCTAGCG  29143
+                     |...||||||    |.|   |||||.|    ||.||.|||. ||    .|
+1793293-18088   9470 CACCGTGAAG----TGC---CTCCACG----CCTCCTCCAG-GC----AG   9503
+
+52158588-5220  29144 CCATTTTAAACAATGAAGTCATAACAAAAATCACAAAAATGTGAAAAACA  29193
+                     ||.||                                             
+1793293-18088   9504 CCTTT---------------------------------------------   9508
+
+52158588-5220  29194 GAGAGGCCAAGATAATTGTGCGCTGCAACAAAAAGCTAGGATGTTGTTTT  29243
+                       |.|||..|          |||.||                        
+1793293-18088   9509 --GGGGCTGA----------CGCAGC------------------------   9522
+
+52158588-5220  29244 GTTCTATCTTAGCCAGGAACATCAATCTGGGGCCACAAACTTGCCTCAAG  29293
+                                 ||||   |.||.|||||            |.||     
+1793293-18088   9523 ------------CCAG---CCTCGATCTG------------TACC-----   9540
+
+52158588-5220  29294 TATTGATTTTGGAGTTATAAATAAATAGACTCACAAGCGTGAACCTGCTA  29343
+                             ||||.|             |.|||.||  |.|   |||||  
+1793293-18088   9541 --------TTGGGG-------------GTCTCCCA--CAT---CCTGC--   9562
+
+52158588-5220  29344 ATTTCTGAGGATTCTCATCCCCGGCTGTGACTGCCTGTGTGTCACAGAAA  29393
+                                  |||.|.|||||| |.|.||||                
+1793293-18088   9563 -------------CTCGTGCCCGGC-GGGGCTGC----------------   9582
+
+52158588-5220  29394 CCAGCAGTGAGCTCTGGGGCAGGCTGTGTCTGTGGCAGGTGGCTCCTTTG  29443
+                                |||.|||||     |||.|||.|.|.|||  |||  |||
+1793293-18088   9583 -----------CTCGGGGGC-----GTGCCTGAGCCGGGT--CTC--TTG   9612
+
+52158588-5220  29444 TAACTCCAGCCTCTGGGTGTTTTCTCTGCAGAATCTCTCCTTCTTCCTGA  29493
+                     |..|..|||.| ||||     .||..|| |||.|.|           .||
+1793293-18088   9613 TCCCCGCAGTC-CTGG-----ATCAGTG-AGAGTGT-----------GGA   9644
+
+52158588-5220  29494 ACCCCCCGTGCGCGTGGTGGTCCCAGCTCTCAGAGGTGTTGAGTTGGCAG  29543
+                     ..||..|||||||        |.|.||   |             ||||  
+1793293-18088   9645 GGCCGACGTGCGC--------CTCCGC---C-------------TGGC--   9668
+
+52158588-5220  29544 TTTTCATCAGTCACCAAGAGAGGTCTGAACGCAGACCAGCTGAGCATGCT  29593
+                                  |.|.|.   |||.||  ||.|..|.|           
+1793293-18088   9669 -------------CAATGT---GTCGGA--GCGGGACGG-----------   9689
+
+52158588-5220  29594 GGGAGAGAAGCTGCTGGGTATGGTTGGACACGCACCCACAAGTC-AGCCT  29642
+                     |||.|||.|                          ||.| .||| |||| 
+1793293-18088   9690 GGGCGAGTA--------------------------CCTC-TGTCGAGCC-   9711
+
+52158588-5220  29643 TCTCCTTCAGTCATTCCTTATTCTGATGCTTAGAGGTACAAGAGTGCTAA  29692
+                                   .||...|||..|.||.|.|    .|.|||..||   
+1793293-18088   9712 --------------ACCAATTTCATAGGCGTGG----CCGAGAAGGC---   9740
+
+52158588-5220  29693 AAAAAATCAGTTGGTTTTTAACTACAGCTGGTTGTAGCCAAGTGAGATCA  29742
+                            |..|||             ||||     |||       |.|||
+1793293-18088   9741 -------CTTTTG-------------GCTG-----AGC-------GTTCA   9758
+
+52158588-5220  29743 AGGCTTTGAAAACACCATTGAGTCCTGGTAAAGGAACAATGACCCTTGTT  29792
+                     .||        .|.||   |||  |.|||||.|  ||..||.|||.||  
+1793293-18088   9759 CGG--------GCCCC---GAG--CAGGTAACG--ACTCTGTCCCATG--   9791
+
+52158588-5220  29793 CTCTTATGTCTGAGCCAGGATCTTAAAGAGAAATTCTTAAATTATGAGCC  29842
+                              |.| ||| ||..|   |||||     ||           ||
+1793293-18088   9792 ---------CCG-GCC-GGCAC---AAGAG-----CT-----------CC   9811
+
+52158588-5220  29843 TGAAATAAGATATTGATGAGAAAGATGAGCTCTTAACGTCCTTAGAAGTA  29892
+                                                |||||                  
+1793293-18088   9812 ---------------------------AGCTC------------------   9816
+
+52158588-5220  29893 AAAGAGGAAAGTCCCTTACATAATAAAGTTCTGGGCTTAAAAACCCCAGG  29942
+                            .|||.||||..|.            |.||      .|||    
+1793293-18088   9817 -------CAAGGCCCTGGCC------------GCGC------GCCC----   9837
+
+52158588-5220  29943 ATCTTGTGCTGGCTGGGCCCTTGTTGCAGGAGGCAGAGCCACAGTTTTGT  29992
+                           |||..||    |||     ||   |.||..||||          
+1793293-18088   9838 ------TGCACGC----CCC-----GC---ACGCCCAGCC----------   9859
+
+52158588-5220  29993 CTGATCAGGCATCTGGCCCGTGGCAGACAGTTCTCTCTCAGTGGCTAATG  30042
+                     |||.||  ||..|.|.|||  |||...| |.|| |.|||.| |||.... 
+1793293-18088   9860 CTGCTC--GCTCCCGCCCC--GGCTCGC-GCTC-CACTCGG-GGCCGCC-   9901
+
+52158588-5220  30043 TCAG-AAGGCTTATTCATCTTCTACAATGAAAAGTCAAAGCCTCCCTTAT  30091
+                     ||.| ||||||..  ||.||.|                |||||||     
+1793293-18088   9902 TCGGCAAGGCTGG--CAGCTCC----------------AGCCTCC-----   9928
+
+52158588-5220  30092 CACCGACAACCTGCCAATGAACCGGATATCTGAAGCATGTCTTTAAAATT  30141
+                       .||...||| ||       |||                          
+1793293-18088   9929 --ACGGTGACC-GC-------CCG--------------------------   9942
+
+52158588-5220  30142 CCATCAATACCGTTGTCCAGGTTTGCGGTCTGTGTAGCAGGGTGATGCAG  30191
+                      |.||.|..||..||.||     |||                    ||.|
+1793293-18088   9943 -CTTCGAGCCCTGTGGCC-----TGC--------------------GCCG   9966
+
+52158588-5220  30192 ACGGTAGTCGAAGTGGGTCTTTCTTAACTGAATGTCCCTGGAAGGGTCTT  30241
+                     ||                |.|||    |.|.|.|  ||||       |..
+1793293-18088   9967 AC----------------CCTTC----CCGCACG--CCTG-------CGA   9987
+
+52158588-5220  30242 CACTCACTTGTGCACATTAACAAGGGTCTCAGACCTTGTTCTGTATTCCA  30291
+                     |.|.|||..|            |||..|.|.|..|            |||
+1793293-18088   9988 CCCCCACAGG------------AGGTGCCCGGTGC------------CCA  10013
+
+52158588-5220  30292 CATTTGGTGAGATACAAGGATTTTTTTTTCCCTGCTTGTTGTAGCGTATC  30341
+                     |             |..|            ||.|||  ..||..||  ||
+1793293-18088  10014 C-------------CGGG------------CCGGCT--CCGTGCCG--TC  10034
+
+52158588-5220  30342 AGTGGTTTCCCTTAAACAAAGTAGTGGACTTAACACAGCTCAGACCACAT  30391
+                     .|||....|||                 |||..|.|..|||  .||||..
+1793293-18088  10035 TGTGAGCACCC-----------------CTTTGCGCCTCTC--TCCACCC  10065
+
+52158588-5220  30392 GCTGCATTAATTCATATGGCTAATTATATTTATGGCTTGTATCAGTTTGA  30441
+                      ||||       |...||.||             |||.|..||.|     
+1793293-18088  10066 -CTGC-------CCGCTGCCT-------------GCTCGCTTCCG-----  10089
+
+52158588-5220  30442 ACAACTGTCCAATTTGTGAGAAGGCTGAGGGATATATCTAAGTACAGTGA  30491
+                      ||.|                   |||.|   |.|..||..||.|     
+1793293-18088  10090 -CAGC-------------------CTGTG---TGTCCCTGTGTCC-----  10111
+
+52158588-5220  30492 GCTTATAAAATCCACCGGAGATCTCGGCCTTATTTGGAACTGCACATTTG  30541
+                              ||||.||                     |.||||||     
+1793293-18088  10112 ---------ATCCTCC---------------------ACCTGCAC-----  10126
+
+52158588-5220  30542 TTCTGCAGGGCTTTTGGTGGGGAGGGACTTCATGTAGGCAGAGGAACAGC  30591
+                       |.||..||||                                  |.||
+1793293-18088  10127 --CCGCCCGGCT----------------------------------CTGC  10140
+
+52158588-5220  30592 GGGAAGTGGTGCTGGGTAGAGACAAGGGTGGCTTCTCCACAGAGCCTTCA  30641
+                                                   |||...||.           
+1793293-18088  10141 ------------------------------GCTAACCCG-----------  10149
+
+52158588-5220  30642 GGGAGACAGGGGTCATGCCAAAGTCAGATCAGCCTGGAAGGGCGTGTCCT  30691
+                                  ||||            |.|||||           || 
+1793293-18088  10150 -------------CATG------------CTGCCTG-----------CC-  10162
+
+52158588-5220  30692 GGGGTGGGGTTTATAGAGCTCTGCCTGCTCT-CTGGGAAAG-GAGCTAAG  30739
+                                     .|| ||||| ||||. ||||||.|| |..||   
+1793293-18088  10163 ----------------CGC-CTGCC-GCTCACCTGGGACAGAGGACT---  10191
+
+52158588-5220  30740 AGGCACCAGATGGCTGGCTTGATGTCAGCTTCCTCTGCGCTTTCATAATC  30789
+                        |.|| |.|||..||          ||     ||| ||||        
+1793293-18088  10192 ---CGCC-GGTGGAGGG----------GC-----CTG-GCTT--------  10213
+
+52158588-5220  30790 CGATCTCAGTAATCCTCCATGCATTCCTTCATGCTGTTGGAATCAAACCA  30839
+                     ||..|||||||     ||. |..|.|   ||.||.|..||       ||.
+1793293-18088  10214 CGGGCTCAGTA-----CCG-GTGTAC---CAGGCGGAGGG-------CCC  10247
+
+52158588-5220  30840 ACAGACAGCAGCATGGTGGTGCGCATCTGTCATCTCAGGCTGGCGGAGTC  30889
+                         .||||.||.|||.||||           .| ||.|.||||||.|.|
+1793293-18088  10248 ----TCAGCCGCGTGGCGGTG-----------AC-CAAGTTGGCGGTGGC  10281
+
+52158588-5220  30890 GGAGGCAAGGATGGGAAGCAAGGAGTTTGAGGCCTGACTGAGCTACACGG  30939
+                     .||||....|.| ||..||  ||.||||   .|||..|.|       |||
+1793293-18088  10282 TGAGGAGTTGGT-GGTGGC--GGCGTTT---TCCTTGCAG-------CGG  10318
+
+52158588-5220  30940 GGAGACCCTGCCTATAAATAAAGGGGGTGAAACAAAGCCACCATTCGTAG  30989
+                     ...||.||||||            |.|||       |.|.|..|.||..|
+1793293-18088  10319 CTGGATCCTGCC------------GTGTG-------GACTCTGTGCGGTG  10349
+
+52158588-5220  30990 GTTTTAAACTGCTTGTTGGTCCTTTCAGCCTGTGTAACTAGAGGCCCATT  31039
+                            .|.||..|..|||.||                   |||.|   
+1793293-18088  10350 -------CCCGCAGGGCGGTGCT-------------------GGCGC---  10370
+
+52158588-5220  31040 TCAAGTTAATATACGAGAGAATATCACCTCTGCTGTAGTCACCCTTTGCA  31089
+                     ||                |..||||. ||||||     ||.|.|||||.|
+1793293-18088  10371 TC----------------GCCTATCG-CTCTGC-----TCTCTCTTTGTA  10398
+
+52158588-5220  31090 ATAGATACAAGAGCTCTCAGTCCAACTAGAGCAGCAGATCAATTTCTGTT  31139
+                     ...|  .|..|.|||..||  |||.|                        
+1793293-18088  10399 GACG--GCGGGCGCTAACA--CCACC------------------------  10420
+
+52158588-5220  31140 TGGTAAAAAGGCGATTTTTGTTTGTTTGTTCGTTTTTGTGTTTGTTTCTA  31189
+                         .|.||||.|.                     |.|.|.||.|.||..
+1793293-18088  10421 ----GACAAGGAGC---------------------TAGAGGTTCTCTCCT  10445
+
+52158588-5220  31190 GGCCCTAATGCTGGCCCTGATGGTCTTATTCCATGGACAAGGTTTTGTAA  31239
+                     .||.|.|...|  .||.|...||.|    .||..|||         |||.
+1793293-18088  10446 TGCACAACGTC--ACCTTTGAGGAC----GCCGGGGA---------GTAC  10480
+
+52158588-5220  31240 GGTGGGTCCTCCCTGGGTTGTTTGCTTACTCTGGCATGTTCAT---GTGT  31286
+                           .|||.|||||              |.||||..|..||   ||.|
+1793293-18088  10481 ------ACCTGCCTGG--------------CGGGCAATTCTATTGGGTTT  10510
+
+52158588-5220  31287 CCCCCTCACACCCACTAGGACAAGTTGTTTACCTTCCTACAGGGCAGGAG  31336
+                     .|.|.||||.                          ||.|..|||.||.|
+1793293-18088  10511 TCTCATCACT--------------------------CTGCGTGGCTGGTG  10534
+
+52158588-5220  31337 GTTGGTCTGCAAGCAGAGACCGACCGAGACCAGCCGGCAGGAAGCACCTG  31386
+                     ||   .||||   |||..||||.|    ..|.||        .||..|||
+1793293-18088  10535 GT---GCTGC---CAGGTACCGGC----TTCTGC--------TGCTGCTG  10566
+
+52158588-5220  31387 CCTGAGTGATAACACTCTCCCACATCCCTCGCCCCAGCCTCTTAATCAGC  31436
+                     |     ||        |||          |||.|         ..||.|.
+1793293-18088  10567 C-----TG--------CTC----------CGCAC---------TGTCTGG  10584
+
+52158588-5220  31437 AGGGCTCTGGCTAAGGCCGTGGGAACCGTGCACGGAGCAGTTGTGCAGAG  31486
+                     .||.|.||||||.       ||||      |||   ||       ||.||
+1793293-18088  10585 GGGACGCTGGCTC-------GGGA------CAC---GC-------CAAAG  10611
+
+52158588-5220  31487 CTACCCCAGCTCGAGGGCACCTGCACAGGGTGGTGAGACCCTGCACGGTT  31536
+                     ||.||        |||.|    |.||.||       .|.||||.....|.
+1793293-18088  10612 CTGCC--------AGGAC----GGACGGG-------AATCCTGTGACTTA  10642
+
+52158588-5220  31537 CGCCAGCAGGAGCTGAGCTGCTCATGCTGGCTTCTGCTACAGTGAGCACA  31586
+                     ||.|             |..|.|      ||||||       |||||.|.
+1793293-18088  10643 CGGC-------------CGTCCC------GCTTCT-------TGAGCCCT  10666
+
+52158588-5220  31587 CTCTTGTTTTCCAGTCATCTGGGAAGTCACCTTTGCCGGGTGCTGCTCTT  31636
+                     |.|      |||.|.|             |||.||||..|||       |
+1793293-18088  10667 CAC------TCCTGGC-------------CCTGTGCCCAGTG-------T  10690
+
+52158588-5220  31637 GGGAAAGGGAGCCAAGGAGGGAGAAGCTCTAGCAAGTCAGAAAGAGGCAG  31686
+                     |||       |.|||.|..||....||     |..|||         |. 
+1793293-18088  10691 GGG-------GACAAAGTTGGCCTGGC-----CCGGTC---------CT-  10718
+
+52158588-5220  31687 GGGGAGCCAGCCAGGCATTTCCACTCAGGAACGACTGCCCCTCTTGCTTG  31736
+                       ||..||||...|||    ||.|||||      |  ||||||..||   
+1793293-18088  10719 --GGTCCCAGAGGGGC----CCCCTCAG------C--CCCCTCGAGC---  10751
+
+52158588-5220  31737 ATCTGGGGTCTCTTTGGAGGGGCAGGGCAAAGCAGTGCTTTGGTTAACCA  31786
+                                                                    |||
+1793293-18088  10752 -----------------------------------------------CCA  10754
+
+52158588-5220  31787 ATTGTGCATTTGTATACTTGCAGGAAAATATTAATGATAAAAATTTCTCC  31836
+                     .                                           ||| ||
+1793293-18088  10755 C-------------------------------------------TTC-CC  10760
+
+52158588-5220  31837 TTCTGGCCTTGGATTGACACCATCCTAGAGCTCATTAAGAAGCACCTGCT  31886
+                     .|||||         |.|.|||              |||  ||..||.||
+1793293-18088  10761 ATCTGG---------GTCCCCA--------------AAG--GCCTCTCCT  10785
+
+52158588-5220  31887 GTGCCTCTGGAATGATGGGTAAGCGTCCCTGAGCGCTCCGAAGGCTGG-G  31935
+                     |||.||||||..|          | |||| |.||||        |||| |
+1793293-18088  10786 GTGGCTCTGGTGT----------C-TCCC-GGGCGC--------CTGGTG  10815
+
+52158588-5220  31936 ACAGAGTGCCGGCCGGCCTTCAGGATTTGGCAGGGGTTTTGCTCAGAGAT  31985
+                     .|.|.|||      ||.|         ||||.|       ||||.|    
+1793293-18088  10816 GCGGTGTG------GGAC---------TGGCTG-------GCTCTG----  10839
+
+52158588-5220  31986 GCACACTTACCTGGTATAAGGCTCCTTGAAAGGACACCCTCAGGAGATTA  32035
+                               |||      ||||||||       |.|.| ||||      
+1793293-18088  10840 ----------CTG------GGCTCCTT-------CTCTC-CAGG------  10859
+
+52158588-5220  32036 AGCATGTCTTAGGATATCTATATTTAGATCTATCTATTTAAAAGCTAAAT  32085
+                          ||||  ||...||||.|       ||..||       .||...|.
+1793293-18088  10860 -----GTCT--GGCCCTCTAGA-------CTCACT-------GGCGTTAC  10888
+
+52158588-5220  32086 TAAAAACAAAAACCTCTTAGTGTCATTAATGTATTTATTCATTCTCACAA  32135
+                     |.|...|.|.|.||||                               ||.
+1793293-18088  10889 TGACTGCGAGACCCTC-------------------------------CAG  10907
+
+52158588-5220  32136 ACATTGTCAGTATT----TACTGTACTGCCCTAATAAAGAATCAGAAACC  32181
+                     |||..|...||..|    |.|||..|. ||||         ||.|    |
+1793293-18088  10908 ACAAGGCGCGTGCTGAGGTTCTGAGCC-CCCT---------TCCG----C  10943
+
+52158588-5220  32182 ACCAGATGGGGCAGTGCAGATCTTTAACTTCAGCTGAGGCTGAGGCTGAG  32231
+                     .||...|||.||               ||.|.|||    |||.|.|.|.|
+1793293-18088  10944 TCCCAGTGGTGC---------------CTGCGGCT----CTGGGCCAGGG  10974
+
+52158588-5220  32232 GCAGGCTGATCTCTGCTCGTAGCACAGC------AAGCTCCAGGC--AGC  32273
+                     ||      |||..||   |.|||.|.|.      ..|..||||||  .||
+1793293-18088  10975 GC------ATCCATG---GGAGCCCCGTGGGGGGGGGGGCCAGGCCAGGC  11015
+
+52158588-5220  32274 CACGGCTGACAGTGAGACTCAGTCTTTTTTGTTAAAAGGAAGGAAGGAAG  32323
+                     |.|..|         |.|...||||||                   |.||
+1793293-18088  11016 CTCAAC---------GCCCATGTCTTT-------------------GCAG  11037
+
+52158588-5220  32324 GAGAGAAGGAGAGGGAAGGGAAGAGAAGGGAAGAAGGAAGGAGACAGAAG  32373
+                     ..|||.|||||..||                       .||||.|.||.|
+1793293-18088  11038 CCGAGGAGGAGCTGG-----------------------TGGAGGCTGACG  11064
+
+52158588-5220  32374 GAAAGAGAGAAAGAGAAAAGTGTTTAGCTCATTCAGTCCAGGGATCAACT  32423
+                               |.|.|...|||||.||          |.||||.|||..|.
+1793293-18088  11065 ----------AGGCGGGCAGTGTGTA----------TGCAGGCATCCTCA  11094
+
+52158588-5220  32424 GATATCTCCGGGGTTCCTGTCAGTTGACCAGCAGTGATGGTGTCTGAAGC  32473
+                     |    ||.||||||                                  |.
+1793293-18088  11095 G----CTACGGGGT----------------------------------GG  11106
+
+52158588-5220  32474 GCTGTTACCTGAGGCTGCGTCCCCAGTACAAGATGCATAGGCAGACACTG  32523
+                     |||..|.||||    |.|.|||                            
+1793293-18088  11107 GCTTCTTCCTG----TTCATCC----------------------------  11124
+
+52158588-5220  32524 TCATGCGTGGTGTTTAAAGTCAGCAAGTAACAGCAGACGACGACGCATTG  32573
+                            |||||              ||..|.||.|.    |||||..||
+1793293-18088  11125 -------TGGTG--------------GTGGCGGCTGT----GACGCTCTG  11149
+
+52158588-5220  32574 CCTGTTTACCAAGCCACACCCCAGTCGG---TGTTCATCCTGATTCCTAC  32620
+                     || |..|.|..|||| |.|||.||...|   ||..| |||     ||.||
+1793293-18088  11150 CC-GCCTGCGCAGCC-CCCCCAAGAAAGGCCTGGGC-TCC-----CCCAC  11191
+
+52158588-5220  32621 TTAGCACATGTATCTATAAGTGAGATGCTCCCTTTAAGTGCCAGTTAAGC  32670
+                     ...|||||              |||| |||||                  
+1793293-18088  11192 CGTGCACA--------------AGAT-CTCCC------------------  11208
+
+52158588-5220  32671 ATTTTGAAAGCATACATTTTCATAGTATGTTCTCTTGTCAGGCGGCAGCA  32720
+                              ||.|.|                |.|   |||.|||.||   
+1793293-18088  11209 ---------GCTTCC----------------CGC---TCAAGCGACA---  11227
+
+52158588-5220  32721 GGTTTCTTAGACTGTAAGTCAAAATGGAAAATTAAATTCACGAGGGAAAC  32770
+                                                                 ||.|||
+1793293-18088  11228 --------------------------------------------GGTAAC  11233
+
+52158588-5220  32771 ACAAAGCGTCTCCATTCATCTCTTTAATACCCAGGTGCATTATGGGCTTC  32820
+                     |.||||                  ||....||||||.|    ||.|||.|
+1793293-18088  11234 AGAAAG------------------TAGATACCAGGTTC----TGAGCTGC  11261
+
+52158588-5220  32821 ATCAGCAAGGAGCGAGAACGCGCTCTGCTCAAGGACCAGCAGCCAGGGAC  32870
+                                             ||||.|   |.|..||..||.||..|
+1793293-18088  11262 ------------------------CTGCCC---GCCAGGCCTCCTGGAGC  11284
+
+52158588-5220  32871 GTTCCTGCTTAGATTCAGTGAGAGCTCCCGGGAAGGGGCCATCACATTCA  32920
+                        ||..|                |||         ||||..|.|.    
+1793293-18088  11285 ---CCCAC----------------CTC---------GGCCCACGCT----  11302
+
+52158588-5220  32921 CATGGGTGGAACGGTCCCAGAACGGAGGTGGTGAGTGAAGGGTCTCCCTC  32970
+                                 |||||..|         |.||.||||.      |||||
+1793293-18088  11303 ------------GGTCCTGG---------GCTGTGTGAG------CCCTC  11325
+
+52158588-5220  32971 ATGCCGCCCTGCCACACATGTCTGTAATCTGTCGCTGAGGATCAGCCCGT  33020
+                     .       ||||..|             |.|.||    ||.||  |||  
+1793293-18088  11326 T-------CTGCAGC-------------CAGGCG----GGCTC--CCC--  11347
+
+52158588-5220  33021 TGGAATAGCTGTGGAAAGGAAGTAGCATATCCTATAATCACACAGCCTGG  33070
+                                                |.|||  |..||.|.       |
+1793293-18088  11348 ---------------------------TCTCC--TCGTCTCT-------G  11361
+
+52158588-5220  33071 CTCTCCATAGAGACTTAAAGCAGTGTGAACACTGGCGATAGGCTGCCCGG  33120
+                     |||.||||.      ||.|||...|.|.||..|||        .||.| |
+1793293-18088  11362 CTCACCATG------TAGAGCCTAGGGTACTTTGG--------GGCAC-G  11396
+
+52158588-5220  33121 AAACGTGTTGTGGAAATGATGCATTTCAAAGCAAGGCCAAGTTTTTCCTT  33170
+                     ||||  .||.|..|||| .|.|| |||||.||..|...|||         
+1793293-18088  11397 AAAC--ATTCTAAAAAT-CTTCA-TTCAATGCTGGTGGAAG---------  11433
+
+52158588-5220  33171 TCTCTCAGGGTTACGGCCTGCAGATCAAGGATGTGAATCAATCCTGTCTG  33220
+                         ||||   .|||.||                    |   ||..||||
+1793293-18088  11434 ----TCAG---AACGCCC--------------------C---CCCTTCTG  11453
+
+52158588-5220  33221 CTCCCAGTTGTCGGAAAGAATCACATTTCCCACAG-TGTACGACTTCAGA  33269
+                      .|||||              ||| |..|||.|.| |||||         
+1793293-18088  11454 -GCCCAG--------------CAC-TGACCCCCGGCTGTAC---------  11478
+
+52158588-5220  33270 CTCGACTCAGCCTAGAATAAAGT-GCCCGTGTGAGGACAGGCTTTGTGAG  33318
+                     |||.||.|  |||        || ||||..|.|..|.||..|        
+1793293-18088  11479 CTCCACGC--CCT--------GTCGCCCACGCGGCGCCAACC--------  11510
+
+52158588-5220  33319 ATGCATCCCTGCAGGGACGGCTAGAGTGAGGTGCAAGCAGAGGAGCTGTC  33368
+                      |||  ||||||.  |||  |            |||||||.     ||||
+1793293-18088  11511 -TGC--CCCTGCT--GAC--C------------CAAGCAGG-----TGTC  11536
+
+52158588-5220  33369 CCTTCATCTCTGC-CGTATACTAGATTTCTAGTTAACCAAGTGACTAAAG  33417
+                     |||..|...|..| |||                   |||.|.| ||..|.
+1793293-18088  11537 CCTGGAGTCCAACGCGT-------------------CCATGAG-CTCCAA  11566
+
+52158588-5220  33418 CACTCCAAAATCATGGTATTATACAGGTTGAACAGAACAGACGGGAAGAG  33467
+                     |||.||                ||.|||                   |.|
+1793293-18088  11567 CACACC----------------ACTGGT-------------------GCG  11581
+
+52158588-5220  33468 CAATTTAACAAACTAATAGTTGCTTATGGCTTGCTTGGAGAACATAGGGA  33517
+                     ||                 |.||  |.||||        |..|..|||| 
+1793293-18088  11582 CA-----------------TCGC--AAGGCT--------GTCCTCAGGG-  11603
+
+52158588-5220  33518 AAGCTGGGTGTCCTAGGACTTTCTGTTTTCTTTGGATAGATTCAGAAAAG  33567
+                          |.|.|.||.|.| ||..|...|.||           ||.||.   
+1793293-18088  11604 -----GAGGGCCCCACG-CTGGCCAATGTC-----------TCCGAG---  11633
+
+52158588-5220  33568 ATAGTCTTGTGAT-TCTACTGATCTTTTCCAATGAAACAGGAGGTCTGGA  33616
+                          ||.|.|.| .||.|.||.|    ||    |||..||||  || |.
+1793293-18088  11634 -----CTCGAGCTGCCTGCCGACC----CC----AAATGGGAG--CT-GT  11667
+
+52158588-5220  33617 ATCAGGACCTAATGCAGGCAGTGGGCACTGAGGTCTGCCTGCTTTCCTTT  33666
+                     .||.||.|      |.|.|||| ||..||||||   |||.||        
+1793293-18088  11668 CTCGGGCC------CGGTCAGT-GGTGCTGAGG---GCCAGC--------  11699
+
+52158588-5220  33667 TTCCTGGTGGTTCATTTCCCCTGAGGGATGGGGCTGAGAAACTGATCAAG  33716
+                          |.|||          |||..|   ||||||       ||.|...|
+1793293-18088  11700 -----GTTGG----------CTGTAG---GGGGCT-------TGGTGGTG  11724
+
+52158588-5220  33717 GGGGAAAGCACTTTGCAGCCAGGAAAGCTCAAGCAGGGCAGCACCAGCTA  33766
+                     ||||..|      ..||||||      | ||..|||.|  || ||.||| 
+1793293-18088  11725 GGGGTGA------AACAGCCA------C-CAGTCAGAG--GC-CCGGCT-  11757
+
+52158588-5220  33767 CAGGGATTTAGGCAGTAGGATAGTTAGTGGGGAAGAGACGGGTG-GGGGT  33815
+                        ||.|||||      ||...||.|   ||||.|.|.|||.|| .||||
+1793293-18088  11758 ---GGGTTTAG------GGGCCGTCA---GGGATGTGGCGGATGTTGGGT  11795
+
+52158588-5220  33816 GGGGGAGGGGGGGATGGAGAACCCAAGCTCGGAGGAGCAGTGCACACCCA  33865
+                     |.||..|||                 |.||.|.||||  .|||.   ||.
+1793293-18088  11796 GTGGCTGGG-----------------GTTCTGTGGAG--ATGCT---CCT  11823
+
+52158588-5220  33866 GAGGTGGGGATCTGGGCTCCAAACAGGAGCGAACTGAAGCACAGCACA--  33913
+                     |.|..|||..|.|||        ||||..|       .||.|..|.||  
+1793293-18088  11824 GGGACGGGTGTATGG--------CAGGGAC-------TGCCCCTCTCAAG  11858
+
+52158588-5220  33914 -TTCCCTGGAGGGCTGGAGGGAAGAACAGCGCGCAGCATCTTGGTTTCCT  33962
+                      |.||||    |.||||||||           ||||||   .||      
+1793293-18088  11859 GTGCCCT----GTCTGGAGGG-----------GCAGCA---AGG------  11884
+
+52158588-5220  33963 TTCAAGAATTGCTTGTTCTAATAAAACAGTGTTTGTCTATCTTAAAGGAA  34012
+                               ||..|        |..|.|||..||.|..||||       
+1793293-18088  11885 ----------GCGGG--------AGGCTGTGGGTGACACTCTT-------  11909
+
+52158588-5220  34013 AAGCAGAAAGCGAGCCGATCTTTAATGACCTGATCTGTAGCCTGAGCTTA  34062
+                                    ||..|||  |.||.|.|. ||||||...||||.| 
+1793293-18088  11910 ---------------CGTCCTT--ACGAGCAGG-CTGTAGGGGGAGCAT-  11940
+
+52158588-5220  34063 GTTGTGTGTGTGTGTGTGTGTGTGTGTGTGTGTGTGAGAGAGAGAGAGAG  34112
+                                                                       
+1793293-18088  11941 --------------------------------------------------  11940
+
+52158588-5220  34113 AGAGAGAGAGAGAGAGAGAGAGAGAGATTATCTATCTGCAGACAGGCCTT  34162
+                                         .|||.|     ||..|||.||...|   |.
+1793293-18088  11941 --------------------GGAGGG-----CTTCCTGGAGGTGG---TG  11962
+
+52158588-5220  34163 GCTTTGCTTAAGATTGAAAGCTTTTAGAGAAGTTTGGGCTAGAGTTAGCC  34212
+                     |||.||            .||.|               |.||.|.|.|.|
+1793293-18088  11963 GCTCTG------------GGCCT---------------CAAGGGCTGGGC  11985
+
+52158588-5220  34213 CCTGATGGGACATGGATATCCACAAGAATGTTGTTACTAAATAGTGAAGA  34262
+                     |..|.||||                                  |||..||
+1793293-18088  11986 CAGGCTGGG----------------------------------GTGGGGA  12001
+
+52158588-5220  34263 CCGTGTTTGGTTTTCCTCCTTTTAAAGCAGGAGTGTGATGCCTTTAAAAA  34312
+                     |||||.|.||        |  |.|.||..||.|.|| .|||      |.|
+1793293-18088  12002 CCGTGGTGGG--------C--TGAGAGTGGGCGAGT-TTGC------ACA  12034
+
+52158588-5220  34313 AGTATGGCAGGCTCTCTGACTCCCCCTGGGCTGTGTCTGCCTTGCTTTAG  34362
+                     ...||||.   |.|||||.||||            .|||||..|||    
+1793293-18088  12035 CTCATGGT---CCCTCTGCCTCC------------ACTGCCAGGCT----  12065
+
+52158588-5220  34363 TGGTCTCTGGG---GCGCCT--GGGACTCACTGGACCTCACTGGTTTCCT  34407
+                       |.|.|||||   ||.|||  ||||      ||.|..|      |||..
+1793293-18088  12066 --GACCCTGGGCAAGCCCCTTGGGGA------GGGCTGC------TTCGG  12101
+
+52158588-5220  34408 CCTTGTAGAACCTGACTTCCATGCCGTGGAGCCCTACACGAAAAAAGAAC  34457
+                     ||..||.|.          ||||.|| |..|||.|   ||          
+1793293-18088  12102 CCAGGTGGT----------CATGGCG-GAGGCCAT---CG----------  12127
+
+52158588-5220  34458 TTTCAGCTGTTACTTTCCCAGATATTATTCGCAACTACAAAGTCATGGCT  34507
+                                                   |||...||||.|.|..|||.
+1793293-18088  12128 ------------------------------GCATTGACAAGGACCGGGCC  12147
+
+52158588-5220  34508 GCCGAGAACATACCAGAGAATCCCCTGAAGTATCTGTACCCCAATATTGA  34557
+                     |||.||      ||.|    ||.||          |||.||         
+1793293-18088  12148 GCCAAG------CCTG----TCACC----------GTAGCC---------  12168
+
+52158588-5220  34558 CAAAGACCACGCCTTTGGGAAGTATTATTCCAGACCAAAGGAAGGTGAGT  34607
+                                     |.||||    ||.|        .|.|||||||| 
+1793293-18088  12169 ----------------GTGAAG----ATGC--------TGAAAGGTGAG-  12189
+
+52158588-5220  34608 GCCTGAGCGATCTGGGGTGCCTGTGGGGGAGAGTGCAGCAAGGCCCTTCC  34657
+                     |...|.|||..|.|||||||           ||.||||   ||     |.
+1793293-18088  12190 GAGGGGGCGGCCAGGGGTGC-----------AGAGCAG---GG-----CT  12220
+
+52158588-5220  34658 TGGTGCTCCATGGCTCCCAGACAAGTTAATAAACACATTGGTCCTCGCTA  34707
+                     .||.||.||...||..||.|            |||||  ||.||.| |  
+1793293-18088  12221 GGGGGCGCCGCCGCCGCCTG------------ACACA--GGCCCCC-C--  12253
+
+52158588-5220  34708 TGCTGCTATGGGTGGATTGTAGTGGCACA---AATGCCAACTGTAGCATT  34754
+                      |||.|               || |||||   .||||| ||||  .||..
+1793293-18088  12254 -GCTCC---------------GT-GCACAGACGATGCC-ACTG--ACAAG  12283
+
+52158588-5220  34755 ATCAAACTATTGTTCTCTTGAATTAATGAAATGGGCTTTTAAAAACGCAG  34804
+                     ..|   ||.|.|..| ||.|..|  .|||.|||                 
+1793293-18088  12284 GAC---CTGTCGGAC-CTGGTGT--CTGAGATG-----------------  12310
+
+52158588-5220  34805 CATAAACACAATAGAGTTGAAATGTA-TTGATTGGCCTAATGAGGCTATT  34853
+                                  |||.||  |||.| .||||.||               
+1793293-18088  12311 -------------GAGATG--ATGAAGATGATCGG---------------  12330
+
+52158588-5220  34854 AAGAGATAAATAGGCATTTCTGTTTTAGGATATTAGTAAAGTCTGTTTCT  34903
+                       ||.|.|.|.|..|||                                 
+1793293-18088  12331 --GAAACACAAAAACAT---------------------------------  12345
+
+52158588-5220  34904 GGTCTTGTATATTTGTTATTACTTCTTCCATATAAATGGAATAAAGGGTA  34953
+                                          |.||..||       ||            
+1793293-18088  12346 ---------------------CATCAACC-------TG------------  12355
+
+52158588-5220  34954 AGACCCAAGGCTAACTGATTTCTTCTAGCCTGCTTGGGTTAAAATGGAGG  35003
+                          |..|||                ||||||..|      .|.||.||
+1793293-18088  12356 -----CTGGGC----------------GCCTGCACG------CAGGGCGG  12378
+
+52158588-5220  35004 GAACTGAGGTCCAGGATCAGTGAGTGGCCCACTCAGGTAGGCTCAGTTAC  35053
+                     .|..||.|||...||  |.||| || |||..||  ||..|||.|   |.|
+1793293-18088  12379 TAGGTGCGGTAGCGG--CGGTG-GT-GCCGGCT--GGGCGGCCC---TCC  12419
+
+52158588-5220  35054 TTGTGGGAACCTGTTGTTGTTAGTGACTGACTATACGAACAGGAAGCCTC  35103
+                        ||||  ||            ||.|.|.|    ||.....|.||||  
+1793293-18088  12420 ---TGGG--CC------------TGGCAGCC----CGTCTGAGGAGCC--  12446
+
+52158588-5220  35104 TTATGGTACAAGTCTGCCT----CCCAGGTCGTGGTGGGATTACATTTGG  35149
+                             |..|||. ||.    |||.|..||||.|||         |||
+1793293-18088  12447 --------CGTGTCC-CCAGGGCCCCTGTACGTGCTGG---------TGG  12478
+
+52158588-5220  35150 AAAAGTTCAAGTTAGATCCCTCCAGCTTTGCCACAAAGCTAATAGCTTTA  35199
+                        |||.|..|                  ||||                |
+1793293-18088  12479 ---AGTACGCG------------------GCCA----------------A  12491
+
+52158588-5220  35200 TGGAATCCAAAGTCTCGCTCTCGGTACTTTAACCCTGC-AGCGAGGATGC  35248
+                     .||.|.||..           |||.|.|||    |||| .|||.||    
+1793293-18088  12492 GGGTAACCTG-----------CGGGAGTTT----CTGCGGGCGCGG----  12522
+
+52158588-5220  35249 CCATAGACCAGCCCCAGGGCTGTGCATACTCCATCAGCTAGACCAG--AG  35296
+                             |.|||||.||||...|..||||||.||..|   |||.|  ||
+1793293-18088  12523 --------CGGCCCCCGGGCCTGGACTACTCCTTCGAC---ACCTGCAAG  12561
+
+52158588-5220  35297 ACACCTTTGCACACATGG-GCTTCGTTCACCTTGTAGGATTTCAAGCCTT  35345
+                     .|.||        |..|| ||..|  |||||||..||||       |||.
+1793293-18088  12562 CCGCC--------CGAGGAGCAGC--TCACCTTCAAGGA-------CCTG  12594
+
+52158588-5220  35346 GGGAAGAGACTCCTAGCTCTTTCCTGGTGGTTTCTCCATTCCCACTAGGA  35395
+                     |.|       |||| |..|.|.||.|||||          |||    || 
+1793293-18088  12595 GTG-------TCCT-GTGCCTACCAGGTGG----------CCC----GG-  12621
+
+52158588-5220  35396 TTTCAGTTGACTTAAGCAGGCAGGTCAGGACCCCACAGAATTTCAGGACA  35445
+                                   .|||.|.||..|..|.||.|.|||||          
+1793293-18088  12622 --------------GGCATGGAGTACTTGGCCTCCCAGAA----------  12647
+
+52158588-5220  35446 TTCTGTGGGATCATGATCTGTCAAGCAAATCTGAGTTGATCCCTCAGAGT  35495
+                        .|||||                                   |||.|.
+1793293-18088  12648 ---GGTGGG-----------------------------------CAGGGC  12659
+
+52158588-5220  35496 GACTGTTCTGTCCCTGTGTGATTTCTGCTAATGTGAAGTGTACACGGTGT  35545
+                     |.|.|          |||||.           |||.|||...|    ||.
+1793293-18088  12660 GGCAG----------GTGTGG-----------GTGGAGTAGGC----TGG  12684
+
+52158588-5220  35546 GCTTGCTCGTAGCACCAGAACCGATGGAGCTTGACGACCCTAAGCGAACT  35595
+                     ||            ||.|                   ||||.|| ...||
+1793293-18088  12685 GC------------CCTG-------------------CCCTGAG-ATGCT  12702
+
+52158588-5220  35596 GGATACATCAAGACTGAGTTGATTTCTGTGTCTGAAGTGTAAGTGAGCAC  35645
+                     ||...||.|..|                              |.|||   
+1793293-18088  12703 GGGAGCAGCGGG------------------------------GAGAG---  12719
+
+52158588-5220  35646 AGAAGACTGGCTTGTTCAGGACCGCAGGCCAGCCCCGTCCCTGGCTGCGG  35695
+                      |..||..|||   |||||..|.||...||| ||||.||||      |.|
+1793293-18088  12720 -GTGGAGAGGC---TTCAGCCCTGCCTCCCA-CCCCTTCCC------CAG  12758
+
+52158588-5220  35696 TCCATTGATTGCACTGGCTCATGGCTCATGGCTTGCTTTCC-CAATGTAA  35744
+                     |.|||.     |||.||..|.||||        |||   || |||||| .
+1793293-18088  12759 TGCATC-----CACAGGGACCTGGC--------TGC---CCGCAATGT-G  12791
+
+52158588-5220  35745 CTGATGTTGCCACCACAGTTGGACATTCTGGAAAGTTTGTAACTAGTCCT  35794
+                     |||.||     |||.    .||||                |||  ||..|
+1793293-18088  12792 CTGGTG-----ACCG----AGGAC----------------AAC--GTGAT  12814
+
+52158588-5220  35795 GGTG-TCAATGCTTACTGGCATTTTATTGCCATGAGATAAAAAAAAACAA  35843
+                     |..| ||...|..|.|.|||      |.|||..|               .
+1793293-18088  12815 GAAGATCGCAGACTTCGGGC------TGGCCCGG---------------G  12843
+
+52158588-5220  35844 ACAAACAAAAAAAAAAAACAGCAGCAACAACGCACCAGCCAAACTCACAA  35893
+                     ||...|           |||.|..|.||.||                   
+1793293-18088  12844 ACGTGC-----------ACAACCTCGACTAC-------------------  12863
+
+52158588-5220  35894 TAAACAAAAATGAAACAAAGTTGTATGTGAGGACTTCCCAAACTGACACT  35943
+                                  .||||          ||.|||..||            
+1793293-18088  12864 -------------TACAA----------GAAGACGACC------------  12878
+
+52158588-5220  35944 TTGAAAAAAAAAAAAGCATGAATAAAAAAGAAAAACCAAAACTTGATGAG  35993
+                                   |.|.||             |.||....|.||..|.|
+1793293-18088  12879 --------------AACGTG-------------AGCCCGGCCCTGGGGTG  12901
+
+52158588-5220  35994 TGGGAAAGCAGTTCTTTTCAAGCAAAGGCCAAAGTCGGA--ACTGGGGTC  36041
+                     .|||...|..|.||.|           |||  |||.|||  .||||.| |
+1793293-18088  12902 CGGGGGTGGGGGTCAT-----------GCC--AGTAGGACGCCTGGCG-C  12937
+
+52158588-5220  36042 CATTTTCTCCACCTGCTTTGATTCTGTCATTTCATTCCGTAGAAGGTAGA  36091
+                     ||   .|.||.|||.|           |....|..|||            
+1793293-18088  12938 CA---ACACCGCCTTC-----------CCACACCCTCC------------  12961
+
+52158588-5220  36092 AAGTGCTGGAAAAGTCATTGTCAGTTATTTGCTTGCGGCACTGTCTGGGG  36141
+                          |.||                     ||..||.||.|         
+1793293-18088  12962 -----CAGG---------------------GCCGGCTGCCC---------  12976
+
+52158588-5220  36142 GTGAA-TGGATGTAGCCTTCATGTAGAACCCTGTGGAGCAGCCTTATCTG  36190
+                     ||||| ||||||..||||                 |||  |||||.|.||
+1793293-18088  12977 GTGAAGTGGATGGCGCCT-----------------GAG--GCCTTGTTTG  13007
+
+52158588-5220  36191 CATAGACCTCAAGGTAGGGAGGAGGGATCCCCAGACATCTCTCGGTGCTT  36240
+                                                 .||.||.|..|.|||       
+1793293-18088  13008 ----------------------------ACCGAGTCTACACTC-------  13022
+
+52158588-5220  36241 TTCTGTCCAGGGTGAGCCTCGAGAGTCCACCACCTCAGGATGCCACCGCA  36290
+                          .||||.||||    ||.|.                         |
+1793293-18088  13023 -----ACCAGAGTGA----CGTGT-------------------------A  13038
+
+52158588-5220  36291 CATGTTCCCACTGAGGCTCCCCAGGCAGCAGCGACGTCTGGCGAGGGCTG  36340
+                     |.|| |||..|.|||    |.|||||..|||.|..|. .||||.|..|||
+1793293-18088  13039 CGTG-TCCTGCAGAG----CTCAGGCTTCAGGGGTGG-AGGCGGGAACTG  13082
+
+52158588-5220  36341 TCTCTAAAGTCTAGTGTTACCCAAGGGGCCGGGCTGGGAACATTAACCGT  36390
+                             |.| ||.|     |.|||..||..||||          |.||
+1793293-18088  13083 --------GGC-AGAG-----CCAGGACCCCAGCTG----------CAGT  13108
+
+52158588-5220  36391 CCGTGAG-CTGTACTCTGTGTGAGCT-ATGTTTTATAAAGTGTACGTTTT  36438
+                     ||....| ||||.|.|||   ||||| .||        .||||. |||| 
+1793293-18088  13109 CCCCAGGCCTGTGCCCTG---GAGCTCCTG--------GGTGTG-GTTT-  13145
+
+52158588-5220  36439 TCTTGAAATAAGACTACGAACTGATCGCTCAGTCTCAGATAGAGAAAGTG  36488
+                                  ||||        |.||                     
+1793293-18088  13146 -------------CTAC--------CCCT---------------------  13153
+
+52158588-5220  36489 TCTCGGCTTGCACTGCGGCCTACAGAACTCAGGTGTTGACCCTGTCCTTT  36538
+                               |.|||.||.|..|||  |.|||       |||||.|||.|
+1793293-18088  13154 ----------CCCTGGGGGCAGCAG--CGCAG-------CCCTGGCCTAT  13184
+
+52158588-5220  36539 CCCCTCTCTGTTCCAGCCACCCT----TCTAGACTTCAGACCACA-GACA  36583
+                     .|||   |||.|.|  ||.|||.    |||...||......|.|| ||||
+1793293-18088  13185 TCCC---CTGGTGC--CCGCCCAGGTGTCTGTCCTGGGAGTCTCAGGACA  13229
+
+52158588-5220  36584 ACCTG-CTTCCCATGTCTCCAGAGGAGTTTGATGAGATGTCCCGGATAGT  36632
+                     .|||| |.||.|.| ||.||.|.      .|.||    ||||   .|.|.
+1793293-18088  13230 GCCTGACCTCACCT-TCCCCTGC------AGCTG----GTCC---TTTGG  13265
+
+52158588-5220  36633 GGGCCCCGAATTTGACAGTATGGTGAGTACTATGGCAGGGGTATTTCCAC  36682
+                     ||.||                      |.||    |.|||..||.|.|||
+1793293-18088  13266 GGTCC----------------------TGCT----CTGGGAGATCTTCAC  13289
+
+52158588-5220  36683 -CTTGGGGAAGCCTGAGGCAGGCTGGTACTGCATCGGGCTGCTGT-GAGG  36730
+                      ||.||||...||     |.|  |....|.|||||   |  |||| ||||
+1793293-18088  13290 GCTGGGGGGCTCC-----CCG--TACCCCGGCATC---C--CTGTGGAGG  13327
+
+52158588-5220  36731 AGCTCAGAGAAGGCCTTTATTTATATTTTGTTTTATTTTACTTTTTAAAA  36780
+                     |||||                                 |.|         
+1793293-18088  13328 AGCTC---------------------------------TTC---------  13335
+
+52158588-5220  36781 GAAAAGCTTGTGTGTAAGCTAGCTGTTTCATCAGCAGGATTTTATCCCTA  36830
+                                    ||||| ||||      .||.|||.      ||...
+1793293-18088  13336 ---------------AAGCT-GCTG------AAGGAGGG------CCACC  13357
+
+52158588-5220  36831 GCATTTCAGATTCCTGTCCGCTGTTAGGCAGAAAGCTCACACACTAAGGG  36880
+                     ||||   .||  |..|.||||       || |..||.|||||        
+1793293-18088  13358 GCAT---GGA--CAAGCCCGC-------CA-ACTGCACACAC--------  13386
+
+52158588-5220  36881 GTCGAGGTTGTTTTCAGAGGTAGACATTTTCCCGTGGCTGCTGTGTCTGT  36930
+                     |.|           |.|.|...|.||   |||| ||||  |.   ||. .
+1793293-18088  13387 GAC-----------CTGTGAGTGGCA---TCCC-TGGC--CC---TCC-A  13415
+
+52158588-5220  36931 CTGGGCCCGAGTGAAGGATTGATCTTAGGGAAGGATGGCTGCCTGTCGGT  36980
+                     |||||.||              ||  ||||..||  ||.|.||| .||| 
+1793293-18088  13416 CTGGGTCC--------------TC--AGGGGTGG--GGGTCCCT-CCGG-  13445
+
+52158588-5220  36981 CACATTGGCTACACGAGCGGTGATGAACAGTTCCGACTCTGTCACATCTC  37030
+                           ||||    |.||||.|                            
+1793293-18088  13446 ------GGCT----GGGCGGGG----------------------------  13457
+
+52158588-5220  37031 AGAGCAAACTCATTCTGCCAGCCTCTGAGGCTGTCAAGGACTTGGGCAGA  37080
+                      |||..|       |||.|||||..|.|||||||....||.|..|||.|.
+1793293-18088  13458 -GAGGGA-------CTGGCAGCCCTTCAGGCTGTTCCCGAATAAGGCGGG  13499
+
+52158588-5220  37081 ATGAACGGCTCGGATAGTGACTCACTGTGTCTCCCTGCCTAAATAGAAAT  37130
+                     |.|  ||||..||.|.   |||| |||.| |.|||||||           
+1793293-18088  13500 AAG--CGGCGGGGCTC---ACTC-CTGAG-CGCCCTGCC-----------  13531
+
+52158588-5220  37131 ATGTGTTTGCAAAAGAGAAACATCTCCTTTTGGGAG-ACTGTTTCTCAGC  37179
+                            .||     ||..||||...|.|..||||| .|||       ||
+1793293-18088  13532 -------CGC-----AGGTACATGATCATGCGGGAGTGCTG-------GC  13562
+
+52158588-5220  37180 AGATTCAACAGCAGCGTTTCCCTTTCAGCCTGGGACTCTTCCTCCCACGG  37229
+                     |        .||.|||   |||  ||  ||.|.|.|    ||.||..|..
+1793293-18088  13563 A--------TGCCGCG---CCC--TC--CCAGAGGC----CCACCTTCAA  13593
+
+52158588-5220  37230 ACAGGCTTGTTCAGGT----GACTGCGGTCTTGCTGATGCTGCCTAAATT  37275
+                     .|| |||.||..|||.    |||.|.|..|||.|.| ||..|.|      
+1793293-18088  13594 GCA-GCTGGTGGAGGACCTGGACCGTGTCCTTACCG-TGACGTC------  13635
+
+52158588-5220  37276 TAAGCTCTTTTCCACATGAATTCAATC-CAGTTCACCTTTCAAAGCTTGC  37324
+                         |.|    |.||.|||.|.|...| |.|   .|||.......|..||
+1793293-18088  13636 ----CAC----CGACGTGAGTGCTGGCTCTG---GCCTGGTGCCACCCGC  13674
+
+52158588-5220  37325 CTAATGCTTTCGAAAAGAACTCCCTTAGCTATCGCAGGCCTTTCTTCATC  37374
+                     || ||||          ..|||||...||..||.|.||||.|        
+1793293-18088  13675 CT-ATGC----------CCCTCCCCCTGCCGTCCCCGGCCAT--------  13705
+
+52158588-5220  37375 ACCAGGTGCCCTGTGCATAGCACAAACGTGTTCAGGAATGAGAGGGAAGG  37424
+                      ||   |||||         |.||               |||.|      
+1793293-18088  13706 -CC---TGCCC---------CCCA---------------GAGTG------  13721
+
+52158588-5220  37425 TCAGAGGAGGGGCCGGGAGAGAGGCTTGGGAGCGGGTGGGTAAAGCTTCA  37474
+                      |.||||.|                 |||| |||||.        |||  
+1793293-18088  13722 -CTGAGGTG-----------------TGGG-GCGGGC--------CTT--  13742
+
+52158588-5220  37475 TGCGTACATGTTCATGTGCTGGGGCA-TGCTAGGGTGTAACCTCAGTGAT  37523
+                                       |||||||| .||..|||      |.|||.|.|
+1793293-18088  13743 ------------------CTGGGGCACAGCCTGGG------CACAGAGGT  13768
+
+52158588-5220  37524 GGGTGTTTTTC-CCGTGTGACTTTGTGTTCTTCACCTCACCAAGCACACT  37572
+                     ||.||   |.| ..|.|.|.||..|||                ||||   
+1793293-18088  13769 GGCTG---TGCGAAGAGGGGCTCGGTG----------------GCAC---  13796
+
+52158588-5220  37573 AAAACTCTTAGAAAACACCTTCTCATAGCTTTCGGACTCTTGAGCCTTGC  37622
+                       |.|.||       ||||             |.|.|||     ||  ||
+1793293-18088  13797 --AGCGCT-------CACC-------------CCGCCTC-----CC--GC  13817
+
+52158588-5220  37623 TAGTGTGATCACGGAATAGCTCTTTTCTTGATAAAATAAGGCTCTGGTCC  37672
+                     .||                                        |.||   
+1793293-18088  13818 CAG----------------------------------------CAGG---  13824
+
+52158588-5220  37673 ATGGAACCTAGCACCCTGTTATTTCTGTGAAAAAAAAATTTGTCTCCTAT  37722
+                       .|.||||.| |||                         ||||      
+1793293-18088  13825 --AGTACCTGG-ACC-------------------------TGTC------  13840
+
+52158588-5220  37723 GAAAATGGAGTAATGGCAAAGCCTGATTCAGAAAATGTAAAATAGATCGA  37772
+                                   |||   ||||                     .||||
+1793293-18088  13841 --------------GGC---GCCT---------------------TTCGA  13852
+
+52158588-5220  37773 AGGGTCCTGAACACAGGGTGAGCTTTTACAATCCTTGCTCAGAAAGTCAC  37822
+                     ...||.||   |.|.|||||                              
+1793293-18088  13853 GCAGTACT---CCCCGGGTG------------------------------  13869
+
+52158588-5220  37823 CTCGCCATCGCCACCATTGATAGGTCATGCCTGTCAAGCTTCTCCCATGC  37872
+                        ||||. |.||||                            |||| ||
+1793293-18088  13870 ---GCCAG-GACACC----------------------------CCCA-GC  13886
+
+52158588-5220  37873 ACCAGGCAGAATCTATTTGCATCTGTTAAGGTGAGGAGCCTGTGACTGGA  37922
+                     .||||       ||     |.||          |||.|.|   ||||   
+1793293-18088  13887 TCCAG-------CT-----CCTC----------AGGGGAC---GACT---  13908
+
+52158588-5220  37923 ACTTGGCGTG-TGGCATTCTAACTGTCATCACCATTGTTGTTTGTGACCA  37971
+                      |    |||| |.||...|.|.||| |..|.||.           |.|| 
+1793293-18088  13909 -C----CGTGTTTGCCCACGACCTG-CTGCCCCC-----------GGCC-  13940
+
+52158588-5220  37972 GAGAACTAAGCTGTTAGTTCCTCCGTTTGTGCAAAGAGCGCTGCTTTCAG  38021
+                                        ||.||    ..|||..|.|.||     ||  
+1793293-18088  13941 -------------------CCACC----CAGCAGTGGGGGC-----TC--  13960
+
+52158588-5220  38022 TATGCTGGAAGGTGATATCATGGGGCCTTTGACACCCTCAAACAAATTCC  38071
+                        ||  |.|.||||      .|||||..||...|||   |||||.    
+1793293-18088  13961 ---GC--GGACGTGA------AGGGCCACTGGTCCCC---AACAAT----  13992
+
+52158588-5220  38072 AGGAAACGGGTTTGTAGTCTTTGG--ACACCCCCTGTAGCTATTCTATTC  38119
+                              ||..|..|||..|.|  .|.|.|||||..|||         
+1793293-18088  13993 ---------GTGAGGGGTCCCTAGCAGCCCACCCTGCTGCT---------  14024
+
+52158588-5220  38120 CAGTGGGTTTTTTGTTTAATCTATGGAATAAAGATATACAGATACAATAA  38169
+                                                     |.|..||||         
+1793293-18088  14025 --------------------------------GGTGCACAG---------  14033
+
+52158588-5220  38170 ATTAGCAAATGTCCACTCATC-GCAGTAGTCTC----CAGATGAACCCCC  38214
+                                 ||||||..| |||..||.|||    ||||||.|....|
+1793293-18088  14034 ------------CCACTCCCCGGCATGAGACTCAGTGCAGATGGAGAGAC  14071
+
+52158588-5220  38215 AACAATCTCAGGGGCTCTAGCAGGGGCCCTACTCTTAGACCAGGGAAGAA  38264
+                     |.|.| |.|||.|                    |||.|..|.|.| .|..
+1793293-18088  14072 AGCTA-CACAGAG--------------------CTTTGGTCTGTG-TGTG  14099
+
+52158588-5220  38265 TGAGATGGGCCTGT-CAAGTCACCGT-AACGCCACCACGATGTGCTCTGT  38312
+                     ||.| ||.||.||| ...||....|| ..|.|..||.|| ||||| ||||
+1793293-18088  14100 TGTG-TGTGCGTGTGTGTGTGTGTGTGTGCACATCCGCG-TGTGC-CTGT  14146
+
+52158588-5220  38313 CCTCGAGCTTATTCTTGACTTCTGTCCAACATTTGCTTTTGGAATTATAG  38362
+                     ...||.||         .|.|||..||..||..|||              
+1793293-18088  14147 GTGCGTGC---------GCATCTTGCCTCCAGGTGC--------------  14173
+
+52158588-5220  38363 CATATGAGCTAAGTGAGATGACTCTGTCTGTAATCCAGGCAGTCAGGAGG  38412
+                                  .|||.| ||.|||..||   |||..||.        |
+1793293-18088  14174 -------------AGAGGT-ACCCTGGGTG---TCCCCGCT--------G  14198
+
+52158588-5220  38413 CTGAGACAGGAAGGTCTCCTGGTGGAGGCCACACAGG-GCTACATCCTCT  38461
+                     |||.| ||  |.|||||||||           ||.|| |||.||      
+1793293-18088  14199 CTGTG-CA--ACGGTCTCCTG-----------ACTGGTGCTGCA------  14228
+
+52158588-5220  38462 GTCACAAAATAAGCAAATGGAATTAGTTGTGTGCTCTGAGGTGGAGGTGG  38511
+                      .|||        |.|..||..||.||       ||||.||       ||
+1793293-18088  14229 -GCAC--------CGAGGGGCCTTTGT-------TCTGGGG-------GG  14255
+
+52158588-5220  38512 CCCATGGGCTAAAAAGGTAGTCAGGGTTGATGGTTGGTCCAGCCTTGGCT  38561
+                     .||..|.||..||              ||...||.||.|||.||  ||  
+1793293-18088  14256 ACCCAGTGCAGAA--------------TGTAAGTGGGCCCACCC--GG--  14287
+
+52158588-5220  38562 CTCAGGCTCCAGAGGAATTGTGCACGAGGGCCAGTATACCAGCGCTGCTC  38611
+                        .||..||            |.||.|||.|||      .|.||||..|
+1793293-18088  14288 ---TGGGACC------------CCCGTGGGGCAG------GGAGCTGGGC  14316
+
+52158588-5220  38612 TCTGTAATATGACTTGGGTATTTATTTAGTCTAACATTTCCATACAAGTC  38661
+                     .|   .|.|||.||..||..         |||..|.||.|...||..|.|
+1793293-18088  14317 CC---GACATGGCTCCGGCC---------TCTGCCTTTGCACCACGGGAC  14354
+
+52158588-5220  38662 C-CTATGGACTGGAATAGACCT-AGCCTACTTTCCTAGAGGCCTTTGCCC  38709
+                     . |     ||.|| .|.|.||| .|||      |||     ||....|||
+1793293-18088  14355 ATC-----ACAGG-GTGGGCCTCGGCC------CCT-----CCCACACCC  14387
+
+52158588-5220  38710 AGAGCTCATATTAACAGATTGTCTACTATTTTTCTTCTGTTGTATTGGAC  38759
+                     |.||||.|            |.||.|.......|..|             
+1793293-18088  14388 AAAGCTGA------------GCCTGCAGGGAAGCCCC-------------  14412
+
+52158588-5220  38760 ATTTTATACATGCTTTCAGACTTTATACTTTGACCAGACCTTATGTGTTA  38809
+                            |||||   ||...|     ||.|||.    .|||...||||||
+1793293-18088  14413 -------ACATG---TCCAGC-----ACCTTGT----GCCTGGGGTGTTA  14443
+
+52158588-5220  38810 --GGCACTGTTAGCCAACTTCGCACATGAAGAACTTGAGGTTAACAGAGG  38857
+                       ||||       ||..||.|.|||                         
+1793293-18088  14444 GTGGCA-------CCGCCTCCCCAC-------------------------  14461
+
+52158588-5220  38858 TTAGTAAGCCAGTCACATAGTTAGAGGATATGGGTGCAGGTTGTGTTCAT  38907
+                                  |.|                    ||||          
+1793293-18088  14462 -------------CTC--------------------CAGG----------  14468
+
+52158588-5220  38908 CTCTCTCTCCTCTTCTC-CCCTGCTTCTACAGTACACCATTTTATAGAAT  38956
+                       ||.|| ||.||||.| ||||||..|| |||             |||.|
+1793293-18088  14469 --CTTTC-CCACTTCCCACCCTGCCCCT-CAG-------------AGACT  14501
+
+52158588-5220  38957 GGTGCCATCGGCCACACTGCAACTGGAGGCAAACCCTTCAACATGCTTTT  39006
+                     |.....| |||..|| |||.|..|||..|     |||| .||   |||||
+1793293-18088  14502 GAAATTA-CGGGTAC-CTGAAGATGGGAG-----CCTT-TAC---CTTTT  14540
+
+52158588-5220  39007 CAGTCTAAAATTGCTTTCCTAAAACTCAAGAGGCTTTCTTTGCAATCTAG  39056
+                     ..| |.|||..|...||||..|||||...|....|||||.|..|.....|
+1793293-18088  14541 ATG-CAAAAGGTTTATTCCGGAAACTAGTGTACATTTCTATAAATAGATG  14589
+
+52158588-5220  39057 CGGTGTGTTTGTGTTGGGGCACTCAAGGGTTACAGAATTCTCCACTGTGG  39106
+                     |.||||.|.|| ||           |....||||.|..|.|..|      
+1793293-18088  14590 CTGTGTATATG-GT-----------ATATATACATATATATATA------  14621
+
+52158588-5220  39107 TGCTGTCCTATACCCTGAAGGACGTTTAGCAGCACCCTGGCCTCTACTCT  39156
+                        |..|.||||   ||.|.||.|...||      .||||    |||   
+1793293-18088  14622 ---TAACATATA---TGGAAGAGGAAAAG------GCTGG----TAC---  14652
+
+52158588-5220  39157 CTAGAATACCTGATGCCAATAGCACACACATGCCCATACCCT----GCAA  39202
+                            |.|.||.|||             |||   .|||||    || |
+1793293-18088  14653 -------AACGGAGGCC-------------TGC---GACCCTGGGGGC-A  14678
+
+52158588-5220  39203 CAGCTGGGTCAGAAAT-GCCTTCAGAGCGGCCCGCCGAGGAAC----AGA  39247
+                     |||  |.|.|||..|| |||  |.|.||||..||..|.||..|    ||.
+1793293-18088  14679 CAG--GAGGCAGGCATGGCC--CTGGGCGGGGCGTGGGGGGGCGTGGAGG  14724
+
+52158588-5220  39248 GCCACCTCTAAGACATCTGGAACTGCACCAACATGGAAGTCAGAGTCAGG  39297
+                     |...||.|  ||.     ||..|| ||||  ||||.||| |||||     
+1793293-18088  14725 GAGGCCCC--AGG-----GGGTCT-CACC--CATGCAAG-CAGAG-----  14758
+
+52158588-5220  39298 GGCAGGCCAGTGTTCTATGAGGAACACTTTGCTGACTCCTGTATCCAGGG  39347
+                         |.||||.|             .||||.|||.|.||          |
+1793293-18088  14759 ----GACCAGGG-------------CCTTTTCTGGCACC----------G  14781
+
+52158588-5220  39348 CAGCTCGCAGACTAGGGAGGGAGCTGAGGCGCTTGACAGTGATTTTACTT  39397
+                     |||.|                           |||       |||||   
+1793293-18088  14782 CAGTT---------------------------TTG-------TTTTA---  14794
+
+52158588-5220  39398 CTGATTTACTGGCCCACGTCTGAAACACTGGCTTTGCTTAGTTTGCTTAC  39447
+                          ..|||||.||. ||.|          .||||...||        |
+1793293-18088  14795 -----AAACTGGACCT-GTAT----------ATTTGTAAAG--------C  14820
+
+52158588-5220  39448 TCAGTGGCCTTTAAGGGAAGGTCATCAATTCCCTCCCCCCGCACCC---C  39494
+                     |       .||||.|||                 ||||..||||.|   .
+1793293-18088  14821 T-------ATTTATGGG-----------------CCCCTGGCACTCTTGT  14846
+
+52158588-5220  39495 CCCCCCACCCCGGCACATGGCTCAGCATTTCCTCACACCGTTTTGAATGA  39544
+                     .|||.||||||..|||.|  | ||||||||                    
+1793293-18088  14847 TCCCACACCCCAACACTT--C-CAGCATTT--------------------  14873
+
+52158588-5220  39545 GCCGAATTGCCGTGCTGCTGTCCCCAGACTTGCATAACAGCAGAAAGCTT  39594
+                                    .||||.||    ||.||       ||.||.||.||
+1793293-18088  14874 ---------------AGCTGGCC----ACATG-------GCGGAGAGTTT  14897
+
+52158588-5220  39595 TATATAGTGTGTCTGGGATGAGTCACAGCATTAATCCAGGAGGCCAGACA  39644
+                     ||..|  |.|..|     |.|.|.|||.|      |.||.|||       
+1793293-18088  14898 TAATT--TTTAAC-----TTATTGACAAC------CGAGAAGG-------  14927
+
+52158588-5220  39645 GTAATAACCCATCAGTTTAGGTGGTGTAAAAGGCCCTGATTAGTTCCAGA  39694
+                       ..||.|||..|..|..|||       .|.||||              |
+1793293-18088  14928 --TTTATCCCGCCGATAGAGG-------GACGGCC--------------A  14954
+
+52158588-5220  39695 AGAATGAGAGGACGCACTAGCCCTTCTGGTTCCATGGTGGTGGTTTGCTG  39744
+                     ||||||.    ||| .|.||||       |.||..||        .||||
+1793293-18088  14955 AGAATGT----ACG-TCCAGCC-------TGCCCCGG--------AGCTG  14984
+
+52158588-5220  39745 TAGGGGGCATTCTCCTGCTCGCTATTCTAGGGAGGGCAATGGTGTGAAAT  39794
+                     .|||     .||.|||.|..||  .|..|.||..|..|||.||..||..|
+1793293-18088  14985 GAGG-----ATCCCCTCCAAGC--CTAAAAGGTTGTTAATAGTTGGAGGT  15027
+
+52158588-5220  39795 GCATGAATCACATGTCCCAAAGTCCGTGTACTGAACCTACCTACATTCTG  39844
+                     |..|            |||..|....|.|..|..   |.|||...|.||.
+1793293-18088  15028 GATT------------CCAGTGAAGATATTTTAT---TTCCTTTGTCCTT  15062
+
+52158588-5220  39845 TCTCTTGCAGATGAGCACAGTATAAACACGAATTTCTCTCT-GGCGA--C  39891
+                     |.||..|...||.||.....||||     |.||||.|||.| ||.||  .
+1793293-18088  15063 TTTCAGGAGAATTAGATTTCTATA-----GGATTTTTCTTTAGGAGATTT  15107
+
+52158588-5220  39892 ATTTTTTTCCCATCTGTGATTCCTTCCTGCTACTGTTCCTTCATATGCAG  39941
+                     |||||||...|.||...|    |...|||.||.| |||.|.||.||.|  
+1793293-18088  15108 ATTTTTTGGACTTCAAAG----CAAGCTGGTATT-TTCATACAAATTC--  15150
+
+52158588-5220  39942 TATTTCTAGGGAAATGCAAGAAAGAAAGAGCATCACATTTGCTGAGCACT  39991
+                        ||||    ||.|||         .|.|..||.||            .
+1793293-18088  15151 ---TTCT----AATTGC---------TGTGTGTCCCA------------G  15172
+
+52158588-5220  39992 GCTGGTAGAAAGTGGATATTTCTCTAATTAGAAACCTGTTACTCTGAAGG  40041
+                     ||.||.|||..|        |.||.|...||...||.|   |.|||.   
+1793293-18088  15173 GCAGGGAGACGG--------TTTCCAGGGAGGGGCCGG---CCCTGT---  15208
+
+52158588-5220  40042 ACTTCATGCATCTTACTGAAGGTGAAATGGAAAGTCACTTAACACAAAAT  40091
+                          .||||..||.|    |.||..||...|.||.||           .
+1793293-18088  15209 -----GTGCAGGTTCC----GATGTTATTAGATGTTAC-----------A  15238
+
+52158588-5220  40092 GGATTTTGTAAACAAAGACCAAGAGATCCACCCAAGCACCAGGACTAGAG  40141
+                     .|.||.|.||.      |.|.|.|.||..              |.|..|.
+1793293-18088  15239 AGTTTATATAT------ATCTATATATAT--------------AATTTAT  15268
+
+52158588-5220  40142 TGCGAGTATTTGGGGCAAGGTGAGGAGAACGGTCACTTTAGTAATGGTCT  40191
+                     |  ||||.|||   .||||.||.             .||.||..|.|.||
+1793293-18088  15269 T--GAGTTTTT---ACAAGATGT-------------ATTTGTTGTAGACT  15300
+
+52158588-5220  40192 GTAATCAGTGCCCAAGTGCTGCACATCACTGGAAAGAGACATACTTATGG  40241
+                      |||                      ||||        .|.|||..|..|
+1793293-18088  15301 -TAA----------------------CACT--------TCTTACGCAATG  15319
+
+52158588-5220  40242 GGGAGGGGCCTTCTTGATGGAGGAATGTTTCTGTCCCGGGAGACATTGGC  40291
+                              |||||.||     |.   |||.|..||.||           
+1793293-18088  15320 ---------CTTCTAGA-----GT---TTTATAGCCTGG-----------  15341
+
+52158588-5220  40292 ACTTC-CCCTCTCCTGG-ATGGCCGGAAGTCTTCCACTGTTTTACATATG  40339
+                     |||.| .|||.||...| .|||..|||||    ||. ||..|| ||..||
+1793293-18088  15342 ACTGCTACCTTTCAAAGCTTGGAGGGAAG----CCG-TGAATT-CAGTTG  15385
+
+52158588-5220  40340 GCACAGTTCAAAGTCAACTTTAGATCCAATGCTCTATCAAACTATAGTGG  40389
+                     |..| ||||                    ||..||.|       ||.|||
+1793293-18088  15386 GTTC-GTTC--------------------TGTACTGT-------TACTGG  15407
+
+52158588-5220  40390 GCATCCTTCATGTGAGTGGGAAGAAAACAACCGTGCTCCTTACTGCAGCT  40439
+                     ||      |.||.|..||||.||....|  ||.||||  |..||||||  
+1793293-18088  15408 GC------CCTGAGTCTGGGCAGCTGTC--CCTTGCT--TGCCTGCAG--  15445
+
+52158588-5220  40440 TCTGCCAAGG--CATGGTTG-CTCTCCTCAGGGACTAGCTTTG-TTGGTG  40485
+                       .||||.||  ||.|||.| ||||.||..|||.|.||   || .|||||
+1793293-18088  15446 --GGCCATGGCTCAGGGTGGTCTCTTCTTGGGGCCCAG---TGCATGGTG  15490
+
+52158588-5220  40486 GCAATGGCTACACAAAACTAAACACCAACAGAAGTAAGACCATTTTCATG  40535
+                     ||                          ||||.||...|||.        
+1793293-18088  15491 GC--------------------------CAGAGGTGTCACCC--------  15506
+
+52158588-5220  40536 AGTACTCCATCAAGTTAAAGGGTTTTTGTTGTCTTTTTGGTCATGGATTG  40585
+                        |..||..||.||    |.|.|||||||..|        |..|....|
+1793293-18088  15507 ---AAACCGGCAGGT----GCGATTTTGTTAAC--------CCAGCGACG  15541
+
+52158588-5220  40586 AATAAAATTGTCTTTGCACATCCATTAAGGGGGCCAGCTTTCTTA  40630
+                     ||         ||||.|..|  .|.|||.|...||.|.||.||.|
+1793293-18088  15542 AA---------CTTTCCGAA--AAATAAAGACACCTGGTTGCTAA  15575
+
+
+#---------------------------------------
+#---------------------------------------
