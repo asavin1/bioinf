@@ -1,0 +1,2287 @@
+########################################
+# Program: water
+# Rundate: Tue 22 Apr 2025 09:35:38
+# Commandline: water
+#    -auto
+#    -stdout
+#    -asequence emboss_water-I20250421-185609-0216-14981357-p1m.asequence
+#    -bsequence emboss_water-I20250421-185609-0216-14981357-p1m.bsequence
+#    -datafile EBLOSUM62
+#    -gapopen 10.0
+#    -gapextend 0.5
+#    -aformat3 pair
+#    -sprotein1
+#    -sprotein2
+# Align_format: pair
+# Report_file: stdout
+########################################
+
+#=======================================
+#
+# Aligned_sequences: 2
+# 1: 33879068-33894412
+# 2: c191014171-190969149
+# Matrix: EBLOSUM62
+# Gap_penalty: 10.0
+# Extend_penalty: 0.5
+#
+# Length: 28092
+# Identity:   10160/28092 (36.2%)
+# Similarity: 10160/28092 (36.2%)
+# Gaps:       13037/28092 (46.4%)
+# Score: 38663.0
+# 
+#
+#=======================================
+
+33879068-3389      2 CGGGG-------CGTGGCGGGAGCACCC---------CCCAACCCCCGCC     35
+                     |.|||       |.|.|.||.||...||         |.|||....|.|.
+c191014171-19  16906 CAGGGAAGGTTTCATAGAGGAAGTGGCCTTGTGCTGACTCAAAAGTCACT  16955
+
+33879068-3389     36 CGGGCTGCTGCGCGCCGGGCA---------GC--CCCAGTTCAGTGCAC-     73
+                     .||..|.||.|.||..|..||         ||  .||||..|||.|||| 
+c191014171-19  16956 AGGATTACTCCACGTAGATCAAGGGGAAGTGCTTTCCAGCACAGAGCACA  17005
+
+33879068-3389     74 -------------------TGTGG----CAGCGG----------GGGTGG     90
+                                        |||||    |.||.|          ||||||
+c191014171-19  17006 GCGTGTGCAAAGGCACACATGTGGGAGACTGCAGGGGCTGTATTGGGTGG  17055
+
+33879068-3389     91 C----------------------------------------------GGG     94
+                     |                                              |||
+c191014171-19  17056 CTGGAGAGTGGGGTGTCCAGGGAGATGGGAAGGAAAGTGGACCCGGTGGG  17105
+
+33879068-3389     95 AGCAGCTGGCGCC-----GTGCG----ATCCACTCCG-GC-------GGG    127
+                     ||..|||||.|||     ||||.    .||..|.||. ||       |||
+c191014171-19  17106 AGATGCTGGAGCCTGATGGTGCAGGTTCTCAGCACCATGCTGGGAATGGG  17155
+
+33879068-3389    128 GGG---ACTCAG------TGGTGGGC---GGCCGGC--------------    151
+                     ||.   ||.|||      ||.||.||   |||.|||              
+c191014171-19  17156 GGATGTACGCAGCTGTACTGCTGAGCCAAGGCAGGCTTTTTTCTTAAGCA  17205
+
+33879068-3389    152 --------------------------------------CACTGG------    157
+                                                           |.||||      
+c191014171-19  17206 GGAGATGTATTTCTCTGATCTTTGATTTAGAAAGGGCACTCTGGCCACAG  17255
+
+33879068-3389    158 ------------------GACAGAGGAGACCC--TGGAA------AAGC-    180
+                                       |||||| .|||||.  |||||      .||| 
+c191014171-19  17256 CCTGGAGGATAGGATAGAGACAGA-AAGACCAGTTGGAATACTATTAGCA  17304
+
+33879068-3389    181 ---------GGGCC----GAGAGAC----GGAGCCGCGCGTGG-------    206
+                              ||.||    |||.|.|    |||||.|..|.|||       
+c191014171-19  17305 TATTAGTGTGGTCCAGGTGAGGGGCAACAGGAGCTGAACTTGGAATCACA  17354
+
+33879068-3389    207 ---------TGAG-----------TTGGGCTCTAGC------------GG    224
+                              ||||           |.||.|..|.||            |.
+c191014171-19  17355 GAGTGAACATGAGGGAAGGTGGCCTGGGACAATTGCTAAGGGTCCAAGGA  17404
+
+33879068-3389    225 CC-----------------------------GCCAGGTT-----------    234
+                     ||                             |||||.||           
+c191014171-19  17405 CCAGAGATCTCACGAGGTTATTTTCTATATTGCCAGTTTTTAAAAAAATC  17454
+
+33879068-3389    235 -------------AG----------------TGTGAA----------GGA    245
+                                  ||                ||||||          |.|
+c191014171-19  17455 ACAATTAATATTCAGCCATTTATTTTTGTTCTGTGAATTGCCTGTAGGTA  17504
+
+33879068-3389    246 CTC-------------GGCTGGCAC------TCGGAG-------------    263
+                     |.|             ||.|.|..|      ||.|||             
+c191014171-19  17505 CCCCAGATTTCTTGTGGGTTAGAGCAGAGCTTCTGAGCCCAGTGCACCCC  17554
+
+33879068-3389    264 --GTTCCGGGCGGG----------CTCAGAAG-CAGTCAGGGGGTGAGAT    300
+                       ||.||..|.|||          |.|..||| |..|||||.||..||..
+c191014171-19  17555 ATGTGCCTTGAGGGATACATACAACCCTAAAGCCCTTCAGGTGGCCAGGG  17604
+
+33879068-3389    301 ATGC---GGGAAGTGGAGCGGTTCGTA--AGTGCGGCGAGGCC---GGGG    342
+                     |.||   |||..||..||.|...|.||  .||.|..|.||.||   ||.|
+c191014171-19  17605 AGGCCCTGGGGTGTTTAGAGCCCCCTAGTGGTCCTCCTAGACCACAGGAG  17654
+
+33879068-3389    343 C-------AAGG---CGCGGGC---------TTCCCGCT-----------    362
+                     |       |.||   |.|..||         |||||.||           
+c191014171-19  17655 CCTCTTGTAGGGACACACATGCCCTCTAGTTTTCCCACTGTGCTGTCATT  17704
+
+33879068-3389    363 ----------------------------------------------CTGG    366
+                                                                   ||||
+c191014171-19  17705 TTCTCTGTGTGCAAGCAGAGTTGGGGACACTGGTTTAGCTTCTCCGCTGG  17754
+
+33879068-3389    367 AA---AGTTTGCGGCTA--CTGC---CTCC-GTCCTG--GGAGGGCT---    402
+                     ||   ||...||.|.||  ||||   |||| .|||||  |.||||||   
+c191014171-19  17755 AACTCAGCCAGCCGTTATCCTGCCTTCTCCTTTCCTGACGAAGGGCTGCT  17804
+
+33879068-3389    403 ----------------CTG----CG-GCAAC--CAGGGAGGGAAGGAGG-    428
+                                     |||    || ||||.  |||..||.||||.||. 
+c191014171-19  17805 GTCCCAGGGCTTTGAACTGGAATCGAGCAAAATCAGAAAGTGAAGTAGAT  17854
+
+33879068-3389    429 ---------AGGGAGGAA-CCGC--------GG----------------C    444
+                              |||||.||| .|.|        ||                |
+c191014171-19  17855 ACTTTTCCCAGGGAAGAAGACACTTTTAAAAGGTTTTCTTCTGTCATTAC  17904
+
+33879068-3389    445 TGGGAG-GAGGCGGCCGGCG---CCAGGCAGCCCGGGAGAGAGCTAGGAG    490
+                     ||..|| ||......|.|||   ||.  |||||.|.|.....|.|||.||
+c191014171-19  17905 TGCAAGTGAATAAAACAGCGTTTCCC--CAGCCTGTGTTGCTGTTAGCAG  17952
+
+33879068-3389    491 TCGGC----GGGCGGGGCGGCCGGGGG---TC---GGG------------    518
+                     |.|.|    .||..||..|.|...|.|   ||   |||            
+c191014171-19  17953 TTGACTGCAAGGAAGGAAGACTAAGAGCAATCACTGGGTTTACTCATTGG  18002
+
+33879068-3389    519 --------GTTCAGGAGCGAGGCCGCGCTTCCCCGCTGCC--CTCC----    554
+                             |||.|||..|.||.|.|.||.|    .|||||  ||||    
+c191014171-19  18003 CTTTTTATGTTTAGGGTCTAGACTGAGCAT----ACTGCCTTCTCCTTTC  18048
+
+33879068-3389    555 -----GGAGTAAC------------TCAGTGCTCTCCTCCTG--------    579
+                          .|.|.|||            ||..|.|||||.|||||        
+c191014171-19  18049 AGTTGAGTGAAACCAGAATCATCATTCCTTCCTCTCTTCCTGTCCCCGGC  18098
+
+33879068-3389    580 -TAGTCTCCACAGAGGCGTTCTC-CCACCGGCGCCGGAGCC---------    618
+                      |.|||||| ||.. .|..|||| ||.||.||.||...|||         
+c191014171-19  18099 CTTGTCTCC-CATC-TCTGTCTCTCCTCCTGCCCCTCTGCCCCACATCTC  18146
+
+33879068-3389    619 -----GGGCGTGGGGGGTTGCAGCATGC--CCGCGCGCGCTGCTTG--AG    659
+                          ||.|.||..|.|...|.||.|||  ..|| |.|.|| ||||  ||
+c191014171-19  18147 TGACTGGTCCTGCCGAGACACTGCTTGCTGATGC-CACTCT-CTTGACAG  18194
+
+33879068-3389    660 GAC--GCCGCGGCCC-------CCGCT--------CTGG-AGC-CATG--    688
+                     .||  ||.|.|||.|       ||.||        |||| ||| |.||  
+c191014171-19  18195 AACCTGCAGTGGCTCTTTGCTGCCTCTTGCATCACCTGGAAGCACCTGCT  18244
+
+33879068-3389    689 -----GTAGTCCCGGCCT---GCGTGCT-AGTGTTCTGCGTGGCGGTCGT    729
+                          ||..||||.||||   ||.|.|| ..||..||||..  |.|||..
+c191014171-19  18245 TTGCTGTTTTCCCTGCCTCTGGCCTCCTCTTTGCCCTGCAC--CAGTCAC  18292
+
+33879068-3389    730 GG-----CTGGAG---CTACTTCCGAGC----CTCCT------GGTC-CA    760
+                     .|     ||.||.   ||.|.|||...|    |||||      ||.| ||
+c191014171-19  18293 AGATCACCTAGAAGCCCTGCCTCCACCCATCTCTCCTCACATAGGCCTCA  18342
+
+33879068-3389    761 GAGCAGCG----AGTTGT--------GCGGAGAGCG------GCAGGTAA    792
+                     |.|..|.|    ||||.|        ||.|..|.|.      |||.||.|
+c191014171-19  18343 GTGGTGTGTAGAAGTTTTTGATGTAGGCTGTAATCATTCAGTGCATGTTA  18392
+
+33879068-3389    793 ---GGACTGACC--------CAAGGTGTTCTTCTGGGGGC-CGGCCCTGA    830
+                        |.|||  ||        |||.|. ||||.|||..||| |...|||..
+c191014171-19  18393 GTTGTACT--CCTCAAATAACAAAGC-TTCTACTGCTGGCACAAGCCTCG  18439
+
+33879068-3389    831 ATCACAGGGGCTTTGGCAATGGTGAACAGCCCTTGGGTGAGGAAGGGGCG    880
+                     .||.|...|..|||  |..|.|.|..|||..|.|||......|.|.|.|.
+c191014171-19  18440 TTCCCTTTGTTTTT--CCCTAGAGGGCAGAGCATGGCATCCTAGGTGACA  18487
+
+33879068-3389    881 --TCGGGTTGATTAGCACCACAGG--GGCTAGTGCGCC--GAGGTTTGTC    924
+                       |.|.||||..||..|||||..|  ||.|.....|||  ..||||||.|
+c191014171-19  18488 TTTTGTGTTGCATATAACCACTTGTTGGTTTCCATGCCATATGGTTTGGC  18537
+
+33879068-3389    925 -----CCCTGCCC----CGCA--------------GATCGC----TGTCA    947
+                          |||..|||    |.||              .|||.|    |||||
+c191014171-19  18538 CGTGTCCCCACCCAAATCTCACCTTGAATTGTAATAATCCCCATGTGTCA  18587
+
+33879068-3389    948 ---GCTCGGAC--GCGGCAGT-------TTATAGGGGTG-----------    974
+                        ||..||.|  |.||...|       |.||.||||||           
+c191014171-19  18588 AGGGCAGGGCCAGGTGGAGATAATTGAATCATGGGGGTGGTTCCCCCAAT  18637
+
+33879068-3389    975 ----------------------------------TCTGTAGGC-------    983
+                                                       ||||..||.       
+c191014171-19  18638 ACTGTTCTCATGGTAGTGAGTAAGTCTCACGAGATCTGATGGTTTTATAA  18687
+
+33879068-3389    984 -TGGGAG----CCACCAC------------------CCAAGTGCGAGGCG   1010
+                      |||||.    ||.||||                  |||.||..||.|.|
+c191014171-19  18688 GTGGGAATTTCCCTCCACAAACTCTCTTGCCTGCCACCATGTAAGATGTG  18737
+
+33879068-3389   1011 TCACGTGGACC---GGTGC------CCGTGACGGTGG----TCC-CAGGC   1046
+                     .|.. ||..||   ..|||      ||.|||..||||    ||| |||.|
+c191014171-19  18738 ACTT-TGCTCCTCATTTGCCTTCTGCCATGATTGTGGGGCCTCCTCAGCC  18786
+
+33879068-3389   1047 A-GAGGGGCGTTGGG-------------------------------AAGG   1064
+                     | |.||..|..||.|                               .||.
+c191014171-19  18787 ATGTGGAACTATGTGTCAATTAAACCTCTTTCCTTTATAAATTCTCCAGT  18836
+
+33879068-3389   1065 CGCGCG---------------AGCT--------GACT----TCCCACGAT   1087
+                     |.||.|               |||.        ||||    |.|||.|||
+c191014171-19  18837 CTCGAGTATGTCTTTATTAGCAGCATGAGAATGGACTAATATACCATGAT  18886
+
+33879068-3389   1088 TCCTATT-------GTTGCTTCTCGAATTTGAGAGGAGGAAAAATGCCTG   1130
+                     |||..||       |.|||||||.||.|.|........||.|.||  |||
+c191014171-19  18887 TCCCTTTAATCCAGGCTGCTTCTGGACTGTTTCTCATAGAGACAT--CTG  18934
+
+33879068-3389   1131 T-TATTGATTCAGCC---GTTCTCC-------CGGA----------ACAG   1159
+                     | |.|||..||..||   ||||.|.       ||||          ..||
+c191014171-19  18935 TGTCTTGTGTCTTCCCAGGTTCACTATAGTTGCGGAGAGTCTGCAGCAAG  18984
+
+33879068-3389   1160 TTCTTCCTCTGCTT---CAGCTAAAGGAA--GG-----------------   1187
+                     |||..|..|.||||   .||.|..|||||  ||                 
+c191014171-19  18985 TTCGGCAGCAGCTTAAAAAGTTGGAGGAATTGGAACAGAAATACACCTAC  19034
+
+33879068-3389   1188 ---CTGGAC-----------------------GTTGCGGGGTGGAT----   1207
+                        |..|||                       |||..|||...|..    
+c191014171-19  19035 GAACATGACCCTATCACAAAAAACAAACAAGTGTTATGGGACCGCACCTT  19084
+
+33879068-3389   1208 -AGTAGTATCC--CAGC-----CAAAG----CTCAG--------------   1231
+                      |||..|.|||  ||||     ||.||    ||||.              
+c191014171-19  19085 CAGTCTTTTCCAGCAGCTCATTCAGAGGTAACTCAAGGGACATTTATTTG  19134
+
+33879068-3389   1232 ---CTTCAG-----GGT---------------------------TTCGCA   1246
+                        ||||.|     |||                           |||..|
+c191014171-19  19135 TACCTTCTGTAATCGGTCTATACAGAGGAACATTTTACCGTTAATTCAGA  19184
+
+33879068-3389   1247 TG----ACAAGG---TGACAG-----------------------------   1260
+                     ||    ||||||   |.|.||                             
+c191014171-19  19185 TGATTTACAAGGGTTTAATAGGTGTTTTTTATATATATATATATATATAT  19234
+
+33879068-3389   1261 ----------------CTTCAGTGCGGCTG---CTCCCCTCTTATCCTG-   1290
+                                     .||...||.|...|   |||.|||.|.|.||.| 
+c191014171-19  19235 ATATATATATTTTTTTTTTTTTTGAGATAGAGTCTCACCTATCACCCAGG  19284
+
+33879068-3389   1291 -TAG---GC---GGCCTGA---GGGGTCGGT------------TCCCAGG   1318
+                      |||   ||   |||.|||   .||.||..|            |||||.|
+c191014171-19  19285 CTAGAGTGCAGTGGCGTGATCTTGGCTCACTGCAACCTCCACCTCCCAAG  19334
+
+33879068-3389   1319 GGCGCGCA--CAGACTGCCCTTCAGGCCGCAC-----GCTGGGAGATGAG   1361
+                     ..|..|||  |...|||||  ||| |||.|.|     |||||  ||..|.
+c191014171-19  19335 TTCAAGCAATCCTCCTGCC--TCA-GCCTCCCAAGTAGCTGG--GACTAC  19379
+
+33879068-3389   1362 GGGCGGTTGTC------CCAGGAT------------------CTTGGCGC   1387
+                     .||||..||.|      ||.||.|                  ||.||...
+c191014171-19  19380 AGGCGCATGCCACCCCACCTGGCTAATTTTTTTTAGTAGAGACTGGGTTT  19429
+
+33879068-3389   1388 CGCCTAGGTAGTCCCGCTGGCCACCAAAGTCCGATGGGACACT--TGA-A   1434
+                     ||||..|.|.|.|..|||||.|.||||. |||   .|.||.|.  ||| .
+c191014171-19  19430 CGCCATGTTGGCCAGGCTGGTCTCCAAC-TCC---TGAACTCAGGTGATC  19475
+
+33879068-3389   1435 TGCCCTCAAACGG-GGCCCGGAG-GCCAAGGATGCGAAAGGGAGCCACGG   1482
+                     ||||||| ..||| ..|||..|| ||...|..|.|....|.|||||||.|
+c191014171-19  19476 TGCCCTC-CTCGGCCTCCCAAAGTGCTGGGATTACAGGCGTGAGCCACTG  19524
+
+33879068-3389   1483 T-CCG---CTC-----------------TG---CGTCC-------CTTGG   1501
+                     | ||.   |||                 ||   |.|||       .||||
+c191014171-19  19525 TGCCTGGCCTCAAATTTTTTAATGACAATGACTCTTCCTGAATTATTTGG  19574
+
+33879068-3389   1502 TTG-CCCGGAGGTGCGACGCGC--GCGGCC--CCCGGCTG----------   1536
+                     ||. .||.|.|||.|..|.|.|  |.||||  |..|||||          
+c191014171-19  19575 TTATACCAGTGGTTCTTCACTCTTGTGGCCAGCTAGGCTGGAAGCTATAG  19624
+
+33879068-3389   1537 ------------------TGCCCGGTGGCAGCGTGGCAAAGCAGAGCAGC   1568
+                                       |.|||..||||.|.||  |...||.|.|...|
+c191014171-19  19625 TAACCTTCCACTCCTCCTTCCCCTTTGGCTGAGT--CTCCGCCGTGACCC  19672
+
+33879068-3389   1569 GGTCTGGCGGGA---------GGCCGCGCGAAGGG----AGGCTTTCG--   1603
+                     ...|..||...|         ..||.|.|.....|    |||||.||.  
+c191014171-19  19673 TAACATGCCTCACCTCCTCCTCTCCCCTCCTCATGTCTCAGGCTCTCAAA  19722
+
+33879068-3389   1604 --CTC------GGTAAGTT-----GTCGCCCCACCCGAGCTGAGGCCC-G   1639
+                       |||      ||....||     |.|.|||||||.|..||....||| |
+c191014171-19  19723 TCCTCCTTTCTGGACTCTTCCCCAGCCTCCCCACCAGTCCTCCTTCCCAG  19772
+
+33879068-3389   1640 AACAGCCGCTCCTTTGTACCTCGGCGGCCACA-AACCGCG---CATTGAT   1685
+                     ..|..||.| |||.|| |||...||.|.|.|| |.|.|.|   ||||   
+c191014171-19  19773 TCCTTCCTC-CCTGTG-ACCAGTGCTGTCCCAGAGCAGAGTTCCATT---  19817
+
+33879068-3389   1686 GGC-GGCGCGGCCTCTCGGGGAGGTGCGAGTG------CGGC-GGGC---   1724
+                       | ||..|..|.||.|..|..|.|.|.||||      |.|| ||||   
+c191014171-19  19818 --CTGGTTCCTCATCACCTGCTGATCCAAGTGAATGCCCAGCTGGGCATT  19865
+
+33879068-3389   1725 ---------------GCAG-CGGGAGGAGGCAGATGGCGGTGTGCCCCTC   1758
+                                    |||| |.|||....||.||  .|..|...|.|.||
+c191014171-19  19866 CACGGCCCCCCTTCTGCAGCCTGGACCTAGCTGA--ACACTCCACGCTTC  19913
+
+33879068-3389   1759 CCGGCGCCCCCGCGCCCCTCTCT---CCAGC--GGC----TGCAGCCTCC   1799
+                     .||.| |.|.|.|||||||.|||   |.|.|  |.|    |||.|..|||
+c191014171-19  19914 ACGTC-CACACACGCCCCTTTCTAGGCAAACTTGACCTCTTGCTGATTCC  19962
+
+33879068-3389   1800 T---GGAACAATGTCATTTTCTTTCTTT-------CTTTCTT--------   1831
+                     |   ||..|.|||.|...|.|||.||||       ||.||.|        
+c191014171-19  19963 TATAGGGGCCATGCCGCATACTTGCTTTTCTGTGGCTCTCCTGAGGATAC  20012
+
+33879068-3389   1832 ----TCTTTCT-------TTTTTTTTATGAA-------TGAAAGTGGG--   1861
+                         ||||.||       ||.||||.|||.|       |.|||.|.|.  
+c191014171-19  20013 TTCCTCTTCCTCAGAGCCTTCTTTTCATGTACCTGCTTTCAAAATTGTAT  20062
+
+33879068-3389   1862 ----CCGGGAACTTGAATGTGCGTGTC-------------------TTTC   1888
+                         |||..|.|||.|...||..|.||                   ||||
+c191014171-19  20063 CATCCCGAAAGCTTCACCTTGTATCTCATCATTTAATCTTCCCAGATTTC  20112
+
+33879068-3389   1889 ---AGCGG--------------CGTG----ACAGAGGC------------   1905
+                        |.|.|              ||||    ||||...|            
+c191014171-19  20113 CCAAACAGATGTTATCTCCCTTCGTGGCCTACAGTCACCCTTCGTTCCTT  20162
+
+33879068-3389   1906 --------------------------------------------------   1905
+                                                                       
+c191014171-19  20163 TCCTACTCTGCCTTTTGTTATATAGTTGTTATGTATTTCTTTATATTTCT  20212
+
+33879068-3389   1906 -------------GGTCGGGAGGTCAGCG------------CGCGCTTTT   1930
+                                  |.||.|||.|.|||.|            |.|.|||||
+c191014171-19  20213 TGAATATCATAAAGTTCTGGAAGGCAGAGACATGCCTTTGTCACCCTTTT  20262
+
+33879068-3389   1931 AGCGCCTGCTAGGAC---------TGCCCTGCTTCCCGGGTGC-CGAATG   1970
+                     . |.||.|| |||||         ||||.||....|.|...|| |....|
+c191014171-19  20263 C-CCCCAGC-AGGACCTAGCGCAGTGCCTTGTGAACAGTAGGCTCTCTAG  20310
+
+33879068-3389   1971 GCCCGC---------------------------------GAGGAGACCAC   1987
+                     .|.|.|                                 ||.|.|..||.
+c191014171-19  20311 ACACACTTAGTAGATAGATAAATGTCACTGAGTGGAAAAGAAGGGTTCAT  20360
+
+33879068-3389   1988 ATTAGCATG-----TGTATTCAGATGAAGATATTAC------------TT   2020
+                     ||| |||.|     |.|.||...|||.|.|..|.||            |.
+c191014171-19  20361 ATT-GCAAGTTTTTTTTTTTTTAATGCAAACTTGACATGATAAAAATGTA  20409
+
+33879068-3389   2021 CTTGC-GTCGGGTGTCAGTG--AGCTCGGGTAGGGGCGGC----------   2057
+                     ||||. .|.|||||..||..  |||| |.||.|..|||||          
+c191014171-19  20410 CTTGATTTTGGGTGGAAGCAATAGCT-GAGTGGCAGCGGCTGCTGATTGC  20458
+
+33879068-3389   2058 -------GGGGCGGAG-CG-------------CACACCC-----------   2075
+                            |||||.||| ||             |.|.|||           
+c191014171-19  20459 GTTCCAGGGGGCAGAGTCGGGGAAGACATTTACTCTCCCAGAACAGCCTA  20508
+
+33879068-3389   2076 TCT-----CTGTGCCTCAG-----------GCAGTGA--CGGTGGCCTC-   2106
+                     |||     ||.|.|.||||           ||||.||  |.| |||..| 
+c191014171-19  20509 TCTCATTCCTTTCCTTCAGTTACCCGTGGTGCAGAGAGTCAG-GGCAGCA  20557
+
+33879068-3389   2107 -CTG-----GCAC----GACCCT-GCTGCGGGAACCGAAGCTGAGCCG-G   2144
+                      |||     |||.    |.||.| ||.||||...|.|...|.|.|.|. |
+c191014171-19  20558 GCTGTAGCAGCAAGGGTGGCCGTGGCAGCGGTGGCAGCTACAGTGACATG  20607
+
+33879068-3389   2145 GCCG--------CCCGG--------------------------GATCGGT   2160
+                     .||.        |||..                          |||.||.
+c191014171-19  20608 TCCAGCATGAATCCCAAATTGATTATTTATTCAAATTACTTCTGATTGGC  20657
+
+33879068-3389   2161 -------GGGATCGCCCGCC---CCTCGCTTCTGC-GTTTG--------A   2191
+                            |||.|.|...|.|   |||| |||||.. |||||        |
+c191014171-19  20658 GACTCTGGGGTTGGAAAGTCTTGCCTC-CTTCTTAGGTTTGCAGATGATA  20706
+
+33879068-3389   2192 GCTTGT-------GAGACA-----------GGTAGGGAATT---------   2214
+                     .|.|.|       |..|||           ||||.|||.||         
+c191014171-19  20707 ACATATACAGAAAGCTACATCAGCACAATTGGTATGGATTTCAAAATAAG  20756
+
+33879068-3389   2215 ---------GATAGGC-------CAAT-AAACTT--AATCCGGTTC----   2241
+                              |.|||.|       |||| ||.|||  |||..||..|    
+c191014171-19  20757 AACTATAGAGTTAGACGGGAAAACAATCAAGCTTCAAATATGGAACACAG  20806
+
+33879068-3389   2242 CTTAACGAGATGGG--CCGGGCTGTAA--------AAATACAAAG-----   2276
+                     |..|||..||..||  .||..|.||.|        .|.||||.||     
+c191014171-19  20807 CAGAACAGGAAAGGTTTCGAACAGTCATCTCCAGTTATTACAGAGGAGCC  20856
+
+33879068-3389   2277 -------ACCTGGTGAAGTTT-----------ACAGAGGTCC--------   2300
+                            .|||.|||..||.|           .|||..||||        
+c191014171-19  20857 AATGGCATCCTAGTGGTGTATGATGTGACAGATCAGGAGTCCTTCAATAA  20906
+
+33879068-3389   2301 ----------GGGCTG-----------GCGCTTTCCC-------------   2316
+                               .|.|||           .|..|.||||             
+c191014171-19  20907 TATTAAACAGTGACTGCAGAAAATAGATCATTATCCCAGTGAAAACGTCA  20956
+
+33879068-3389   2317 -------------TAGGAACA---------------------------TA   2326
+                                  ..||||||                           ||
+c191014171-19  20957 ACAAATTGTTGGTAGGGAACAAGTGTGATCTGACCACAGAGAAAGTAGTA  21006
+
+33879068-3389   2327 AATTAC-CA--AGC--AGGAGCTGGC-----------------------T   2348
+                     .|.||| ||  |||  ||||..|.||                       |
+c191014171-19  21007 GACTACACAACAGCCAAGGAATTTGCTGATTCCCTTGGAATTCTGTTTTT  21056
+
+33879068-3389   2349 GGGGTCAAGGGCT----GTGCGGCGGGGCTAGG-----------------   2377
+                     ||...|.||.|||    .|||..|..|||..||                 
+c191014171-19  21057 GGAAACTAGTGCTAGGAATGCAACAAGGCCCGGCACGGTGGCTCATGCCT  21106
+
+33879068-3389   2378 ----TACC------------GGCC------------TAACCTG-------   2392
+                         |.||            ||||            |.|||||       
+c191014171-19  21107 GTAATCCCAGCACTTTGGGAGGCCGAGGTGGGTGGATCACCTGAGGTCAG  21156
+
+33879068-3389   2393 ----------GCCACC-------CTTGGTGAGG--CAAGCCCTGCT----   2419
+                               ||..||       |.||.|||..  |.|.||||.||    
+c191014171-19  21157 GAGTTCGAGAGCAGCCTGGCCAACATGATGAAACCCCATCCCTACTAAAA  21206
+
+33879068-3389   2420 ------------GGTGTGCTTAGT-GTGGGAGACAGTAA-CCCT-----T   2450
+                                 |....||.|.|| |.|||.|.|.|||| |||.     |
+c191014171-19  21207 ATACAAAAATTAGCCAGGCATGGTGGCGGGCGCCTGTAATCCCAGCTACT  21256
+
+33879068-3389   2451 AGGGGATC-----CAGAAG--TTGACC---CCCAGGC--CGGC--TTGCA   2486
+                     .|||...|     |||.||  |||..|   ||||||.  |||.  |||||
+c191014171-19  21257 TGGGAGGCTGAGGCAGGAGAATTGCTCGAACCCAGGTGGCGGAGGTTGCA  21306
+
+33879068-3389   2487 G-AAGCAGGGCCTTCCACCTTCCTTGTCTCCCCCC---------------   2520
+                     | .|||.|.|..|.|..|.||.|   |||||..||               
+c191014171-19  21307 GTGAGCCGAGATTGCGCCATTGC---TCTCCAGCCTAGGAGACGGAGCAA  21353
+
+33879068-3389   2521 AACCCTACCT------------------TGCTTGCAAGGC----TGGACT   2548
+                     .||.||..||                  .|..|||||.|.    .|.|||
+c191014171-19  21354 GACTCTGTCTCAAAAAAAAAAAAAAGAAAGAATGCAATGAATGTAGAACT  21403
+
+33879068-3389   2549 TTGAGCCCTGCTG--GCCCTC-------------CCAGTGGTTCAT----   2579
+                     .||..||.||.||  |.|..|             |.|.|||.||.|    
+c191014171-19  21404 GTGTTCCATGATGATGGCAGCTGAGATTAAGAAGCTAATGGGTCCTGGAG  21453
+
+33879068-3389   2580 TAAC--CTGG----GCTGA------------------TCTTAG-ACCCTG   2604
+                     .|||  ||||    |||||                  ||..|| ||.|||
+c191014171-19  21454 CAACAGCTGGTGGTGCTGAGAAGTCCAGTGTTAAAATTCAGAGCACTCTG  21503
+
+33879068-3389   2605 ---AAGCTTT--------GGCTCCTATGCTGAGCCTAGAATCC--CCTTG   2641
+                        ||||..|        ||.|||  ||||.|...|.|..|||  ||||.
+c191014171-19  21504 GTCAAGCAGTCAGGTGGAGGTTCC--TGCTAAAATTTGCCTCCATCCTTT  21551
+
+33879068-3389   2642 TC-CTC-----------------CAGGTCTCAGGT-----------TTTA   2662
+                     || |.|                 |.|..|.||.||           .||.
+c191014171-19  21552 TCTCACAGTAATAAATTTGCAATCTGAACCCAAGTGAAGAAACAAAATTG  21601
+
+33879068-3389   2663 CTTG----GGAC--------------CTGGAAC----TCTCCCCCCACCC   2690
+                     |.||    |.||              ||..|||    |||..||..|.||
+c191014171-19  21602 CCTGAATTGTACTGTATGTAGCTGCACTACAACAGATTCTTACCATATCC  21651
+
+33879068-3389   2691 CCT----------TTTGTAGTTGGGC------------------------   2706
+                     .|.          .|||||..|||.|                        
+c191014171-19  21652 ACAGAGGTCAGAGATTGTAAATGGTCAATACTGACTTTTTTTTTTTATTC  21701
+
+33879068-3389   2707 -CTAGA---AGGAAAACTAGTTAC--------------------CCAGGG   2732
+                      ||.||   |.||.|.|||..|.|                    ||...|
+c191014171-19  21702 TCTTGACTCAAGACAGCTAACTTCATTTTCAGAACTGTCTTAAACCTTTG  21751
+
+33879068-3389   2733 TGTGTTAGGGGGT-AGATGATGTATTGGATAGAGGT-GGCCTG----CCC   2776
+                     ||||.|.|....| |.||.|||||||.....||..| .|.|||    |.|
+c191014171-19  21752 TGTGCTGGTTTATAAAATAATGTATTTTCCTGATATCAGACTGTTTTCTC  21801
+
+33879068-3389   2777 --GGTTG---AGAAATTACTGAGCTGTGA---------------------   2800
+                       |||||   ||||..||.|..|.|.|||                     
+c191014171-19  21802 GTGGTTGGTTAGAATATATTTTGTTTTGATGTTTATATTGGTGTGTTTAG  21851
+
+33879068-3389   2801 ---AC----AAAGCCACTTGGGGTTGGGG-CCTGCC------------TC   2830
+                        .|    |.||.|...||..|.||..| .|.|||            .|
+c191014171-19  21852 ATGTCAGGTATAGTCTTCTGAAGATGAAGTTCAGCCATTTTATATCAAAC  21901
+
+33879068-3389   2831 GGCT-----TGGGTC-----CTCTCC------------------------   2846
+                     .||.     .|.|||     ||.|||                        
+c191014171-19  21902 AGCACAAGCAGTGTCTGTCACTTTCCATGCGTAAAGTTTAGTGAGATGTT  21951
+
+33879068-3389   2847 ------TAGAAC-------CTAAGTC-TCCT-------------------   2863
+                           .|||.|       |||..|| ||||                   
+c191014171-19  21952 ATATGTAAGATCTGATTTGCTAGTTCTTCCTTGTAGAGTTATAAATGGAA  22001
+
+33879068-3389   2864 ------CAC---CTG----------------TCCT---------------   2873
+                           |||   |||                |.||               
+c191014171-19  22002 AGATTACACTGTCTGATTAATAGCTTCTTCATACTCTGCATATAATTTGT  22051
+
+33879068-3389   2874 -GCTACAGAG---------------------------------GACTG--   2887
+                      |||.||||.                                 .||||  
+c191014171-19  22052 GGCTGCAGAATATTGTAATTTGTTGCATACTATGTAACAAAACAACTGAA  22101
+
+33879068-3389   2888 -----GT------AATGGCAGGGTTGTTGGGGGGATTAAACCAGATAA--   2924
+                          ||      |||..|....||.||||..|.|.||....|.|.||  
+c191014171-19  22102 GATATGTTTAATAAATATCGTACTTATTGGAAGTAATATTTAAAAAAATG  22151
+
+33879068-3389   2925 TCCCCGGTAAGCCCT----CATTAGCCC---------GCCCAGCCTCTGG   2961
+                     |.|..|||.  ||||    |....|..|         |.||.|..|.|.|
+c191014171-19  22152 TACTTGGTT--CCCTATGGCTAATGTTCAAACAAGAAGTCCTGTATGTTG  22199
+
+33879068-3389   2962 AGTTTT-------------------------CTTT-------CATTCT-T   2978
+                     .|||||                         ||||       ||||.| |
+c191014171-19  22200 GGTTTTTTAAAATTTAAAAACATTACTTGTACTTTGAGTGCACATTTTAT  22249
+
+33879068-3389   2979 CCTTTCT--TGAC------------------------------------T   2990
+                     .|||..|  ||||                                    |
+c191014171-19  22250 TCTTAATTCTGACATGTAAATGAACATAATTAAATACGGGGTTTTTATTT  22299
+
+33879068-3389   2991 TTTATAATAAACTGTGGAAACTGGAATGTCTCAAGGTG-------GGATG   3033
+                     |||||..|..|.|.|.||.||.||   |.||||...||       |..||
+c191014171-19  22300 TTTATTTTGGATTTTTGAGACAGG---GCCTCACTCTGTCATCCAGACTG  22346
+
+33879068-3389   3034 GTGGGGAATGGGGAGGAGGAAGGCAGGCAAGAGAC-------CCTTGG--   3074
+                     |.|.|.|.|||.|. ||..|.|||...|...||.|       |||.||  
+c191014171-19  22347 GAGTGCAGTGGTGT-GATCATGGCTCACTTCAGCCTCAACCTCCTGGGCT  22395
+
+33879068-3389   3075 ---------------CTTCAAGGCCCC-----TTGGGGC-----AGGCAC   3099
+                                    ||||||..|.||     |||||.|     ||.|||
+c191014171-19  22396 CAAGTGATCTTCCCACTTCAACCCTCCAGTAGTTGGGACTAATTAGCCAC  22445
+
+33879068-3389   3100 -CCT----------------------------------------------   3102
+                      |||                                              
+c191014171-19  22446 GCCTGGCTAATTAAAAAAAAAAAAACAAATTGTAAAGATACGGTCTCACT  22495
+
+33879068-3389   3103 ------CCT---------TT---CTCTTGGGTT------ATTTT----CC   3124
+                           |||         ||   |||.||||.|      ||.||    ||
+c191014171-19  22496 ATGTTGCCTGAGCTGGTCTTGAACTCCTGGGCTCAAGCAATCTTCACACC  22545
+
+33879068-3389   3125 TCATACAC--------CTG--------GCCAT--ACCTC----CCACACC   3152
+                     |||..|.|        |||        |.|||  .||.|    ||...||
+c191014171-19  22546 TCAGCCTCTTAAAGTGCTGGGATTACAGACATGGGCCACTGTGCCTAGCC  22595
+
+33879068-3389   3153 AGCTGTG---------TTCACTATCAAAG-----CAGGT-------GTCA   3181
+                     ..|..||         ||||.|.|.|.||     |||.|       ||.|
+c191014171-19  22596 TTCATTGTATGTTTGTTTCAATGTAATAGTTTCACAGATCATTACAGTTA  22645
+
+33879068-3389   3182 CTCAG-ATCTGT---GTCC-----TGGTTTTG------------------   3204
+                     .||.| .|||||   ||||     .|||||||                  
+c191014171-19  22646 TTCTGTTTCTGTTAAGTCCCTATTAGGTTTTGGGATTTCTTTACTAATTA  22695
+
+33879068-3389   3205 ------------------CTCCAA--AGTC---------CAA--------   3217
+                                       .|||||  .|||         |||        
+c191014171-19  22696 GAAAATATCACTTTGTTCATCCAACTTGTCAGAATCTTTCAAATGATTTT  22745
+
+33879068-3389   3218 ----GTCGAG-----------------TTCTTTAGGG-------------   3233
+                         .|||..                 ||||||..||             
+c191014171-19  22746 TTAGATCGTACTCTCTAACCCCCTTTTTTCTTTCAGGAAAATCATTGTGA  22795
+
+33879068-3389   3234 -TGAC-CAACC--------------------TCAGACCAGGGTTGG--AT   3259
+                      ||.| |||||                    ||...||...|.|||  ||
+c191014171-19  22796 TTGCCTCAACCTTAATGGAAATGCTAACTTATCTATCCTTTGCTGGGTAT  22845
+
+33879068-3389   3260 TTGATGCTGGTTTTGTAGTG-------CGCAC-GTA---CGTCTCAACAA   3298
+                     |||..|||.| |||||.|||       .||.| |.|   |..|.||.|..
+c191014171-19  22846 TTGCAGCTCG-TTTGTGGTGGAAAGACAGCCCTGCATGCCAACGCACCCT  22894
+
+33879068-3389   3299 CAGA--AC-CTAGGCT-----------GT-CAGCTC-CT-----------   3321
+                     ||||  .| ||.|.||           || |||.|| ||           
+c191014171-19  22895 CAGAGGCCGCTGGTCTTGAAGACAGGGGTCCAGTTCACTGTGAAGTTGAG  22944
+
+33879068-3389   3322 ----CCAGGCAGTGGATGCAGCCCTTCCTCCAGCTGGGCAGCTG-TGGTC   3366
+                         |.|||.|..|...|||.|||.|.|..||.|||....|..| |.||.
+c191014171-19  22945 GTAACAAGGGAAAGATGGCATCCCATACATCACCTGTCACGTAGTTTGTA  22994
+
+33879068-3389   3367 TCAC-----TCCATT------------------------GTTTGA-----   3382
+                     .|.|     |||.||                        .|||||     
+c191014171-19  22995 CCCCTAGTTTCCTTTTATAAAAACTGTTATATAGGGTGCTTTTGAGGAAA  23044
+
+33879068-3389   3383 ------CTCAGGGGGC---------------------------TTCTG--   3397
+                           .|||||||||                           .||||  
+c191014171-19  23045 TAATTTTTCAGGGGGCACTTTAATATGAACTCTTACTGAGAATATCTGAG  23094
+
+33879068-3389   3398 -------------------CATAG--------------------------   3402
+                                        |||||                          
+c191014171-19  23095 AGTCTTTTATTAATATATTCATAGTAGAAATGTAACTGATATACATATAT  23144
+
+33879068-3389   3403 ----GCACCCCT----------CATTCCTA---------------CAC--   3421
+                         .|||.|||          ||.||.||               |||  
+c191014171-19  23145 GTACACACTCCTGGTTTTTTTCCAATCATAAATGTAATGCGTGTTCACAG  23194
+
+33879068-3389   3422 ------------CCCTTTTACAGA--------------------------   3433
+                                 ||...||.||||                          
+c191014171-19  23195 GAAAACAGAATTCCAAATTGCAGAAATGTGTGTAATAGAGAGTAAAAGTT  23244
+
+33879068-3389   3434 ------------------CTT-----TAGACACTTAACCAGGGCTTTCTG   3460
+                                       |||     |||.|.|.|||||.|.||.||.||
+c191014171-19  23245 CCTGGCTGCCTCACCCCTCTTGGGCATAGGCTCATAACCTGAGCCTTATG  23294
+
+33879068-3389   3461 GACCTTAG-----GTCTGCAAGTTGGGATT-------TGCACTTTGTGCT   3498
+                     .|||..||     ||.||.|.||  |||||       ||.||.||.|.||
+c191014171-19  23295 AACCCCAGAAGCTGTATGAATGT--GGATTTATAACATGTACATTTTTCT  23342
+
+33879068-3389   3499 GTAG--TGGATG--------------------------AAACCGAGACA-   3519
+                     |..|  |||||.                          |..|||.||.| 
+c191014171-19  23343 GATGGATGGATTTATAGCTTTCATCAGTTTCTCAAAGCAGTCCGTGATAT  23392
+
+33879068-3389   3520 ----ATCT-AGGA--------------GGC------TC--TACGCCCAG-   3541
+                         |||| .|||              |||      ||  |.|.||||| 
+c191014171-19  23393 AAATATCTGTGGACCACCACAGTAAATGGCCTAGTGTCTGTCCTCCCAGG  23442
+
+33879068-3389   3542 ----------------CACAACTTGAT-TGGGATACAGTGTCCCTTAGCC   3574
+                                     |||||.|..|| |...||||.|...|.|..| |.
+c191014171-19  23443 ATTTTGTCCATGTCTACACAAATATATATTTCATACGGAAACACACA-CG  23491
+
+33879068-3389   3575 TGCAACAGTGAGCCTACAG-TACC------------TAGG--TCCATGTT   3609
+                     ..|||...||| |.||..| |.||            ||||  |||||||.
+c191014171-19  23492 CACAAACATGA-CATAATGTTTCCTTTTTAAAAAATTAGGATTCCATGTC  23540
+
+33879068-3389   3610 AGTAC--------CATATAG---------------CAATGGGGA------   3630
+                     ...||        |||||||               |||....||      
+c191014171-19  23541 TACACAAATATTTCATATAGAGACACACACACACACAAATATGACATATT  23590
+
+33879068-3389   3631 -------TAGGTGCT----ATGGGATCCA-----TGTGGTAGGGACATTG   3664
+                            ||....||    .|.||.|.||     |||..|...|.|.||.
+c191014171-19  23591 TCTTTTTTAAAAACTCGGAGTAGGCTACATACATTGTTTTGTAGTCTTTC  23640
+
+33879068-3389   3665 TCCTC--------------------TTAAAG--------GGCACAACAGA   3686
+                     |||||                    ||..||        |||...||...
+c191014171-19  23641 TCCTCGATACTAATTGTAGAAGTGTTTCCAGGAATATGTGGCTTTACTTT  23690
+
+33879068-3389   3687 AGTAC------------CAGTGCTT---GCGTGCTGCGTTTG--------   3713
+                     ..|.|            ||.|||||   ||.|.||.|.|.||        
+c191014171-19  23691 CTTCCATTGAATGGCTGCATTGCTTTAAGCATTCTTCTTATGATGAGTAG  23740
+
+33879068-3389   3714 ------GCT---------------CCTTTGTTGAT-----GGGGC-----   3732
+                           |||               ||||..|.|.|     |||.|     
+c191014171-19  23741 CTAGACGCTGAAGAACTGGACTGGCCTTCATAGTTGGCCCGGGTCCTTTT  23790
+
+33879068-3389   3733 -CTAGGGAGTTACTG----------GTG-----CACACCTGGAGGCTGAT   3766
+                      ||.|||.|||.|||          |||     |.|.||.  .|||||.|
+c191014171-19  23791 TCTGGGGTGTTGCTGATTTAAGTCTGTGGTTAACCCTCCC--TGGCTGGT  23838
+
+33879068-3389   3767 -GGT----------------------GTGGGAGTT----------CCTCT   3783
+                      |||                      ||||.|.||          |..||
+c191014171-19  23839 AGGTACAATGTCACACTGAAGCCCTCGTGGAATTTTAGAACTCAGCAGCT  23888
+
+33879068-3389   3784 GACCAGGGCATTG------------CTTCTA-CTG--CCTCAGAA---TA   3815
+                     |....||.||.|.            |.||.| |||  ||.|.|||   ..
+c191014171-19  23889 GGAAGGGACAGTAGAAATCTGATCCCATCCACCTGCTCCACTGAACGGAG  23938
+
+33879068-3389   3816 CAATATTA----------CATATTCTGCATTGTCTCAAGCACTGT-----   3850
+                     ||.....|          |...|||| ||..|||||.|||.|.||     
+c191014171-19  23939 CAGACAGAGCCCCGGGGTCTCCTTCT-CAAAGTCTCCAGCTCAGTGGAGC  23987
+
+33879068-3389   3851 -----------------CCTTCCCT-----TATCC---CTACC------T   3869
+                                      |||.||||     |.|||   |||||      |
+c191014171-19  23988 AGAGGTACACCCTCTCACCTGCCCTCCATCTTTCCATGCTACCCTGGGGT  24037
+
+33879068-3389   3870 GACTC-----AGGTCATAATTTCCTCTAC------GCCC----------T   3898
+                     ||||.     .||.|...||||..|||.|      ||..          |
+c191014171-19  24038 GACTATAGATGGGACGCTATTTTTTCTGCTTATGGGCAATAGTTTTTATT  24087
+
+33879068-3389   3899 GTGACCC--------------TAG-----------AATGGTGGTTGTTGG   3923
+                     ||..|||              |||           |||.|....|..||.
+c191014171-19  24088 GTCTCCCAACAGGACAAAGATTAGATACAAGTTTTAATAGAAAGTAATGT  24137
+
+33879068-3389   3924 TAGATGTTGTTACCCA-------AGGCCCC----CAAAGTCCAGGTG--T   3960
+                     |.|.|.|| |||||||       .||||..    |.||.|...|.||  .
+c191014171-19  24138 TTGCTATT-TTACCCATATAAATTGGCCAAAGGTCGAAATTGTGATGAAA  24186
+
+33879068-3389   3961 CTG-GTTTCGCCTAG----------------------CTC-----CTAAT   3982
+                     ||| .|.|.|.|.||                      |||     ||..|
+c191014171-19  24187 CTGAATATTGGCAAGGTTATAGAGGTAAACAGCTACCCTCATTAACTTTT  24236
+
+33879068-3389   3983 GG-------------ACAAGATGG--------------------------   3993
+                     ||             .||.|..||                          
+c191014171-19  24237 GGTGGCAATGTAAAATCAGGGCGGCATCCTGTCAGAATTAGTGTTACAAT  24286
+
+33879068-3389   3994 -----ATGGGTGGATCAAAGGTTAGCTCTTTGAGCTGACTGA-ACATTTC   4037
+                          .|..|.||.||.|..|.|||...|||...||.||..| |||.||.
+c191014171-19  24287 TTTTCCTAAGCGGTTCCACAGCTAGGAATTTATTCTTACAAATACACTTA  24336
+
+33879068-3389   4038 CC---------------CTCC--AGCCATCTGCTTCT-------------   4057
+                     |.               ||.|  |.|..||.|.||.|             
+c191014171-19  24337 CAAAAATTTAAGTAGATCTACAAAACTGTCAGTTTTTTTGTTGGTAATAC  24386
+
+33879068-3389   4058 CCAA----------GGGTCTGGTTT---------------GGGAGCTGCC   4082
+                     ||.|          |||..|.||||               ||||..||.|
+c191014171-19  24387 CCTAAAACTGGAGGGGGAGTAGTTTATCTAAACGTTAATAGGGAATTGGC  24436
+
+33879068-3389   4083 ATG------------------------------------------TTCTT   4090
+                     ||.                                          ||.||
+c191014171-19  24437 ATAATAAATAAATTGTAACAGATAATTTTTTTTAAGTAATGGCTTTTATT  24486
+
+33879068-3389   4091 TTCCAGTCC---CTCTT-----------------TGGATTCGGTT---AA   4117
+                     ||.|..|||   ||.||                 ||.|||....|   ||
+c191014171-19  24487 TTTCTTTCCAGACTGTTGGTGAAATTGCAAGAGCTGAATTATAATTTGAA  24536
+
+33879068-3389   4118 AG-CAAATACTTGTGTG---------------------------------   4133
+                     || ||||..|||.|.||                                 
+c191014171-19  24537 AGTCAAAGTCTTATTTGATAAGTAAGATATCTTTAACATTATATAACATA  24586
+
+33879068-3389   4134 CATG-GC--TTGAGCGGTTG----------TCTTGCCCAGA-----CC--   4163
+                     |||| .|  ||||...||||          ||..||.||||     ||  
+c191014171-19  24587 CATGTACTATTGAAATGTTGATTTTGTTACTCAAGCACAGATTCCTCCAC  24636
+
+33879068-3389   4164 -AAAT-----------------TGGAA----CCA-ACTGGCTG-----TT   4185
+                      ||||                 |||||    |.| |||||.||     ||
+c191014171-19  24637 TAAATAAGCAGATTTCTAGCTGTGGAAGGGTCTATACTGGGTGGAAGTTT  24686
+
+33879068-3389   4186 GCCT---TTGGG-CCAAGGCCTGGACTGAGGCTCTTGACCAGCCTGTCCT   4231
+                     ||||   |.||| ||.|||.|||.||..||..||.||||.|..|||..|.
+c191014171-19  24687 GCCTCCCTAGGGCCCCAGGGCTGAACCCAGAGTCCTGACAATGCTGCGCA  24736
+
+33879068-3389   4232 TGC------CCTTCT-GTGG--------AGGGAGAACTCAAGTGGCTTC-   4265
+                     ||.      .||||| ||..        ||||..|.|.|||.||.|..| 
+c191014171-19  24737 TGAGCAGAGACTTCTAGTCAGATCCACCAGGGCCATCACAAATGACCCCA  24786
+
+33879068-3389   4266 ------------CAGCA-----CTGGGTGG------------TCCCCATA   4286
+                                 |||||     ||.|||||            |||||  .
+c191014171-19  24787 GCAGATTTAAATCAGCAGCTCCCTTGGTGGATGTTGGGAGCTTCCCC--T  24834
+
+33879068-3389   4287 GGACATGGTAGCAGGA-------------TTGGA--------GAAC----   4311
+                     |||..|||||.||..|             ||.||        ||||    
+c191014171-19  24835 GGAGCTGGTATCAACATTCCTGTGCCTTTTTAGACTATAAATGAACAAAA  24884
+
+33879068-3389   4312 ---TGGAAGTC-------------AAGA-------CAGTTAGGCCC----   4334
+                        ||...|||             .|||       |||..||.|.|    
+c191014171-19  24885 GAGTGAGTGTCTCTTTGTGCATATGAGATTGTAATCAGCAAGTCTCAAAG  24934
+
+33879068-3389   4335 ---CTGGCTATGGGA--------CCTCC--ATAGGGCAGCTTAATA----   4367
+                        ||||...|||.|        |||||  .||||.||||...|.|    
+c191014171-19  24935 TGGCTGGACTTGGCATGCCACCCCCTCCTTCTAGGTCAGCCCCAAAGGAG  24984
+
+33879068-3389   4368 ------CTGT--------GGGGCT-------CTGAAGGACATGAGCTTTG   4396
+                           |||.        |.||||       |.|...|.||||| .|.||
+c191014171-19  24985 AGGCCCCTGATCCAACCCGAGGCTGAACGTCCAGGCTGCCATGA-TTCTG  25033
+
+33879068-3389   4397 GGGATATTTTAGGGATATTCCCT------CTGTCTGTCAGAATCCTGGTG   4440
+                     .||..||||..|||.|.||..||      ..|||.| |||.|||.|||.|
+c191014171-19  25034 TGGTCATTTGGGGGTTTTTTTCTGGAGCGAGGTCAG-CAGCATCTTGGGG  25082
+
+33879068-3389   4441 -GACT---TTGAGCCTGTGGG--------TTGTC---TCTGGG--ATGG-   4472
+                      ||||   |.|||||||||||        |||||   ||||||  .||| 
+c191014171-19  25083 AGACTGTGTGGAGCCTGTGGGATTCACTCTTGTCTCTTCTGGGCAGTGGG  25132
+
+33879068-3389   4473 ---ACAGAATTGGGC------CTAAGG---ACTGGTG-------------   4497
+                        .|||.|.|||||      ||..||   .|.||||             
+c191014171-19  25133 AACCCAGGAATGGGCATCTCTCTTGGGGGTCCAGGTGGAGCAGCCTCATC  25182
+
+33879068-3389   4498 ------TGGCCAGAG----------TGGACAG-------CTGGGCC----   4520
+                           ||.||.|||          |||||.|       ||.||||    
+c191014171-19  25183 CTATTTTGCCCTGAGACCCTAGACCTGGACTGGCACTAACTTGGCCACTC  25232
+
+33879068-3389   4521 ---TT--GAATCTAGG---------------CCATGC-------------   4537
+                        ||  |.|.|.||.               ||.|.|             
+c191014171-19  25233 TCATTAAGGAACAAGATGGCTCCCCCCCCACCCCTCCCATATTTAATGTT  25282
+
+33879068-3389   4538 ---GTCGGC--------------GGAATGACAAGTGACA-----------   4559
+                        ||..||              |...||.|||||..||           
+c191014171-19  25283 TTTGTTAGCTTGTGTCACATACTGTTTTGGCAAGTTTCAAAAATGATTTA  25332
+
+33879068-3389   4560 ----------------------------------TTATAGCCAGTCC---   4572
+                                                       ||.|..|||.|||   
+c191014171-19  25333 TGATCATTCAGATCATTTTCCTCTGGCTTTTTGCTTTTTCCCACTCCTAT  25382
+
+33879068-3389   4573 ------------------AGCTGGATCTGAGGAAGGAGGT--CTGC----   4598
+                                       |||..|.||||.|....|...|  ||||    
+c191014171-19  25383 AAGAATATTCTTCCTCATAGCATGGTCTGTGCCTTGTCTTCCCTGCCATC  25432
+
+33879068-3389   4599 ----------------TTAG---------CAGGACCACCCACTCC-----   4618
+                                     ||||         |...||.|.|||||||     
+c191014171-19  25433 ATCTTTGGTATATCGGTTAGCTTTTGCTTCCTAACAAACCACTCCCAAAA  25482
+
+33879068-3389   4619 ----------TGTCCTGG-GC-----CCCAAGCC---CAGCC--GCCCTG   4647
+                               .|.||.|| ||     |.||..||   .|.||  ||.||.
+c191014171-19  25483 CTTAGTGGCTAGGCCAGGTGCAGTGGCTCACACCTGTAATCCCAGCACTT  25532
+
+33879068-3389   4648 TGATGGGCATTGTCAG---GTTC------TGGCAGGG--------AGGCC   4680
+                     ||...|||...|.|||   |.||      .|.|||.|        .||||
+c191014171-19  25533 TGGGAGGCCAAGGCAGGCAGATCACATGAAGCCAGAGTTTGAGACCGGCC  25582
+
+33879068-3389   4681 TGG------AGGAGATAGCCC-------------------------AGC-   4698
+                     |||      .||.||.|.|||                         ||| 
+c191014171-19  25583 TGGCCAACATGGCGAAACCCCGTCTCTACGAAAAATACAAAAAATTAGCC  25632
+
+33879068-3389   4699 -----TGGTGGTACGTCCCTGAGGGTGAAG--TCTTTG--AGCCACCGCA   4739
+                          |||||||..|..||.|.......||  .|||.|  .|||...|||
+c191014171-19  25633 AGGTGTGGTGGTGTGCACCGGTAATCACAGCTACTTGGGAGGCCGAGGCA  25682
+
+33879068-3389   4740 TGAGCTGGGC-AGCACCTGGGCAAGGCAGAGG-TGTA-TTATCTGTG---   4783
+                     .|||....|| .|.|||||||  ||||||||| ||.| |.|.|||.|   
+c191014171-19  25683 CGAGAATCGCTTGAACCTGGG--AGGCAGAGGTTGCAGTGAGCTGAGATC  25730
+
+33879068-3389   4784 ------------TCC-GCCT-AGTGGAGGAG-------------------   4800
+                                 ||| |||| .|||...|||                   
+c191014171-19  25731 ATGCCACTGCACTCCAGCCTGGGTGACAGAGTGAGACTCTGTCTAAAAAC  25780
+
+33879068-3389   4801 -------------CTATGTTGCT------TCAGT---TCCTTAGCCCTCA   4828
+                                  ||..||.|||      |||..   ||.|||...||||
+c191014171-19  25781 AAACAAACAAAAACTTAGTGGCTAAAAACTCAAAAACTCATTATTTCTCA  25830
+
+33879068-3389   4829 GG----GTGGGTGGCTGGCTCTACTTGGCT---CACATGC--------CC   4863
+                     ..    |||.||.|..||.|.|.||.|.||   |...||.        ||
+c191014171-19  25831 TATTCTGTGAGTTGTAGGTTGTCCTGGTCTGAGCTAGTGTGGTTGGAGCC  25880
+
+33879068-3389   4864 A----CTC-AGACAGTCCCCCTCCC---CCCAGTCCTCATTTGTGAAATG   4905
+                     |    ||| ||..||.||...|..|   .|..|..||||..||.||.|..
+c191014171-19  25881 AGGTGCTCTAGCAAGGCCTTATTACATGACTGGGACTCAGCTGGGATAAC  25930
+
+33879068-3389   4906 GGGGTCC-----CATG-TCCTCA-----GCCAACCTGTG---AACTCA-G   4940
+                     ..|||||     |||| .|||||     ||.|.||||.|   ..|.|| |
+c191014171-19  25931 CAGGTCCTTCTTCATGCACCTCAAAAAGGCTAGCCTGGGCTTTTCCCATG  25980
+
+33879068-3389   4941 GAGTCTCATAGCCCACTGACTAGAGGCCTAAGAG-------------ACC   4977
+                     |.|.|......||.|.|||..| ||||||..|||             ||.
+c191014171-19  25981 GTGACAGTGTTCCAAGTGAACA-AGGCCTGTGAGTGCTAGCCTTGGAACA  26029
+
+33879068-3389   4978 AGAATGGTGTCCATGTTTTCCTAGCTG--GCT----------------CA   5009
+                     ...||.|..||..|...||||...|||  |||                ||
+c191014171-19  26030 TCTATAGCATCACTCCCTTCCATCCTGTTGCTAAAAGCAAATCAAGGCCA  26079
+
+33879068-3389   5010 TCTGTGAAATGGGTGTTG-------------------CAAGGCGTGGACT   5040
+                     .|||.||...|||.|.||                   |.|..||..|...
+c191014171-19  26080 GCTGAGATTCGGGGGATGGGGAAGTATATCCTACTTCCTAAACGGAGGAA  26129
+
+33879068-3389   5041 GTCCAAGCATC------CCCTAGCTGGTATACTTTGGTCTCAAGAGG-TG   5083
+                     |..||||..|.      ||.|.|| .||.|||..|..|||   |.|. .|
+c191014171-19  26130 GCACAAGAGTTGTGTTGCCATTGC-AGTTTACCATCTTCT---GCGTCAG  26175
+
+33879068-3389   5084 CACAACTCCTATGAACAGC----AGCCCTAGGG--------GTGTATGCC   5121
+                     |.||.|||||.|.|.|.||    .|||||.|.|        ||...|.||
+c191014171-19  26176 CTCAGCTCCTCTCAGCTGCTTCGGGCCCTTGTGTCTTTTCTGTCGGTTCC  26225
+
+33879068-3389   5122 AGCAAGGGCTGCTCACCCATGTTCTTGTATGACCTCATGTTGTC-TTCTC   5170
+                     |||...|.|.| ||..|...|.|.|...|.|.|..|.| ||.|| |.||.
+c191014171-19  26226 AGCTCTGACGG-TCTTCTTAGCTTTGACAAGTCAGCTT-TTATCATACTA  26273
+
+33879068-3389   5171 TCTTTCCATTTATTTTGA----TTTTGTTTTTAAGAC-AGTAGCCAGG--   5213
+                     ||   ||.||||||||.|    ||||.||||..|.|| .|.|...|||  
+c191014171-19  26274 TC---CCTTTTATTTTAAATTCTTTTTTTTTCCAAACGGGAAAATAGGTC  26320
+
+33879068-3389   5214 CTGGCCTTGAGCTTGTAGCAATTCTCCT--------GCTTCAGACTTCTG   5255
+                     |...||.| ||||..|.|..|||.||.|        ||.|...|||||||
+c191014171-19  26321 CCTTCCAT-AGCTAATGGTGATTGTCATTCACAAAAGCATTGAACTTCTG  26369
+
+33879068-3389   5256 ----------------------------------AGTGCATGAG-CCACC   5270
+                                                       .|||..|||| |||..
+c191014171-19  26370 GTTGAGATTGGAAAGGAAGGGGAACTAATAGATCTGTGAGTGAGCCCATG  26419
+
+33879068-3389   5271 ATACCTAG-CTTTCTCT-------TCCTGTTTAAAGTAT-------GTTC   5305
+                     ||..|||| ||...|||       ||..|..||.|.|||       |..|
+c191014171-19  26420 ATTTCTAGTCTACATCTAGGACGCTCACGGATACATTATTTGGCCAGAAC  26469
+
+33879068-3389   5306 ---------TGTTCCCTGGCTC-------------TCTATCCAAA-----   5328
+                              |..||.||||.|.             |||.||.|||     
+c191014171-19  26470 ATGACAAAGTAATCACTGGATATAGAAGTGCAAGGTCTTTCAAAATTTTA  26519
+
+33879068-3389   5329 ----CTGGTTTAGAA---------GCCA--------AGATGA--------   5349
+                         |.|..|||.||         ||||        ||||.|        
+c191014171-19  26520 ACCTCAGACTTAAAACTTAAACTTGCCACTTTCCCCAGATAACTGACTTT  26569
+
+33879068-3389   5350 --GGGT-------TGGGTGC---AAAGA-----------------GGGTT   5370
+                       .|||       ||.|.||   |||||                 |.|..
+c191014171-19  26570 CCTGGTACTTTCATGAGAGCATTAAAGATCATAGAGAATAAAAATGAGAA  26619
+
+33879068-3389   5371 CTGAAAGGGCTCCCTATTCTTTCTCTGAGCTTTGAGCCAAAGTCCAGGGA   5420
+                     .|.||.||.|.|..|.....|.||||||||||||.|.|    |.|.|||.
+c191014171-19  26620 TTAAATGGTCACATTGGCAGTCCTCTGAGCTTTGTGAC----TACTGGGC  26665
+
+33879068-3389   5421 AGGACAGC---CTGTCTCCAACCTGCTTTTGTGC---------CTCCCTG   5458
+                     ||..|.|.   |||..|||....||| ||.||||         |.||..|
+c191014171-19  26666 AGTGCTGTTGGCTGGATCCCCAGTGC-TTAGTGCAGGGCCTTGCACCAAG  26714
+
+33879068-3389   5459 TGAGCT-------------TAGGGCT-GATTTTACATTTCCAAATGGTGG   5494
+                     | ||||             ||..|.| |.||..||||||....|.||||.
+c191014171-19  26715 T-AGCTGCTCAATAAACAATAACGATAGCTTAAACATTTATTGAGGGTGT  26763
+
+33879068-3389   5495 A-AGGATCAG-------------AGGAAGGAGAATTGGTG--------AC   5522
+                     | .||..|.|             ..||.||.|.|.|||||        ||
+c191014171-19  26764 ACTGGTGCTGGTGCTTACATTTATTGAGGGTGTACTGGTGAGGAATTAAC  26813
+
+33879068-3389   5523 T--TTT-----TCGTGGTG----------TGGGGCTG-------------   5542
+                     |  |||     ||.||.||          |||..|||             
+c191014171-19  26814 TAGTTTATTCCTCATGATGTCCTATATGTTGGCACTGTTAGTATGTTGTG  26863
+
+33879068-3389   5543 ----------------AGCTCAGG----------GCTTCAGG-CATTC--   5563
+                                     .||.|||.          ||...||| |||||  
+c191014171-19  26864 CAAATGAACAATGTAAGGCCCAGACCATTTATTTGCCAAAGGTCATTCAG  26913
+
+33879068-3389   5564 ---------------------TGGGTAGGT--------------------   5572
+                                          |||||||.|                    
+c191014171-19  26914 TGATACTTGCCAGACCTAGTATGGGTAGATGGAAGCAGGGAGTGAATGAA  26963
+
+33879068-3389   5573 --GCTGTA---CCA-----------------------CAGAGTTGTCTGA   5594
+                       ||||.|   |||                       ||...||..||.|
+c191014171-19  26964 AGGCTGCAAATCCATAGGTGTAGATTTATTTTTTATTCATCATTCACTTA  27013
+
+33879068-3389   5595 AACCCT-----TCTTG-GCACT----------TTAAAGATGATT------   5622
+                     .||.||     ||||. .|.||          ||||||.|.|||      
+c191014171-19  27014 CACTCTTATGCTCTTATACTCTTATAATTTTGTTAAAGCTTATTTCAAAT  27063
+
+33879068-3389   5623 -------------------------------------CAGGTAT------   5629
+                                                          |||..||      
+c191014171-19  27064 TTTAAATACGCATATGTGATTATATATATTTTTTTTGCAGAGATGTGAAT  27113
+
+33879068-3389   5630 ----------CAG---GAGGG-----------------------CTGTGC   5643
+                               |||   .||||                       ||||||
+c191014171-19  27114 GAGAGAAATACAGTAAAAGGGTACGTGACGTACTTTACGCTATACTGTGC  27163
+
+33879068-3389   5644 -CTCTTTCAGATCATCT-----TGGGAAGA-----CAGC------TTCCT   5676
+                      .|.|||....|.||.|     |.||||||     ||||      |||||
+c191014171-19  27164 TATATTTTTATTTATTTAATAGTTGGAAGACTTTTCAGCATTTCTTTCCT  27213
+
+33879068-3389   5677 --------------------------CCTGTAGGGCA-GAGC-CAGAAG-   5697
+                                               |.|.|.||||| |..| ||.||| 
+c191014171-19  27214 ATATTGTATAGATTTAGGAAGTTCAACATTTTGGGCACGCACACAAAAGT  27263
+
+33879068-3389   5698 -----CCTT-----AGCCCATGATTGACAG------AGCTGAGATGC---   5728
+                          .|.|     ||.|||..|.||.|||      .|||||..|.|   
+c191014171-19  27264 GATGAACATGGAGGAGTCCACCAATGGCAGTCTGGCGGCTGAATTTCGGC  27313
+
+33879068-3389   5729 ------TGGGGCC----------------------CACTGG---CT----   5743
+                           |.|||.|                      |.||||   ||    
+c191014171-19  27314 ACCTGGTAGGGACATCAGTTTCCTCTCTATGTTGTCTCTGGTTTCTTAGG  27363
+
+33879068-3389   5744 -CTTACGAAAA-----CAG----TTTT---------CCA-----------   5763
+                      |||..||.||     |||    ||||         |||           
+c191014171-19  27364 ACTTTTGACAATAGAGCAGCCCTTTTTGGCACATTGCCATGTGGAGGACG  27413
+
+33879068-3389   5764 --CCCCT-----GGTTTGAACATTGTCTGGCAGG---CCCCCAGGCTCCA   5803
+                       |||||     ||||||.|.|.|.|.||||.||   |..||.|.|.|||
+c191014171-19  27414 CCCCCCTGCTGGGGTTTGTAGACTTTGTGGCTGGTGTCTTCCTGTCGCCA  27463
+
+33879068-3389   5804 ------GGAGCA---------------C--ATCCCTCACCTG---CCT--   5825
+                           ||.|||               |  |||||.|..|||   .||  
+c191014171-19  27464 GTACTTGGGGCATTTTGGTTTCTCCTCCTTATCCCACGACTGTTCACTCT  27513
+
+33879068-3389   5826 -----------------ACATACAG-----------CCCTTGCTTGTGT-   5846
+                                      ||.|.|||           ||...||.||||| 
+c191014171-19  27514 GTTTTCTGGGCTGTATCACTTGCAGTAAAAATATTTCCTAAGCCTGTGTT  27563
+
+33879068-3389   5847 ----------GTTTGCAAAGTGAAG--TGCTGGGTCTCCA----------   5874
+                               .||||||.. ||..|  |||..|.||.|||          
+c191014171-19  27564 TACGTAAATGATTTGCACT-TGCTGCCTGCATGATCCCCACGGTCACTCA  27612
+
+33879068-3389   5875 -----GCATGC----TTCTC--------TGGAGACC---------CTGT-   5897
+                          ||.|||    |||||        |||...||         |||| 
+c191014171-19  27613 CCTACGCTTGCAGTTTTCTCAAAGGTTATGGCTCCCGTGTCCTGACTGTG  27662
+
+33879068-3389   5898 TTCATAGTGT----------CCCA---TTTACTCCACAG-----AGGTTC   5929
+                     .||..|||||          .|||   ||.|||||.|||     ..||||
+c191014171-19  27663 ATCCAAGTGTGGTCCTGTACACCAGGGTTCACTCCTCAGCCCCCGTGTTC  27712
+
+33879068-3389   5930 C---------AGGGCCTG--------------AACCTAGCCAGCAGGA--   5954
+                     |         .||.||||              ..||..||||||..||  
+c191014171-19  27713 CCCTTCCTGGTGGCCCTGCCCACAGCCCCTGCCTCCACGCCAGCCTGACT  27762
+
+33879068-3389   5955 -------------------GCAGGTGG---CCTTC----GGCAGTGGGGA   5978
+                                        ||||..||   |.|||    ||||||||.||
+c191014171-19  27763 CTACCACCTTTTCTCCAGGGCAGTAGGGCTCATTCCCCAGGCAGTGGAGA  27812
+
+33879068-3389   5979 CACCGTGGAGCTGAGCTG----------CCA----TCCTCCT--------   6006
+                     |.|.|..| |.||..|||          |||    |||||||        
+c191014171-19  27813 CCCAGCAG-GATGCTCTGTGTGGGTGCACCATCTTTCCTCCTCTGTGAAC  27861
+
+33879068-3389   6007 ---GGAGGTGCC-------------CCC-------ACAGGGCCCACGG--   6031
+                        ||.|.||||             |.|       .|.|.|.||...|  
+c191014171-19  27862 ATGGGGGCTGCCAGTTGCTGTGAGGCTCTGTGGGTGCTGAGTCCGAAGCT  27911
+
+33879068-3389   6032 ---TCTGGGCTAAGGATGGTACAGGTCTGGT----GGCCTCC-------C   6067
+                        .||||||..||.|. .|.||||  .|||    |||.|||       |
+c191014171-19  27912 TTCCCTGGGCCCAGAAC-CTGCAGG--AGGTTAAAGGCATCCTTTTTCAC  27958
+
+33879068-3389   6068 -----ACCGC------ATCCTGGTGGGGCCTCAGAGGCT-GCAAGTGCTA   6105
+                          |||.|      ||||.|  ...||||| |..||| |.|||..|||
+c191014171-19  27959 TAGAGACCACTTTGTGATCCAG--CAAGCCTC-GTAGCTAGGAAGCTCTA  28005
+
+33879068-3389   6106 AATGCCT------------CCCACGAAGATGC--AGGGGTCTACAG----   6137
+                     ..|..||            ||.||..||.|||  ..||||.|.|||    
+c191014171-19  28006 CCTAACTCGAAAGCTTAGCCCAACTCAGGTGCCTGAGGGTATTCAGAGCC  28055
+
+33879068-3389   6138 -------------CTGCCAGCAC------CGGCTCA-----------CTC   6157
+                                  |.|||.||.|      |.|||||           |||
+c191014171-19  28056 GCCCTCAGGGCCCCAGCCTGCTCCCTCGTCAGCTCAGGGATTGACAGCTC  28105
+
+33879068-3389   6158 GGCGTGTGCTGTGCCACTT-----CA-GTGTGC---GTGTAACAGGTAAG   6198
+                     .|.|..||..|| ||||||     || |||..|   |.||.||.||....
+c191014171-19  28106 AGAGATTGACGT-CCACTTGAGGGCAGGTGGACCTGGAGTCACTGGGCCC  28154
+
+33879068-3389   6199 TGCTTGGTGGGTGGTGCTGC---AACGTGTGTGAAACAGCTGTAT--AGC   6243
+                     .||.|||.||....|||||.   ||.|.|...|.|..||||||..  |||
+c191014171-19  28155 AGCCTGGAGGACTCTGCTGAGGGAAAGGGGAGGGAGAAGCTGTCCCGAGC  28204
+
+33879068-3389   6244 CAAGGAG-----ATCAGGACACTCCTGGGC-TGGGTGGCTGCAGCATCCC   6287
+                     |...|.|     |.|||...||....|.|| ||||     |.|.|||.|.
+c191014171-19  28205 CTCAGGGCATGAAACAGTTAACGAAGGTGCATGGG-----GAAACATTCA  28249
+
+33879068-3389   6288 TGGCCTAAGATGTTGATAGCTGTTGATAGAAAGGAGGGGGT---------   6328
+                     .||  .|||.  ||||...|.|      ||.|||||.||||         
+c191014171-19  28250 GGG--AAAGT--TTGAACACAG------GAGAGGAGCGGGTTGTGATTCC  28289
+
+33879068-3389   6329 ------ACCC-CTAAGTAGGTGCCATCTGAATGAATGGCCT-TGTAAAGG   6370
+                           .||| |.|....||||.|..|...||||  ||||. ||...|..
+c191014171-19  28290 AAGAGATCCCTCCAGACTGGTGTCCGCACCATGA--GGCCACTGAGGAAA  28337
+
+33879068-3389   6371 CAGG-ATC--CTAAAGGT--ATGAGAGTGG------TGGACCTCAGATAT   6409
+                     |..| .||  ||.|.||.  .|||..|.||      |.|.||...|.|  
+c191014171-19  28338 CGTGCTTCTGCTCATGGACCCTGAACGAGGGCCAATTTGTCCCATGTT--  28385
+
+33879068-3389   6410 GGGAAGCAGCAGGTCTTTGGATATAG----GGGTATCA------CAGAAC   6449
+                           |.||| .|||...||||.||    |..|.|||      |. |..
+c191014171-19  28386 ------CTGCA-TTCTAAAGATAAAGTCACGTCTGTCATTCTTTCT-AGT  28427
+
+33879068-3389   6450 CCCCACTTGGAACT----------TGCAGAT-GC-------TCCATCCTC   6481
+                     ||..||||.|..||          ||.|||| ||       .||||...|
+c191014171-19  28428 CCTAACTTTGTTCTCATTTGTAAATGAAGATAGCAACTTTGACCATTACC  28477
+
+33879068-3389   6482 A-GGAGATGACGAAGATG---------------------GGGAGGACG--   6507
+                     | ||.|.|.||.||||||                     |..||.||.  
+c191014171-19  28478 ATGGTGTTTACTAAGATGATTATTTGTTTTATAGCAATTGAAAGAACAGA  28527
+
+33879068-3389   6508 -------TGGCTGAAGACACAGGTGAGATTAGAGTC-------------T   6537
+                            ||||...||| ||...||||.|.||||||             .
+c191014171-19  28528 AAAATGCTGGCACCAGA-ACGAATGAGGTGAGAGTCCCTTTATGTTGTGA  28576
+
+33879068-3389   6538 ATGGCCACTGA----GCTGGTCAG---GGCCGGGATGCCTCTCTGGTGGT   6580
+                     ||||.|.|..|    ||.||||.|   .||..|||  |...||.|.||| 
+c191014171-19  28577 ATGGGCCCAAATCAGGCAGGTCTGTCTAGCAAGGA--CAGGTCAGTTGG-  28623
+
+33879068-3389   6581 TAGAAGGGAACACTGCTACAGGTGGGT--AGACCAG--AGGACAGTGCTC   6626
+                     |.|..|||.||||..| ||||..|.||  |||||..  |||..||.||..
+c191014171-19  28624 TGGCTGGGGACACCTC-ACAGAGGAGTTCAGACCCATCAGGGAAGAGCAG  28672
+
+33879068-3389   6627 C--AGGAGCAGGG-AGGAGGCAGGGCTG-GTCTGCAG-------------   6659
+                     |  ||||||.||| |...||.|...||| |.|..|||             
+c191014171-19  28673 CAAAGGAGCTGGGTATTTGGTATATCTGTGACAACAGTAAAAACACCACA  28722
+
+33879068-3389   6660 ---GGACATTGCTATTG--------------ACTC----TAGTAGGACG-   6687
+                        |..|.||.||||||              ||.|    |..|..|||. 
+c191014171-19  28723 TTTGTGCTTTACTATTGTCAAACGATTTTGCACACAAATTCATTAGACAC  28772
+
+33879068-3389   6688 ----GGGCACCACAGGGGTGAGGATAGCCAGGG-------ATGCAGCTCA   6726
+                         ||.||.|.|||.||.|..|.|.....|||       ||.|..|.||
+c191014171-19  28773 TCATGGACAACTCAGTGGAGTAGCTGTTGTGGGCTTTTGTATTCTTCGCA  28822
+
+33879068-3389   6727 GATTGTTGCTGAGGA---------ACAATAGATC-CAGG-----GATGAA   6761
+                     ..||...|.|||.||         |||..||.|. ||||     |.|.|.
+c191014171-19  28823 TCTTACGGGTGAAGAAATTGACTCACAGAAGTTTGCAGGATTTAGCTAAG  28872
+
+33879068-3389   6762 GG-GCACTGGTGGTTGTTGGTTCAG-GCCGGCAGGAGGGGACA-----GT   6804
+                     || ||||.|  .|||..||  |||| |..||.|.|||.||.||     .|
+c191014171-19  28873 GGTGCACAG--AGTTACTG--TCAGAGTTGGAACGAGAGGCCACTTTGAT  28918
+
+33879068-3389   6805 G-----CTTG-TGTGTGC--TGAGG------TGTACATTGTG--------   6832
+                     |     |||| |||||||  .||||      .|..|||||..        
+c191014171-19  28919 GACTGCCTTGCTGTGTGCCAAGAGGGCTTTTCGGCCATTGCATCCCCTAC  28968
+
+33879068-3389   6833 AAGAGGACGTGTGTGTGTGTGTGTGT----------GTGTG---------   6863
+                     .|.|.|...||..|.||..|..||.|          |.|||         
+c191014171-19  28969 CAAAAGCATTGCCTTTGCATCAGTTTCCTTCCTACAGCGTGATCCTTAAG  29018
+
+33879068-3389   6864 ----TGTGTGTGTGTCTATGCAGACTGA---GTACTTGGGCCATTTG--G   6904
+                         ||.||.||||   |||||..|.||   |.|||..||.||...|  |
+c191014171-19  29019 GAGTTGGGTTTGTG---ATGCATTCAGAAATGAACTATGGACAAAGGATG  29065
+
+33879068-3389   6905 AGACTTCTGGGGAAGAGTGG----------------------------AC   6926
+                     |.|..|||||.|..|..|.|                            ||
+c191014171-19  29066 AAATATCTGGAGTTGTTTTGGTTGAGAACACTTTCGTCATTTATGCACAC  29115
+
+33879068-3389   6927 AAGGT-----GTCCT------------CCAGTGGAATAAAAAAAAAATTG   6959
+                     |..||     |||||            ||||||||....|.|...|...|
+c191014171-19  29116 ACAGTGTGCAGTCCTTCCACACCAGGACCAGTGGAGGTCACATGGAGCAG  29165
+
+33879068-3389   6960 GTGGGAAAACA-------GGACTGAG-----------TCT----CTGGTG   6987
+                     ..||..|||||       .|.|.|.|           |||    ||||||
+c191014171-19  29166 CGGGACAAACACAGGCCCAGGCAGTGCAAAGATGCCTTCTAGCCCTGGTG  29215
+
+33879068-3389   6988 TGTG------------------------GGGGCAAGGAG-----------   7002
+                     ||.|                        |||.|.||..|           
+c191014171-19  29216 TGCGCCTGAACTATGTTTTGACCTCCCTGGGTCTAGCTGTTGCACCTCTC  29265
+
+33879068-3389   7003 -AG---TGGGTACAGGGGCTTGTGTGA------GATTTTAGAG------T   7036
+                      ||   |..||...|.||||....|||      |.||.|..||      |
+c191014171-19  29266 TAGTTCTAAGTTGTGAGGCTCACATGAGGTAATGCTTATGAAGGCACTTT  29315
+
+33879068-3389   7037 GGAATCGA-------C-ACAGGAACCTAG--CAC---TGAC--GCCAA--   7069
+                     |.||||.|       | ||.|.||||.||  .||   ||||  |||||  
+c191014171-19  29316 GAAATCTATCCATTTCTACCGAAACCAAGACAACTTGTGACCTGCCAAGT  29365
+
+33879068-3389   7070 ----CAGAGGCT-CCTGTCC--TGGGGAGT-----------------CAT   7095
+                         ..|||.|. ||..|||  |.||.|||                 ||.
+c191014171-19  29366 TGATGTGAGTCAGCCCTTCCGGTAGGCAGTAGACAATCACAAGTATGCAC  29415
+
+33879068-3389   7096 TT-------GGCTTCTCA---TTTCCCTTTCCC----CTTTG--------   7123
+                     ||       |.|.|||||   |.||||...||.    |.|||        
+c191014171-19  29416 TTACTCCCAGTCCTCTCACCTTCTCCCCACCCATCTGCATTGAGATGTGC  29465
+
+33879068-3389   7124 -GCTAC------CAGGTTGT------TGAG--------AGC--AAAATTT   7150
+                      ||.||      ||||..|.      ||||        |||  .|..|..
+c191014171-19  29466 AGCCACACTGGGCAGGCAGACAGAGCTGAGGGTCGAGAAGCCTTAGGTCA  29515
+
+33879068-3389   7151 CTAAGCCAGT--------TTTCCCC---------------------TC--   7169
+                     |.||||||.|        |||||||                     ||  
+c191014171-19  29516 CAAAGCCATTAGTTGCTCTTTCCCCATTGACAATCATTGCTCTGAATCTA  29565
+
+33879068-3389   7170 ---CCCTGGC-------TC----------CT------GCAC---------   7184
+                        ||||.||       ||          ||      ||||         
+c191014171-19  29566 TAACCCTTGCCGTAACTTCAGACACTTATCTTTCAGAGCACACTGAGATA  29615
+
+33879068-3389   7185 ------------------------------------------CAGCCATG   7192
+                                                               |||.|.||
+c191014171-19  29616 CTAAGAATCATTAAATCTGGGAGAGATTGAATATTGAGTCTTCAGACTTG  29665
+
+33879068-3389   7193 TTAC------------------CAGTGGCC--TTGCCCTG----------   7212
+                     ..||                  |.||||||  ||||..||          
+c191014171-19  29666 CCACTGATTGGGCCCAGGATCTCTGTGGCCTGTTGCAATGTTAATTGGGC  29715
+
+33879068-3389   7213 -------AGTT--------TGTG----------TCCACTTCTGCCTCCCT   7237
+                            ||||        ||||          |.|..||||.|.|.|||
+c191014171-19  29716 TTTTGAAAGTTTTAGGATCTGTGAATAATTATATTCTTTTCTTCTTTCCT  29765
+
+33879068-3389   7238 GG--TTTTCCCAGG-----CTGCATC-------TAGTGCTT-ACACAC--   7270
+                     ..  |.||||.|||     || ||||       .||.|||| ||.|.|  
+c191014171-19  29766 TTTCTCTTCCAAGGGTCCTCT-CATCGTTACTGAAGAGCTTCACTCCCTT  29814
+
+33879068-3389   7271 ----------CCCACGTGGGC--------TTCGG--------CTCTGAGG   7294
+                               ||||..||.||        ||.||        ||| ||||
+c191014171-19  29815 AGTTTTGAAACCCAATTGTGCCAGCCTGGTTTGGTAATTGACCTC-GAGG  29863
+
+33879068-3389   7295 T--GAC-TAAAGGGTC-----------ATCTTC-----------------   7313
+                     |  ||| |..|.||||           |.||||                 
+c191014171-19  29864 TAAGACTTTTATGGTCCCGAGTTGGAAAACTTCATTATTTTTACTTTTAA  29913
+
+33879068-3389   7314 -TGGACCTTG-----------C-CTGGGCATG----GGAAGCATTGGC--   7344
+                      ||...|.||           | |.|.|..||    |||.|.|||..|  
+c191014171-19  29914 TTGTTACATGTATTTTTATTTCTCAGTGTTTGTTCTGGAGGTATTTACCT  29963
+
+33879068-3389   7345 ----------------------TC-------ACTGCCGTCGC-----TGA   7360
+                                           ||       |||..|.|..|     |..
+c191014171-19  29964 AATTGTTTTAAAATGATCTTTTTCAGCTAATACTATCTTAACCTTAATTT  30013
+
+33879068-3389   7361 GTGTGCC---AAGCT----------AATGGCCGCC-----------CT--   7384
+                     .||..||   |||||          |.|..||..|           ||  
+c191014171-19  30014 ATGGTCCAGAAAGCTAGACAATTGAATTAACCTTCAAATTCAATAACTTA  30063
+
+33879068-3389   7385 -GGGAGCC---TGGGAGGGCAGC----------------------TCAGC   7408
+                      ..|..||   ||.||..||.|.                      |.|||
+c191014171-19  30064 AAAGTTCCAGTTGAGATCGCTGATGTTAATTTTTTTTTTTTACATTAAGC  30113
+
+33879068-3389   7409 ATGGAGGGTT---------------CCCT-CACCAGC-------GTATGC   7435
+                     ||.|.|..||               |||| |.||..|       ||.|.|
+c191014171-19  30114 ATTGGGACTTATTTATTTTGCTCTGCCCTCCCCCCACATTTTATGTTTTC  30163
+
+33879068-3389   7436 A----GACGGTTCTCTCC----------------CCCT-------GTGCT   7458
+                     |    |||.|||.||..|                ||||       .|..|
+c191014171-19  30164 ATTGTGACAGTTTTCATCTTCTCATATTGCATATCCCTTAATTAATTATT  30213
+
+33879068-3389   7459 GTGGCTC-----------------------CTCCACCCACAGATGC----   7481
+                     ||.|||.                       ||..||..|.||||.|    
+c191014171-19  30214 GTAGCTATTATTATTTTTAGGGACTTATTTCTTAACTGAAAGATACATCA  30263
+
+33879068-3389   7482 ---ACA--------TGGTC----------------------CT-ATGGTA   7497
+                        |||        |||.|                      || ||..|.
+c191014171-19  30264 AAGACAAGTTAAACTGGACAGAAGAACAGAACTTAACACTTCTCATTTTC  30313
+
+33879068-3389   7498 GAGTGT--AGTGAGGTCA-----------------CTGC----AGAAGGG   7524
+                     .|||.|  |.|..|..||                 ||||    ||..|.|
+c191014171-19  30314 AAGTATTAAATATGTACAAATTTACAAATAATCCCCTGCTTTTAGTTGAG  30363
+
+33879068-3389   7525 GC-----------CTG-------CCTCCCT---AGTCTG------TCCTG   7547
+                     ||           |||       |.|..||   |.||.|      ||..|
+c191014171-19  30364 GCTAAGCAGTTATCTGAAGGTGACATTTCTGTGATTCAGATGATTTCAAG  30413
+
+33879068-3389   7548 G--------ATCCTTGCTCTGTCC-CTCAGC---------TGTT-TCAGG   7578
+                     |        ||||||.....|.|| |||.||         ||.| ||...
+c191014171-19  30414 GTCTTTGTCATCCTTTAGACGACCTCTCTGCCCGTTGTGGTGATCTCCAA  30463
+
+33879068-3389   7579 AGTC--CCAGC-----AG-GGT--GGCTTCC-TCC---------------   7602
+                     .|||  |||||     || |||  |||.||| |||               
+c191014171-19  30464 CGTCAGCCAGCTCCCGAGCGGTTGGGCCTCCATCCTTTGGTACAACATGC  30513
+
+33879068-3389   7603 ----------ACCCAG--------------------------CCCAGAG-   7615
+                               ||||||                          |||||.| 
+c191014171-19  30514 TGGTGGCGGAACCCAGGGTATGGAAAACACATTTGCTTTGGTCCCAGGGT  30563
+
+33879068-3389   7616 --------GAACCAGAGCGCTCAGTGGGG-------GGAA-AGCGC----   7645
+                             ||.||...||.||||.||..|       |.|| |||.|    
+c191014171-19  30564 TAAGCAGAGACCCCACGCTCTCACTGCTGCATCTCTGAAATAGCCCCAAT  30613
+
+33879068-3389   7646 GACC-----TAAAGGAAGCA--GGCCAGGC-CCTG-GGTACTGCAGAGGC   7686
+                     |.||     |.||||.||.|  |.|.|.|| |||| ||||.|.|..||||
+c191014171-19  30614 GGCCAGTTGTTAAGGGAGAAGTGACAAAGCTCCTGTGGTATTTCTAAGGC  30663
+
+33879068-3389   7687 T---------GGCTTGGGGTTTGCAGACTGG---------TGGGATGA--   7716
+                     |         ..||.||..|.||.||..|||         ||..||||  
+c191014171-19  30664 TTTTGAGTAAATCTGGGAATATGAAGCATGGATATGTATTTGAAATGAGA  30713
+
+33879068-3389   7717 ----------------CCTG-------GCCTAGGCCTTCTAGGATCTGCA   7743
+                                     |.||       ||...|||..||...||| |.||
+c191014171-19  30714 ATTACGTTTTTTCTCCCATGTGGGTAAGCTAGGGCAGTCAGTGAT-TCCA  30762
+
+33879068-3389   7744 TCCTAC-----TGGGAT----------CTGGGGACCTCCACTTGT-GGGC   7777
+                     |.|.||     ||..||          .||...||.||.|||... ..||
+c191014171-19  30763 TACCACTTTATTGTTATTATTTTTAAAATGTATACATCTACTAAACAAGC  30812
+
+33879068-3389   7778 CTGCACCC----AAGGGTGAGGA--------GGAGATAAATT-CAG--AT   7812
+                     .|||.||.    .||.|||.|||        |...||.|||| |||  ||
+c191014171-19  30813 ATGCTCCATTCTTAGAGTGTGGATACTCACTGTTAATTAATTACAGTCAT  30862
+
+33879068-3389   7813 CTGAGAGT------AGGGCAACTG-GTAATGCAGTGTCCAGG--CTCAGG   7853
+                     .|...|.|      ||..|...|| .|..|..|||..|||||  |.|...
+c191014171-19  30863 TTATAATTATTCAAAGTACTTATGTTTTTTAAAGTCACCAGGAACACTTA  30912
+
+33879068-3389   7854 CAAAGCAAA----GGACTCTGAATCCAGAAGGGTAAAC-AGGCTAGAGGC   7898
+                     ...||||||    |.|.|.|...|||..|.||....|| |||||||...|
+c191014171-19  30913 ACTAGCAAATAATGAATTGTTGCTCCTAAGGGAACTACGAGGCTAGGTTC  30962
+
+33879068-3389   7899 AGGCAGGGGAGGTTCTGG--AAGGCACTGGTTACAGC-------------   7933
+                     ...||    ||..|||||  |...||.|..|..||.|             
+c191014171-19  30963 CTTCA----AGCCTCTGGTCACAACATTTTTGTCAACCCATCAATGCATA  31008
+
+33879068-3389   7934 ----TG-TTATGGGTACTTCTGCCATCAGGGGCTCCTTAT----TGGACT   7974
+                         || |||||.||..|||||  .|.|..|.|.||||||    |..|||
+c191014171-19  31009 ACATTGTTTATGTGTGTTTCTG--TTTAAAGACACCTTATCTAATACACT  31056
+
+33879068-3389   7975 -------------------CGCCCGGAGCGAATGGATAA--GAAACTGCT   8003
+                                        |.||...|||.|  ||||.|  |.||||..|
+c191014171-19  31057 TGTTGAGGCATTAACATTACACCTATAGCTA--GGATCACTGTAACTCAT  31104
+
+33879068-3389   8004 GGCTG-----TGCCAGCCGCAAACAC-TGTCCGCTTC------CGCTGCC   8041
+                     |.|||     .||..|||.||.|||. |.|...||.|      |.|..||
+c191014171-19  31105 GCCTGAGTGAAGCTTGCCTCACACATGTATTTTCTCCATAAGGCACATCC  31154
+
+33879068-3389   8042 CAGC-------TGCT-----------GGCAACCC-----TAC----CCC-   8063
+                     ||||       ||||           |.|.||.|     |||    |.| 
+c191014171-19  31155 CAGCCTTCCCATGCTTAGGAACAGTAGACCACACTGTGGTACTATGCTCG  31204
+
+33879068-3389   8064 --CTCCATCT---CCTGG------CTGAAGAATGGCAAAGAATTCCGAGG   8102
+                       |.||||.|   .|.||      |...||.| |.||.|.|||.|..|  
+c191014171-19  31205 GGCACCATTTTAAACAGGGATCACCAACAGCA-GTCACAAAATGCAAA--  31251
+
+33879068-3389   8103 GGAGCAT--CGCATTGGGGGCATCAAGGTAGGTCTGG------GAAAGAA   8144
+                      .|.|||  |||......|||.|||| ..|||.|..|      ..|.||.
+c191014171-19  31252 -AAACATGGCGCTAAATAGGCTTCAA-AAAGGACACGTTTTTCTTATGAG  31299
+
+33879068-3389   8145 AGGGG--CCTGGGGGC-AGGGGC--------TGGAGACA--AGGGATAGT   8181
+                     |||.|  .|.||..|| ||.|.|        |||...||  .||.|..||
+c191014171-19  31300 AGGTGAAACAGGAAGCGAGTGTCATTTTGTTTGGCTTCAGTTGGAAGCGT  31349
+
+33879068-3389   8182 CTGCATCTACTCACAGAC-TAACTAC------CTGCAG------------   8212
+                     .|..|...||||..|..| |..||.|      ||||.|            
+c191014171-19  31350 GTTAAGAGACTCGAATTCTTTGCTGCTGTGTGCTGCTGTGTGTGCACGGG  31399
+
+33879068-3389   8213 -----CTCC----GGCACCA-----GCAGTGGAGCTTGGTCATGGA----   8244
+                          ||.|    |.|.|||     ||..||.|..|.|.|..||||    
+c191014171-19  31400 TGTGTCTTCAAATGACCCCAAAGATGCCATGTATTTAGATTTTGGAGTTA  31449
+
+33879068-3389   8245 -AAGT--------GTG-GTACCC----TC-CGATCGTGGCAACTATACCT   8279
+                      ||||        ||| |||..|    || |.|..|| |||.||.||..|
+c191014171-19  31450 CAAGTAAATTTTAGTGAGTAAACAAGTTCACAAATGT-GCATCTGTAAAT  31498
+
+33879068-3389   8280 -GTG-TAGTTGA--GAA-----------CAAGTTTGGCAGCATCCGGCAG   8314
+                      .|| .|.||||  |.|           |.|.|.||..||||.|.|...|
+c191014171-19  31499 AATGAAAATTGACTGTATTTCTCTTCCCCTACTGTGAAAGCACCTGTGTG  31548
+
+33879068-3389   8315 ACATACACACTGGA--TGTGCTGGGTGAGGGCCA----------GGCCG-   8351
+                     .||||.|.|||.||  ||..||..|.||.||.||          .|||. 
+c191014171-19  31549 TCATATAAACTAGAATTGAACTTTGGGATGGACATATGTTTTAGTGCCAC  31598
+
+33879068-3389   8352 ---GGTGGCTAAGGCAAGGGGCATCTCTG-GGT--CCCTTGG--------   8387
+                        .|||.||         ||..|||||| .||  |||||.|        
+c191014171-19  31599 ACTTGTGACT---------GGTGTCTCTGTAGTAACCCTTAGATTTTGGG  31639
+
+33879068-3389   8388 --------CCCTA----CTGGCC--CTGACCTGACTGC------------   8411
+                             |.|||    |||.||  || .|||||||.|            
+c191014171-19  31640 TGTTTTCTCTCTAGAATCTGTCCTTCT-TCCTGACTCCACCATGTGCACG  31688
+
+33879068-3389   8412 -----CT---CTTGCAGA---GC-------GC------------TCCCCA   8431
+                          ||   |||.||||   ||       ||            ||.|||
+c191014171-19  31689 ATGGGCTCAGCTTTCAGAAGTGCTGAGTTGGCAGTTTTCTTCTGTCACCA  31738
+
+33879068-3389   8432 C-----------------ACCGGCCCATCCTGCAGG-----------CTG   8453
+                     .                 |||.||..|.|.||..||           ||.
+c191014171-19  31739 AAAGAGGTCTCAATGTGGACCAGCTGAACATGTTGGGAGAGAAGCTTCTT  31788
+
+33879068-3389   8454 GG---CTGC-----------------------------------------   8459
+                     ||   .|||                                         
+c191014171-19  31789 GGTATATGCATATTAACTTGTTATGTTTATAAAAATTGAAATTCATAAAA  31838
+
+33879068-3389   8460 ---------------------------CGGC-------------------   8463
+                                                |.||                   
+c191014171-19  31839 ATATCTCTCTAATTGCTCTTTTCCCCTCTGCTATTTTGTTAAAGGTAAAA  31888
+
+33879068-3389   8464 --------CAACCAGACAGCCATTCTAG---------------GC--AGT   8488
+                             .||.|.|.||||..|||.||               ||  |||
+c191014171-19  31889 AAGTACTAAAATCTGTCAGCTTTTCAAGCTATAGTTTATTATAGCTAAGT  31938
+
+33879068-3389   8489 GA----CGTGGAGTTCCACTGCAAGGTGTACAG-----------------   8517
+                     ||    |.|......||...|.|||...||.||                 
+c191014171-19  31939 GAGAATCATATGTCACCTTAGAAAGAAATATAGACCTGATAACATTTAAA  31988
+
+33879068-3389   8518 ------CGATGCACA--GCCACACAT---------------------CCA   8538
+                           ||.|.|.||  |.|.||.||                     |||
+c191014171-19  31989 TGAATCCGTTCCTCATTGTCTCATATTAAGATTTCTGAGATGAATTCCCA  32038
+
+33879068-3389   8539 -------------------------------------GTGGCTG----AA   8547
+                                                          |||||||    ||
+c191014171-19  32039 AGGGAAAGTTTTATGAATTATGTAAAATATATTATTTGTGGCTGAAATAA  32088
+
+33879068-3389   8548 GCACGTGGAAGTGAACG-------------------------------GC   8566
+                     |..|.||||.|.|||.|                               |.
+c191014171-19  32089 GTTCCTGGATGAGAAAGATGAAGGCCTATTAACCATTAACCTTGGGGAGA  32138
+
+33879068-3389   8567 AGCAAGGTGGGCCCTGAC----------------------GGCACGCC--   8592
+                     |..||||..|.|||||||                      |||..|||  
+c191014171-19  32139 AAAAAGGAAGTCCCTGACATGATGAGAAATAAAGTCCTGGGGCTTGCCCA  32188
+
+33879068-3389   8593 CTACGTCACTGTACTCAAGGTAGGCTCTATCCCCGG--------CTGGTG   8634
+                     ||.|..|| |..||.||    .|||.||..||.|.|        |.|||.
+c191014171-19  32189 CTGCAGCA-TAAACCCA----GGGCCCTTGCCTCAGGTGGGGCCCAGGTA  32233
+
+33879068-3389   8635 GCTG-----GCAG--------GGTGGGTG--------GATCAGCTG----   8659
+                     ||.|     ||.|        .|.||.||        ||||.||.|    
+c191014171-19  32234 GCAGAGGATGCCGTCCCCACAAGAGGATGCCTCTTTTGATCTGCAGTTTT  32283
+
+33879068-3389   8660 --------GGTCAGC--CCTGGCCTTGG---------CCCAT--------   8682
+                             ||.|||.  |..|.|..|||         |||.|        
+c191014171-19  32284 GCCTGATTGGACAGAGTCTAGACAGTGGTAGATAATTCCCTTTCAGTGGT  32333
+
+33879068-3389   8683 --ATGTC----------------------------------------CCT   8690
+                       |||||                                        ||.
+c191014171-19  32334 TAATGTCAGTGCATTTATTAGTCCTTCATACTAAACAAATCAAAGATCCA  32383
+
+33879068-3389   8691 CTTGGCTGAAGGATATGTTGGGATTTACCA-------AGG-TATTGGAAC   8732
+                     ||.|.||.||||..|      |||.|..||       ||| |||..||||
+c191014171-19  32384 CTAGTCTCAAGGTCA------GATCTTTCAGTGAGTGAGGCTATCTGAAC  32427
+
+33879068-3389   8733 ---TTCTGAGAAG------GGGCAGCTTAGTTCCAG---TGCATGTC---   8767
+                        ||||...||.      ||.||.|||...|||||   |||.| ||   
+c191014171-19  32428 TATTTCTTTAAAAATCCGTGGACAACTTGTATCCAGATTTGCTT-TCTGT  32476
+
+33879068-3389   8768 --ACCTGCTCTG----AGCTCTAGGC------AGGCTCTG--------TG   8797
+                       |.|.||.|||    ..|||.|..|      |||||||.        .|
+c191014171-19  32477 AGAGCAGCACTGCATTTACTCCAAACAGCAGTAGGCTCTTCCTAACTCAG  32526
+
+33879068-3389   8798 TTACTT------GTGCC-----------------CTGCTGT--------G   8816
+                     |.||||      |||||                 |.|||||        .
+c191014171-19  32527 TGACTTTCAACAGTGCCTTCTTCTCTTGGATATGCAGCTGTCACAGTGGT  32576
+
+33879068-3389   8817 GGACTTGT-CTG----CTCCGAGGACTGAGCCTGCAGA----AGTTTTCT   8857
+                     ||.||||| |||    .|.|.||.||..|..|..|..|    |.||.|.|
+c191014171-19  32577 GGTCTTGTGCTGTTTAATACAAGTACAAAATCCCCTTATTCCATTTCTTT  32626
+
+33879068-3389   8858 CTTGGGTAACAGTTATGGTGG--CTCAGGGCAGGAGG--ATGACTGCTGA   8903
+                     .||.|||.|.|||||.|..||  .||....|..|..|  |||.||..|..
+c191014171-19  32627 ATTTGGTGAGAGTTAAGAAGGATATCTTTTCTAGCTGTAATGGCTCATTT  32676
+
+33879068-3389   8904 GTTAGTACCCTCTGGACCCCAGGGGACTGGCTAGACACTCTCCAGCTGGC   8953
+                     | ||||.|.||.||.|..|| |...|..||||...|.| |||.. ||.||
+c191014171-19  32677 G-TAGTTCTCTTTGAAGACC-GATAATGGGCTTACCGC-CTCTT-CTCGC  32722
+
+33879068-3389   8954 CCGGATTGGCTGGTGTCATCTGC-TTGCATTTAGCACTGG----CT--CT   8996
+                     ||    .|||||.|.|.||.||. |.||...||.|.|.||    ||  ||
+c191014171-19  32723 CC----AGGCTGCTTTAATTTGTGTAGCTAATAACCCCGGGCTTCTTCCT  32768
+
+33879068-3389   8997 GTCCTGCCCCTCCCT---------------------CTGCCTGTAGCAAG   9025
+                     .||.|..|.|||.||                     ||||||| |||   
+c191014171-19  32769 CTCGTTTCTCTCACTTGGTTTTTGATTTGCATCAGACTGCCTG-AGC---  32814
+
+33879068-3389   9026 TTCCATACCC-----------GAGTTCAGGACTTTGCGATACTGGAAGCC   9064
+                       ||||..||           .||.|.|||....||| |||....|.|.|
+c191014171-19  32815 --CCATGTCCTATTTGGAGGAAAGCTGAGGGAAATGC-ATAAATAATGTC  32861
+
+33879068-3389   9065 CAAAGAAAAC--------------AGCTG-----TTGAGAGACAA--GGA   9093
+                     .|||..||||              |.|.|     ||||....|.|  ||.
+c191014171-19  32862 TAAAATAAACTTGTAAAGTCAAGTATCAGTTACATTGAAGATCTAGGGGT  32911
+
+33879068-3389   9094 GGTCT----------GGTTGGG----GAAAGGAAT----AGGGATTGTTT   9125
+                     |.|||          |||||..    ||||..|||    ..||||..||.
+c191014171-19  32912 GATCTTGGGCACCTAGGTTGAACTTTGAAAAAAATTCTGTAGGATCCTTG  32961
+
+33879068-3389   9126 GGAACAGGAACCCTG----GCTGTTGAGAAAGAGGCCACTGG-----GGT   9166
+                     |||...||..|.|||    ||.|..|||.|||.   ||.|||     ||.
+c191014171-19  32962 GGAGAGGGGGCTCTGCTGAGCAGCAGAGGAAGG---CAGTGGGAAGAGGC  33008
+
+33879068-3389   9167 CCTGTCT---GATGCGTCTC----------------ACAC---------T   9188
+                     .|||..|   ||.||.||||                ||||         .
+c191014171-19  33009 ACTGGATAGGGAGGCTTCTCTAGGAGGCCCAGCAGAACACCTTTGATTTA  33058
+
+33879068-3389   9189 GTG-----GGC-------GTGGATGTTCACGAGAATAAG-----C---TA   9218
+                     |||     |||       |..||||.||..|..|..|||     |   .|
+c191014171-19  33059 GTGCAAAAGGCAAAGTCAGCTGATGGTCTTGGAAGGAAGTGTAACATGAA  33108
+
+33879068-3389   9219 GTTGCCCTAAAAAGA---TCC-----------------------------   9236
+                     |..||..|||||.||   |||                             
+c191014171-19  33109 GAGGCATTAAAAGGACTGTCCTCTCTTTAGAGGAGGGAGGGAAAAGGGGG  33158
+
+33879068-3389   9237 -CTGGGGTGAGAGT------TTAG--AGGC--TGTGG-GTTACAGGTTTT   9274
+                      ||||||.|.|||.      .|.|  ||||  ||||. |||.|. |.|||
+c191014171-19  33159 GCTGGGGAGGGAGAGAGCAGATGGTAAGGCTTTGTGATGTTTCC-GCTTT  33207
+
+33879068-3389   9275 CTCT-----CTCTC-------------------TCTTCC--CCTTCCC--   9296
+                     |.||     |||||                   |||.||  ||.|.||  
+c191014171-19  33208 CCCTAAAAACTCTCATATCGTGGTGCCCAGGAATCTGCCATCCATTCCTT  33257
+
+33879068-3389   9297 ------------------CCAAC----------------CC---------   9303
+                                       |||||                ||         
+c191014171-19  33258 TCTGCCATTAAACTCAAACCAACATATACATATTTTAGACCATTTAAATT  33307
+
+33879068-3389   9304 CCGCCTCCT------CCGTT---------CTCTGTGTGT---GCGTGTAT   9335
+                     |||||..||      .|||.         |||.||...|   ||.|..|.
+c191014171-19  33308 CCGCCCTCTTACAGCACGTATTATAATTGCTCAGTTAATTTGGCATTAAG  33357
+
+33879068-3389   9336 GTAAGCGTGTATGTGTACCTGTGGTGACAGACA-------TGGAGAGAAG   9378
+                     |||..||...|||| .|.|||||  .|||.|||       |.|.|.|...
+c191014171-19  33358 GTATCCGAAAATGT-CAACTGTG--TACATACAATCTTTGTTGGGTGTTT  33404
+
+33879068-3389   9379 GCCTCTTT----------------CTGAAACCA--CG-CCCACCACTGC-   9408
+                     |.||||||                |...|.|||  || ||.||||..|| 
+c191014171-19  33405 GGCTCTTTTCCTTGAGAGCAAATACAAGAGCCATCCGTCCAACCAAAGCT  33454
+
+33879068-3389   9409 --------------------------------------------------   9408
+                                                                       
+c191014171-19  33455 TTAGAATCAGTTTCTGTTTGCTGAAAAATCTGGTTTTTATTTGTTTAGGT  33504
+
+33879068-3389   9409 CATGACG--TGCCTC------CTC--TCC-----------------AGGC   9431
+                     |.|.|||  .|||.|      |||  |||                 |||.
+c191014171-19  33505 CCTAACGCCAGCCCCGATGGTCTCATTCCGTGGACGAGGTTTTGTAAGGT  33554
+
+33879068-3389   9432 ---GGCTTTCCAGGCTT--TGCT------GCCC----AGCCCATCTTTGG   9466
+                        |.||.||..||.||  ||||      |.||    .||.|.|..|||.
+c191014171-19  33555 GAGGACTGTCTGGGTTTTATGCTCTCTAAGTCCTTTTTGCTCTTGGTTGA  33604
+
+33879068-3389   9467 GAATCTCC-----CTTGC-----------CCTGCC---------------   9485
+                     |..||||.     |||||           |.|..|               
+c191014171-19  33605 GGTTCTCATGTTTCTTGCTGTGATAGTTACTTAACTGTTTGCTTATTTTG  33654
+
+33879068-3389   9486 ------TCATC-CT----------CACATC-------------------C   9499
+                           ||.|| ||          |.|.||                   |
+c191014171-19  33655 GCGTGTTCTTCTCTGGCCAAGGAGCCCCTCGGGCAAGTTGTTTACTTTTC  33704
+
+33879068-3389   9500 TTCCGTCCT-----------TCCGGAGCTGG---CT--CGGGGTG----T   9529
+                     |||.||.|.           ||| ||||.||   ||  |.||..|    |
+c191014171-19  33705 TTCAGTGCAGGAGGTTGGTCTCC-GAGCAGGAGTCTGACAGGAAGCACCT  33753
+
+33879068-3389   9530 GCCTGAG--------------------------------------CCCAG   9541
+                     |||||||                                      |.|..
+c191014171-19  33754 GCCTGAGTGATAACATTCTTTCATATCTGAAATGAGGCTTCTGTTCACTC  33803
+
+33879068-3389   9542 TCTCTTGTCCCC------GCAGT-------CCTGGATCAGTGAGAA----   9574
+                     .|.||.|.||||      |||||       || ...||.|||.|||    
+c191014171-19  33804 ACGCTGGACCCCTGCCCAGCAGTGTTTTAGCC-ATTTCTGTGTGAAATGT  33852
+
+33879068-3389   9575 ----TGTGG--AGGCAGACGCACGCCT---CCGCCTGGCCAATGTGTCG-   9614
+                         |||||  .||..|.|||| ||||   |.|||.|.|.|.|.|..|| 
+c191014171-19  33853 ATGTTGTGGGCTGGGTGGCGCA-GCCTGACCAGCCAGACGAGTTTAACGG  33901
+
+33879068-3389   9615 -------GAGC----GGGACGGGGGCGAGTACC--------TCTG-TCGA   9644
+                            ||||    |||.|....|||.|.|.|        |||| |.||
+c191014171-19  33902 CCTGCTCGAGCAGAGGGGCCCACTGCGGGGAACATTTAGATTCTGCTGGA  33951
+
+33879068-3389   9645 GCCACCA---ATTTC--ATAGGCGTG----GCTG---------AG---AA   9673
+                     |.|||||   |.|.|  |...||.||    ||||         ||   ..
+c191014171-19  33952 GTCACCAGACAGTGCGGACCAGCTTGCACTGCTGGATTTTGCTAGTGTGG  34001
+
+33879068-3389   9674 GGC--CTTTTGGCTGCGTGT-TCACG-----GG----CCCCAAGC-AGGT   9710
+                     |||  |||.||..|.||||. |||||     ||    |||||.|| ||.|
+c191014171-19  34002 GGCAGCTTGTGTTTCCGTGAGTCACGCTGGAGGTCACCCCCAGGCTAGCT  34051
+
+33879068-3389   9711 AACGACTCTGT-----------CCCATGCCTGCC--------TGGCACGC   9741
+                     ..|.|||.|.|           |..|..||.|||        |||...||
+c191014171-19  34052 TGCTACTGTTTGGAAAGGGAAGCAGAGCCCGGCCCAGGGAAGTGGAGAGC  34101
+
+33879068-3389   9742 T-----GAGCTCC-------------------AGC---------------   9752
+                     |     |||||||                   |||               
+c191014171-19  34102 TCTGGAGAGCTCCTGGTCTGAATGCTGATAAGAGCGGGGAGGGAACTTGA  34151
+
+33879068-3389   9753 --TTCAATGCC-----------CCCA--GCCGTGC-------------AC   9774
+                       |||..||||           ||||  ||.||||             .|
+c191014171-19  34152 TATTCCCTGCCAGGGGAGGGATCCCATTGCTGTGCTGAATGGGACAGTTC  34201
+
+33879068-3389   9775 CTGCC-------------------TGCAT---------------GCC---   9787
+                     |..||                   ||||.               |||   
+c191014171-19  34202 CATCCTTGGCACCTGGGGAGTCTTTGCAAATGATGGTGGGAGGGGCCATG  34251
+
+33879068-3389   9788 ----------------------------------CTGC--------ACGA   9795
+                                                       ||||        ||..
+c191014171-19  34252 GTAAGTCATTGTTTTAGATTTTTGTTCATAATGTCTGCATTTGTATACTT  34301
+
+33879068-3389   9796 ACTG------------------------CCCTGCTTGACCCTG-------   9814
+                     .|.|                        ||||.| ||.|..||       
+c191014171-19  34302 TCAGGAAAATATAAATGATAAAAATTTTCCCTTC-TGGCTTTGGATTGAA  34350
+
+33879068-3389   9815 -----CCTGTGACTC---------CAACT-CTACTT-------GTGAT--   9840
+                          |||...||||         ||.|| ||.|.|       .||||  
+c191014171-19  34351 AGCATCCTAGAACTCATTAAAAAACACCTGCTCCCTCTCTGGAATGATGG  34400
+
+33879068-3389   9841 ------GCCTC-----------------AAC--------AATACT----G   9855
+                           |||.|                 |||        |.|.||    |
+c191014171-19  34401 GTAAGGGCCACCGATAGATGTATTTTGAAACATATTTTTAGTGCTGCGAG  34450
+
+33879068-3389   9856 GT-------AGCCC-----CCAGTTAC---CACTGACT-GAC-TGTTTGC   9888
+                     ||       ||.||     ||||.|.|   ...||||| |.| |||.||.
+c191014171-19  34451 GTTGAGACAAGGCCTGAGTCCAGCTTCAGTATTTGACTAGGCGTGTGTGA  34500
+
+33879068-3389   9889 TTC---------AGCGC------------CCCCT----------------   9901
+                     .||         .||||            |||||                
+c191014171-19  34501 ATCTCACAGGAGTGCGCATTTATAGGCTGCCCCTTCAGGGCTTCAGAAGA  34550
+
+33879068-3389   9902 ------CCCCAAA-----GGCCT------------GTGC-------TGT-   9920
+                           ||.||.|     ..|||            ||.|       ||| 
+c191014171-19  34551 GTAGAACCTCATAACATTAACCTTACACTTTCTTAGTACAAGTATATGTA  34600
+
+33879068-3389   9921 ------------------------------TCTCTTGCATCCCCCACTTG   9940
+                                                   .||||||..|.||...|.||
+c191014171-19  34601 TTGGCAAAGCTAAATTAAAAAAAAAAAACAACTCTTGAGTGCCATTCATG  34650
+
+33879068-3389   9941 CAT------ACTCA--GAAGATCTGTAGAG--CCTATTA-GGGGCCAC--   9977
+                     |||      |||||  .||.||.|.|.|||  ||||.|| |.||||.|  
+c191014171-19  34651 CATTCATTCACTCAACAAAAATTTTTTGAGCACCTACTATGTGGCCCCTA  34700
+
+33879068-3389   9978 ----------------------------------------GTCCTGCGTT   9987
+                                                             .||.||..||
+c191014171-19  34701 GGAAGGAAGAAAAACCCTTTTAACTGGGTAAATCATTTCTATCTTGACTT  34750
+
+33879068-3389   9988 GTGTGTGAGCATCGAC----CTTACACC--CATCTCCAGCT---------  10022
+                     .| ||..||.||||.|    .||.||.|  .|.||..|.||         
+c191014171-19  34751 AT-TGCCAGGATCGGCTGATATTTCAACAGAAGCTTTAACTTGATCAGAA  34799
+
+33879068-3389  10023 -GGCTGA---------------TGCCTTCTGGCTTCCTGTCCA-------  10049
+                      ||||.|               |||| |..|.||||||.||||       
+c191014171-19  34800 GGGCTAAAATATGAAAATATATTGCC-TAGGTCTTCCTCTCCAGTAAAAA  34848
+
+33879068-3389  10050 --------TCCATCTGTC-------TGGCCCATCTTTTCGT---------  10075
+                             .|..||.|.|       |||||..|....|..|         
+c191014171-19  34849 AGATGTATACATTCAGACATTGTTATGGCCTTTAAAATAATAAAGGAACA  34898
+
+33879068-3389  10076 --------CTGCAT------CTCTCCTGTTTCTGCACTAATTCTGCATGC  10111
+                             || |||      |.|.|.||||..||..|...|...||||.|
+c191014171-19  34899 ATAAAAGGCT-CATTAATCCCACACGTGTTATTGAGCATCTGTAGCATCC  34947
+
+33879068-3389  10112 TGC-------------------CTTTGTGTGGCACC--------------  10128
+                     |.|                   ||||.|.|...|||              
+c191014171-19  34948 TACTGACACCATGTTCATATCGCTTTTTTTAAAACCTTAGTATATACATG  34997
+
+33879068-3389  10129 ----------GTGCTGCC--------CACCTG------------------  10142
+                               .||||.||        ||.|||                  
+c191014171-19  34998 TATAAGTGAAATGCTTCCTTAAGTGTCAACTGAACAGATTTTAAAATAGT  35047
+
+33879068-3389  10143 ------------CC--------TGTTGCTCAC--------------CTTG  10158
+                                 ||        |.||.|||||              ||||
+c191014171-19  35048 CTACGTTTTTTACCGTAGGTTTTTTTTCTCACATTCCAGCCATTTTCTTG  35097
+
+33879068-3389  10159 G---GACAGAGGACTCGCCACTGG------TGGAGGGACTGG-----CTT  10194
+                     |   |..||....|..|..|.|||      ||...|.|||..     |.|
+c191014171-19  35098 GTTTGTAAGTTAGCATGAAAATGGAAATCATGATTGAACTAAAAGCCCAT  35147
+
+33879068-3389  10195 CAGGC-------TCGGT-------TGCCTCAG----------TGCAGGAG  10220
+                     |.|.|       |||.|       |||.|||.          .|||.|..
+c191014171-19  35148 CCGTCCATCTCTTCGATATCCAGGTGCATCATGGGCTTCATCAGCAAGGA  35197
+
+33879068-3389  10221 GC---AGAGGGCCCT--------------------GGGCCT-----CTGT  10242
+                     ||   ||.|.|||||                    ||.|||     |||.
+c191014171-19  35198 GCGAGAGCGTGCCCTGTTGAAGGACCAGCAGCCGGGGACCTTCCTGCTGC  35247
+
+33879068-3389  10243 GG--CTGTGGCAGGGCCATGGTGGTGGCC--------------GAAGATG  10276
+                     ||  |.|||..||..||..||..|.||||              |..|..|
+c191014171-19  35248 GGTTCAGTGAGAGCTCCCGGGAAGGGGCCATCACATTCACATGGGTGGAG  35297
+
+33879068-3389  10277 TGGT--------GGTGGCGGC-----GGCGTT------------------  10295
+                     .|||        ||.|||||.     ||.|||                  
+c191014171-19  35298 CGGTCCCAGAACGGAGGCGGTGAGTGGGAGTTTGAGCACATAGTCCCACC  35347
+
+33879068-3389  10296 -TTCCTT----------------------GCAGCCTGGCTG---------  10313
+                      ||||.|                      ||.|||.|.|.|         
+c191014171-19  35348 ATTCCATGTGTGTGAAGTCCCTCTTCATCGCCGCCAGTCAGCTCATACAG  35397
+
+33879068-3389  10314 ---------------------------GATCAT-------CTCCATGTGA  10329
+                                                ||||.|       |.|||..|||
+c191014171-19  35398 ATAGTGCGTTTGGGACATGAAATTGCAGATCTTATACTTACCCCAAATGA  35447
+
+33879068-3389  10330 ---ACTGCTATGGT----------ACC-CAAAGG---GAGGTGCTGG--C  10360
+                        .|.|.||.|.|          ||| ||||.|   |.|||..|||  |
+c191014171-19  35448 GCCCCCGATAGGATTTAATAAACCACCACAAATGTTTGTGGTTGTGGTTC  35497
+
+33879068-3389  10361 ACTCGC--------------------------------------------  10366
+                     ||||.|                                            
+c191014171-19  35498 ACTCTCTGGAACATATTGTGGAAATGATGGTTTTGAAAAGACAATGCCAA  35547
+
+33879068-3389  10367 --CTATC----GC----GCTCTGTTCTC-------------------TCT  10387
+                       ||.||    ||    |.|.||||.||                   ||.
+c191014171-19  35548 TTCTTTCCTTTGCATCAGGTTTGTTATCTGCAGATCAAGGATGTGAGTCA  35597
+
+33879068-3389  10388 TTGTAGACTG--------------------------------CAGGCGCT  10405
+                     .||||..|||                                ||||.|..
+c191014171-19  35598 ATGTAATCTGCAACCCGTTCTTGGAAGGAATCACATTTCCCACAGGAGTA  35647
+
+33879068-3389  10406 AACA-CCAC-------------CGACAAGGAGCTAGAG-GTTCTG-----  10435
+                     |.|| ||||             |..|...||| ||||| ||.|.|     
+c191014171-19  35648 AGCATCCACATTCTCTTAGGGTCATCCCAGAG-TAGAGTGTGCAGATGAG  35696
+
+33879068-3389  10436 -------TC------------CTTGCACAATGTC----------------  10450
+                            ||            |.|.||||...||                
+c191014171-19  35697 ACAGGCTTCGGGAGAAGACTTCATACACATCATCAGCCAGGGAGTTGATG  35746
+
+33879068-3389  10451 ----ACCTTTGAGGACGCGGGGGAG----TACACCTGCCT--------GG  10484
+                         ||||.|..|||||.|.||.||    ||| |||||||        .|
+c191014171-19  35747 CAGGACCTGTTGGGACGAGTGGCAGCCTCTAC-CCTGCCTTCAAACAGAG  35795
+
+33879068-3389  10485 CGG--GCAATTCTAT------------TGGGTTTTCCCATCACTC-----  10515
+                     |.|  ||||.|.|||            ||||.||||...|.|.||     
+c191014171-19  35796 CAGCTGCAAATTTATCTTTATCATATATGGGGTTTCTATTTAATCAAATG  35845
+
+33879068-3389  10516 --TGCGTGGCTGGTGGTGCTGCCAGGTA----------------CTGGCT  10547
+                       |.|.|||||....| .|| ||||..|                |.||.|
+c191014171-19  35846 AGTCCATGGCTAAAAG-ACT-CCAGAAACCTTGGTGTTATGAAGCAGGTT  35893
+
+33879068-3389  10548 TCTG-----------CTGCTGC-------------TCATGCCG--CACCT  10571
+                     ||||           |..|.||             ||||...|  ||.||
+c191014171-19  35894 TCTGAGGGTGAAGCTCAACAGCGTAAATGAAAAAATCATAAAGACCAACT  35943
+
+33879068-3389  10572 G-------TCCTC------TTAGGGTGCTGTCT-----CAGGACATGC--  10601
+                     |       |.|.|      ||||.||...||||     .|||.||.|.  
+c191014171-19  35944 GATTACTTTTCACTGTTGTTTAGAGTTTGGTCTGTTTGAAGGGCAGGAGG  35993
+
+33879068-3389  10602 CAAAGCTGCCAGG---------------GAC-TTCAGGGGG----CCCAT  10631
+                     .|||.|||....|               .|| |||||.|||    |.||.
+c191014171-19  35994 AAAAACTGATTTGTTTTAGTAATTTTTATACTTTCAGTGGGTAGACACAA  36043
+
+33879068-3389  10632 CCTGTGAAACTCACC-----------------CAGG-------CTTTGTG  10657
+                     ..||..|.||||..|                 |.|.       ||.|...
+c191014171-19  36044 AATGGAATACTCTTCTTGTTCTATTTATTTTTCTGAAATATTCCTCTTCT  36093
+
+33879068-3389  10658 CTTGGTG---TGGAA-AC-------------ATGAATCTGCCCTGCCTGT  10690
+                     |.||.|.   ||||| ||             .|...||||||.|.|...|
+c191014171-19  36094 CCTGTTTTTCTGGAATACTCTTATTCTATTTGTTTTTCTGCCATACTCTT  36143
+
+33879068-3389  10691 CTTGGTC-----------CTGCAAGGGCCTCTTC----------------  10713
+                     ||||.||           |||.||  ..||||||                
+c191014171-19  36144 CTTGTTCTGTTTGTTTTTCTGGAA--TACTCTTCTATTTTTTTTTTCTGG  36191
+
+33879068-3389  10714 ------------TCTAG--------------CAGGGCCCCCC--ATAGTC  10735
+                                 |||.|              ||||....|.|  .|.||.
+c191014171-19  36192 AACGGTATTCTTTCTTGTTCTGTTTATTTTTCAGGAATACTCTTCTTGTT  36241
+
+33879068-3389  10736 CTGATCTGAGGCTCTGG----CATTTC-----------------------  10758
+                     || ||.||....|||||    |.||||                       
+c191014171-19  36242 CT-ATTTGTTTTTCTGGAATACTTTTCTTGTTCTATTTTTCTTCTGAGGA  36290
+
+33879068-3389  10759 -----CTGGGTGCCTGGGTAGC------GGTGTGGGTG-----CTTCTGG  10792
+                          |.|||.|.|||.|..|.      ||.|||||..     |.|..|.
+c191014171-19  36291 AAAAGCAGGGAGGCTGAGATGAGAGTCTGGCGTGGGCAGTAGTCATTAGA  36340
+
+33879068-3389  10793 CTCTGCTGGGTTTCTC---TCCTGGGCGTGTCC----CCTGCTGGCTCTC  10835
+                     ..||||....||.|||   |||||..|...|||    ||.||||.....|
+c191014171-19  36341 ACCTGCCCTTTTCCTCTTATCCTGTTCCCTTCCTGAACCAGCTGAGAGAC  36390
+
+33879068-3389  10836 AGATGT-------------GTTTTGATTATACTACAAGGC------GAGT  10866
+                     ||||.|             |...|||..|.|...|..|||      ||..
+c191014171-19  36391 AGATATAGTAGACCAAGCAGAGATGAAGAAAACCCTTGGCAACCAGGAAA  36440
+
+33879068-3389  10867 GG-------GGGGGCCATCAGCC--------------------CCTCTTC  10889
+                     ||       ||...|.|.|||||                    |.|..||
+c191014171-19  36441 GGTCAAGCAGGACACTACCAGCCAGGAAGGGTTAGGATGGCAGCATAGTC  36490
+
+33879068-3389  10890 TC-----------CAAGTATCCCAGGTC-CCT--TCC-------CT----  10914
+                     ||           ||.|...|||||..| |||  .||       ||    
+c191014171-19  36491 TCATGTTCCACAGCAGGCTCCCCAGAACACCTGAACCGTGGCCTCTGGAA  36540
+
+33879068-3389  10915 ------CCCCCACTGGGG---CCTGT---------------GG-------  10933
+                           |.||||..|||.   .||||               ||       
+c191014171-19  36541 GGTCGACACCCAAAGGGAGATTCTGTATCAGCTAGGAAGAAGGATCTGAA  36590
+
+33879068-3389  10934 TTCCGGCCGGG-------CCGGGGG------AAAGCTTG-----------  10959
+                     |||.|.|.|||       .||||.|      |||.|.||           
+c191014171-19  36591 TTCAGTCTGGGAATAAGAACGGGAGTAAATTAAACCATGGTTTATTACGT  36640
+
+33879068-3389  10960 AAAAGG---CTGG---ATGAGGC---------------------------  10976
+                     .||.||   |.||   |||..||                           
+c191014171-19  36641 TAAGGGTTACAGGGAAATGTAGCAAATAGGATCATTTTTAATTTGAAATG  36690
+
+33879068-3389  10977 --------------------------------------------------  10976
+                                                                       
+c191014171-19  36691 TTGTTTTCTATATATCATAATTTATTTTAATAAAAAATTAGATTTTTCAA  36740
+
+33879068-3389  10977 ----------------------------CCCAA--AATTTGTATCTTTGC  10996
+                                                 |.|.|  |||||..||||.|| 
+c191014171-19  36741 TATGAAAAGAAAAACAAAGTGAGTTTATCTCTAGTAATTTAAATCTGTG-  36789
+
+33879068-3389  10997 AGCTGAGGAGGAGCTGAT-------------GGAAACTGATGAGGCT---  11030
+                      |||.|.|...||.||||             .|..|.|.|||.|.||   
+c191014171-19  36790 -GCTTAAGCCAAGATGATCCACTTAGTAGTAAGTTATTTATGTGCCTATG  36838
+
+33879068-3389  11031 GGCAGC--------GTGTACGCAGGC-------------------GTC--  11051
+                     ||||||        |...|.||||||                   .||  
+c191014171-19  36839 GGCAGCACATCATTGAAGATGCAGGCTTTTAAAGGTTTTTAATAAATCTT  36888
+
+33879068-3389  11052 -----CTCAG----------CTACG----------------GGGTGGTCT  11070
+                          |.|||          |||.|                |..||.|.|
+c191014171-19  36889 TTTTGCCCAGATTTATAAATCTAAGCAAATAATGGCAAATAGAATGTTAT  36938
+
+33879068-3389  11071 T----------CTTCCTCTTCAT----CCTG-----GTGGT---------  11092
+                     |          |.||| |||.||    ||||     ||..|         
+c191014171-19  36939 TGAGAATAATACCTCC-CTTTATTTTCCCTGAGACAGTATTATAATTTAT  36987
+
+33879068-3389  11093 ----------GGCA---------------------GC------TGTGAT-  11104
+                               .|||                     ||      |||||| 
+c191014171-19  36988 TTAGAAATAAAGCAGTCTACTGTATATGTTATAATGCTTAGATTGTGATT  37037
+
+33879068-3389  11105 ------------------------------ACTCTGCCG------CCTGC  11118
+                                                   |||||||.|      ..|.|
+c191014171-19  37038 AGTTCTTATGAGGTTCACTCAAATCCATCAACTCTGCAGTGTTTTATTTC  37087
+
+33879068-3389  11119 GCAGTCCCC---CA----AAGAAGGGCT-TGGG---------------CT  11145
+                     .|.||||.|   ||    ..||.|..|| ||||               ||
+c191014171-19  37088 TCTGTCCTCTTTCATTTTGGGATGTTCTATGGGATTTACTTAGCTTTTCT  37137
+
+33879068-3389  11146 C-------------GCCCACCGTGCACAAGGTCTCT---CG---------  11170
+                     |             |.|..||.|||....|..|.||   ||         
+c191014171-19  37138 CCTTTTTAGAACCTGACTTCCATGCGGTTGAACCCTACACGAAGAAAGAA  37187
+
+33879068-3389  11171 CTTCCCGCTTAAGCG---ACAGGTAACAGAAAGTAGATACCAGGTTTTGA  11217
+                     |||.|.|||....|.   .|.|..|.|| ...|.|..|||.|.||..|| 
+c191014171-19  37188 CTTTCTGCTGTTACTTTCCCTGACATCA-TTCGCAATTACAAAGTCATG-  37235
+
+33879068-3389  11218 GCTCCCTG-------TCCTG-----CCTC----GTGTC----TCCT----  11243
+                     ||| .|||       |||||     ||.|    ||.||    |||.    
+c191014171-19  37236 GCT-GCTGAGAATATTCCTGAGAATCCCCTGAAGTATCTGTATCCAAATA  37284
+
+33879068-3389  11244 -----AGAGTCCCAGC--------AG----------GGCC----------  11260
+                          |.||.||..||        ||          ||||          
+c191014171-19  37285 TTGACAAAGACCATGCCTTTGGAAAGTATTACTCCAGGCCAAAGGAAGGT  37334
+
+33879068-3389  11261 ---TGGGGCCTGCC-----------CGGGACATAGTTTCTGTGGTTGGGT  11296
+                        ||||||..||.           ||.|.||.|||.|.|...|.||.|.
+c191014171-19  37335 AAGTGGGGCAAGCAGGTGGTAACAGCGTGGCACAGTCTTTCCTGATGAGG  37384
+
+33879068-3389  11297 GGG--------CTGATG--CCTCC----------TTATC--TCCATATGG  11324
+                     |||        ||||..  ||.||          ||..|  ||.|..|||
+c191014171-19  37385 GGGTGATTATTCTGAAACTCCACCCATGCAGTGTTTTGCTTTCGAATTGG  37434
+
+33879068-3389  11325 --AGCTCAGGTTTT----------------CTCTG---AGGTGCAAAA--  11351
+                       ||...|||.|||                |||.|   |||||.||.|  
+c191014171-19  37435 TAAGAGTAGGCTTTCAAAAGATGGCATAAACTCAGTGCAGGTGAAACATA  37484
+
+33879068-3389  11352 ---CATTTTTAGGAGTCTTA-----AGTCACCACTGTATAG---------  11384
+                        ||||.||.||..|..||     |||.|..|.||.||.|         
+c191014171-19  37485 ATGCATTATTTGGCCTGATACAGCTAGTAAGAAATGAATGGACAATTTCC  37534
+
+33879068-3389  11385 -------------------AAGTCCG-AGCAG-----------------C  11397
+                                        ||||||. .||.|                 |
+c191014171-19  37535 TATTTTAGGAATGTTGGAAAAGTCCATTGCTGGTCTTGTGTATTTGTTAC  37584
+
+33879068-3389  11398 TAGCCCTTTT----CTTG-------------------GCT--------CC  11416
+                     ||.|.||.||    |.||                   .||        ||
+c191014171-19  37585 TATCACTGTTTCCACATGAAAAGGGTTTAAATAAGGAACTGTGGTAAACC  37634
+
+33879068-3389  11417 A--------CACCTTGC-CTCAT--------AGG---CT-TGACCTTG--  11443
+                     |        ||.||||| |.|.|        |||   || .|.|||.|  
+c191014171-19  37635 AACAGAAGGCATCTTGCTCACGTTAAAGTTGAGGAAACTGAGGCCTGGGA  37684
+
+33879068-3389  11444 --------------CCATCCTGGAGGCTC---TACCACCCCACCCCTTTT  11476
+                                   |..|...||.|||.|   |||...|.....|||.||
+c191014171-19  37685 GAAGTGAAGTGGTTCATTTAGGGTGGCCCAATTACTTACTAGATCCTATT  37734
+
+33879068-3389  11477 ACAAT--------------------GCC-------------CAGCCCAC-  11492
+                     ...||                    |||             |||..|.| 
+c191014171-19  37735 TTTATTAGATAATTATTAAGAGGAGGCCTCATCTGAGAACACAGGTCTCT  37784
+
+33879068-3389  11493 -----CCACGTTGT------------------ATGGTACCAATTTGTCCT  11519
+                          |...|||||                  |.|||.|.||||.|.|||
+c191014171-19  37785 TGCTTCTCAGTTGTCAATGAATTGCATTTGAGAAGGTTCGAATTAGACCT  37834
+
+33879068-3389  11520 GATG------------ACCCAAGCAGGTGTCCTT-GGAATCTAACTCCTC  11556
+                     |.|.            |||.|...||.|||..|| .|||||..|...|||
+c191014171-19  37835 GTTTTGTTTGGAACACACCAACAAAGCTGTTTTTCAGAATCAGAAATCTC  37884
+
+33879068-3389  11557 TAT----GAAC---------------------TCCAACACACCCCTTGTC  11581
+                     .||    |.||                     |||....|...|||||.|
+c191014171-19  37885 AATATTAGGACAATTACTTTGGAATGAAGATGTCCCCAGCTTACCTTGAC  37934
+
+33879068-3389  11582 CG----GA--------TTGCCCGGC---TGTC------------------  11598
+                     .|    ||        |.|||.|||   ||.|                  
+c191014171-19  37935 AGCTGTGAATATTCATTAGCCAGGCTAATGCCAATAAACTGGATAGAACT  37984
+
+33879068-3389  11599 --------------CTCAGG-----AGAAGG---TCCTGTT---------  11617
+                                   |||||.     .|.|.|   ||..|||         
+c191014171-19  37985 TTGCATATTTTGGGCTCAGACTTCTTGTAAGATTTCAAGTTGTGTAAAGA  38034
+
+33879068-3389  11618 --------CTGGCCAATGT--TTCTGAACTTGAGCT--------GCCTG-  11648
+                             ||.||.|.|||  |.||||||...||||        |.||| 
+c191014171-19  38035 GAAAGCTCCTAGCTAGTGTCCTGCTGAACACTAGCTTATTTCCAGACTGA  38084
+
+33879068-3389  11649 ---CTGACCC-----CAAGTGGG---AGCTATCC------------AG--  11673
+                        |.||.||     |..||.|.   .||..|||            ||  
+c191014171-19  38085 ATTCAGATCCTTCTTCTCGTTGTTTCTGCATTCCCACTAGAATTTTAGGT  38134
+
+33879068-3389  11674 GACCCGGTCAGTGGTGGTGAGGG--ACAGTATGTACTTGGTGG------G  11715
+                     |||.|.|.||| ||.|||.|..|  .|...|.||..|.||.||      .
+c191014171-19  38135 GACTCAGGCAG-GGAGGTTATAGCTCCTTAAAGTTTTAGGAGGCTAAGCT  38183
+
+33879068-3389  11716 GTTTAG---------------TATATACC----------TGGTG-GGGGT  11739
+                     ||.|||               |..||.||          ||.|| .|..|
+c191014171-19  38184 GTCTAGAAACACAGTAGAACTTTAATCCCCCCGAAAAGTTGATGTTGTAT  38233
+
+33879068-3389  11740 TCTG---------CGGTTGGGGG----------CTAGG----------TA  11760
+                     ||||         ||||||..||          |.|.|          ||
+c191014171-19  38234 TCTGATGGAATTTCGGTTGATGGAAAGCGTACACAATGTGTTTATTTCTA  38283
+
+33879068-3389  11761 GCTACTAGGC---AGGGCCTTGTTGG------AGG---------TATC--  11790
+                     ||..|...||   .||..||||.|||      |||         ||||  
+c191014171-19  38284 GCACCAGAGCCAATGGAACTTGATGGCCCTAAAGGAACTGGATATATCAA  38333
+
+33879068-3389  11791 -CCCGAGAT-ACTCCAGGG--TGAGGTTTGAG-------------GGGTC  11823
+                      .|.|||.| |.|.|.|.|  |||.||.|.||             |.|.|
+c191014171-19  38334 GACTGAGTTGATTTCTGTGTCTGAAGTGTAAGTGAACACAGAAGAGTGAC  38383
+
+33879068-3389  11824 ATTCTT--TGTCTTCATG--AGCAAATGCCCCTAG--GGTTTCTG----A  11863
+                     ||..||  ...|.|||.|  ||| ..|||.|||.|  ||...|||    |
+c191014171-19  38384 ATGTTTACAAACCTCAAGCCAGC-CTTGCTCCTGGCTGGGGCCTGTTGAA  38432
+
+33879068-3389  11864 GATAC---AGTGGTACATGAC-----------------CCATGAGGGCTG  11893
+                     |||.|   ..|..|||.|..|                 ||||.|..||||
+c191014171-19  38433 GATGCTTGTATTTTACTTTTCCATTGTAATTGCTATCGCCATCACAGCTG  38482
+
+33879068-3389  11894 GGGGTGCTGGGCACACAC---TCACTGCCT------------CTGTTT--  11926
+                     ....||.||.|..| |.|   |.|||||||            ||..||  
+c191014171-19  38483 AACTTGTTGAGATC-CCCGTGTTACTGCCTATCAGCATTTTACTACTTTA  38531
+
+33879068-3389  11927 ---------------CCATGGTC--------------AGG----------  11937
+                                    |||....|              |||          
+c191014171-19  38532 AAAAAAAAAAAAAAGCCAAAAACCAAATTTGTATTTAAGGTATATAAATT  38581
+
+33879068-3389  11938 ---------CTG--ACACTTGG-----------------TAAGCC-----  11954
+                              |||  ||.|||.|                 |.|||.     
+c191014171-19  38582 TTCCCAAAACTGATACCCTTTGAAAAAGTATAAATAAAATGAGCAAAAGT  38631
+
+33879068-3389  11955 ---------------------TCT--------TGGAGAAGGC--------  11967
+                                          |||        |.||.|||||        
+c191014171-19  38632 TGATCAGAGTGGGAAAGTAGTTCTTTTCAATCTAGAAAAGGCCAAAGTAA  38681
+
+33879068-3389  11968 ------------------------TGCTTTGGACAGGTGG--TCAT----  11987
+                                             |||||||.....||.|  ||||    
+c191014171-19  38682 TGATTGAGATACACTGTCTCCACTTGCTTTGATTTTGTTGTTTCATTTTA  38731
+
+33879068-3389  11988 -----GGCAG--AAGCTATTGGCATCGACAAGGACCGTACT---GCC--A  12025
+                          ||.||  ||..|.||||.|..|.||..|.|.||..|   |||  .
+c191014171-19  38732 TAAAAGGTAGAAAAAATTTTGGAAATGTCATTGTCAGTTATTTGGCCTGC  38781
+
+33879068-3389  12026 AGC-CTGTC------------ACCGTGGCC-----GTGAAGATGCTGAAA  12057
+                     ||| |||||            ...||.|||     ||.||.|..|||...
+c191014171-19  38782 AGCACTGTCTTGGGGTGAATGGATGTAGCCTTCATGTAAAAACACTGTGT  38831
+
+33879068-3389  12058 GGTGAGG----------------------AGGGAGGGAAGTAG-------  12078
+                     ||.|..|                      |||.|||||.|..|       
+c191014171-19  38832 GGAGCAGCTTTATCTGCATTCAAACCTCAAGGTAGGGATGAGGGACTCCC  38881
+
+33879068-3389  12079 ------------AGGGGCCTTT---------GAGGGCTGTGGGGC--TGT  12105
+                                 .||.||.|||         |...||...|.|||  |||
+c191014171-19  38882 CAGACATTTCTCTGGTGCTTTTCTGTCCAGGGTAAGCCACGAGGCATTGT  38931
+
+33879068-3389  12106 CA-----------------------GCTGACACCT---CTGTTCC-----  12124
+                     ||                       |||.||||||   ||...||     
+c191014171-19  38932 CATCTCAGGGTAGTGCACCGCACATGCTCACACCTAGGCTTACCCAGGCA  38981
+
+33879068-3389  12125 ----CGGCACAGATGATGC-GACTGACAAGGACCTGTCGGA--CCTGGTA  12167
+                         ||||||||||  |.| |.|||.|.|...|.|.||..|  |||||..
+c191014171-19  38982 GAAGCGGCACAGAT--TCCAGTCTGGCTATTGCTTATCACATCCCTGGAG  39029
+
+33879068-3389  12168 T--------------------CTGAGATGGAG-------------ATGA-  12183
+                     |                    |||.|.|||.|             |||| 
+c191014171-19  39030 TGTGAAACATTTCCCAAGGGGCTGGGCTGGGGACATGAGCCTCCCATGAG  39079
+
+33879068-3389  12184 ---------TGAAAATG--ATTGGCAA------GCACAAGAACA------  12210
+                              ||.|||||  .||..|||      ||||.....||      
+c191014171-19  39080 CTGTACTTTTGCAAATGTATTTTACAAGTGTATGCACTTACCCAAAATAA  39129
+
+33879068-3389  12211 -----------------TCATTAACCTGC-------------TGGGGGCG  12230
+                                      |||.|.||...|             ||...|..
+c191014171-19  39130 AAATATAACGTGATAATTCAATTACAGACAAAAGATAAAGTGTGTAAGTA  39179
+
+33879068-3389  12231 TGCACACAGGG---TGGTAGGTCAGGTGGTTGG-----------------  12260
+                     |||||. ||.|   |..|...||||.| ||||.                 
+c191014171-19  39180 TGCACT-AGTGCTTTCATCACTCAGAT-GTTGACATTGCTCTTTTCTTTT  39227
+
+33879068-3389  12261 ---------TGGGCCCACTGGTGGA-----------TGGC-----GCTC-  12284
+                              |.|.|.|.||..|.||           .|.|     |||| 
+c191014171-19  39228 TCCCCATTTTAGTCACCCTTCTAGACTTCAGACCACAGACAACCTGCTCC  39277
+
+33879068-3389  12285 ------------TGGAGATTGAC--AGCATCTC---TAAGGTGC-CTGT-  12315
+                                 .||||.|||||  .|..||||   ||..|.|| |||| 
+c191014171-19  39278 CCATGTCTCCTGAGGAGTTTGACGAGGTGTCTCGGATAGTGGGCTCTGTA  39327
+
+33879068-3389  12316 -------GC-----------TTCCAGGGCC--CCTGTATGT-GCT-----  12339
+                            .|           |.|||.|||.  |||||.||| |||     
+c191014171-19  39328 GAATTCGACAGTATGGTGAGTACCACGGCTGGCCTGTGTGTAGCTCTCAA  39377
+
+33879068-3389  12340 --GGTG-GAGTACGCAG--------------CCAAGGGCAATCTCCGGGA  12372
+                       .||| |.||.|.|||              |||.||...||| |||||.
+c191014171-19  39378 TAAGTGTGTGTGCTCAGAGGCAGGGAGCGCACCATGGCAGATC-CCGGGC  39426
+
+33879068-3389  12373 GTTCCTTCGG------GCGC-GGCGGCCTCCAGGCATGGAC--TACTCCT  12413
+                     .|..||.|||      ||.| |||||...|.|||...|..|  |.|||..
+c191014171-19  39427 CTGTCTGCGGGAGGGAGCCCTGGCGGAGCCAAGGAGAGTGCAGTGCTCAG  39476
+
+33879068-3389  12414 TTGATGC---------------CTGCAGG-----------CTGC-----C  12432
+                     .||| ||               ||||.||           ||.|     |
+c191014171-19  39477 ATGA-GCCATGACAAGTTGGAGCTGCTGGATTTAAACCACCTACATCATC  39525
+
+33879068-3389  12433 AGAGGAA-----------------CAGCTCACCTGCAAGGATCTAGTG--  12463
+                     ||.||.|                 ||||.| |.|.|||..|.|.||||  
+c191014171-19  39526 AGTGGGATTTTTATTCCTCGCATTCAGCAC-CTTCCAAAAAACAAGTGAC  39574
+
+33879068-3389  12464 ---------------------TCCTGTGCC---TA-------CCAGGTGG  12482
+                                          ||||.|.||   ||       |||.||.|
+c191014171-19  39575 ATTTCTAATATTCAGGTTTCCTCCTCTCCCCTTTAAAGTTGTCCATGTAG  39624
+
+33879068-3389  12483 C-------------ACGGGGCATGGAATACTTGG----------------  12503
+                     .             |.||..|...||.|.|||.|                
+c191014171-19  39625 AAATTTCATATATTAAGGAACTAAGATTTCTTTGATAAGCAAATGTTTTT  39674
+
+33879068-3389  12504 CTTC----------------------TCAGAAGGTGGGC-----------  12520
+                     ||||                      ||....||.|||.           
+c191014171-19  39675 CTTCGGAATGCGATTTCATCACTGTGTCTAGGGGAGGGAGTGTTATTTTT  39724
+
+33879068-3389  12521 --AGAGACAGGGACCAG-GCCAGGTGG-----------------------  12544
+                       |.||..||||||.|. ||..|||.|                       
+c191014171-19  39725 AGAAAGGGAGGGACTAACGCTTGGTAGTTACAGTAATTAGAGAGAATTAT  39774
+
+33879068-3389  12545 -----AGCCTCTCTGAG----------------------TGGAAG-----  12562
+                          |||..|..||||                      ||..||     
+c191014171-19  39775 ACTTTAGCAGCAATGAGATTACTTCATCTGCCTTATATTTGAGAGCTAAT  39824
+
+33879068-3389  12563 ----ACCGGGTGATC---------------GTTTGCC-------------  12580
+                         ||..|..|.||               |.|||||             
+c191014171-19  39825 TTGTACAAGTAGCTCCTGGGGCTGTGAAGGGCTTGCCAAGAGTAAAAGGT  39874
+
+33879068-3389  12581 --------------------TGAGCT------------AGGGAATG----  12594
+                                         ||||.|            .||||||.    
+c191014171-19  39875 TCAAGGAGTGAAATAGTTAATGAGATTCGTGATAGAAATGGGAATATGAT  39924
+
+33879068-3389  12595 -GTCATCTCAGG--------TTCCTTT-------TGTCTCTTCAGTGTAT  12628
+                      |||..|..|.|        |||||||       ||..|.||.|||.|||
+c191014171-19  39925 TGTCCACAAAAGGGAACATCTTCCTTTTGGAGGGTGCTTTTTTAGTATAT  39974
+
+33879068-3389  12629 TCACAGAGACTTGGCTGCCAGAAACGTCCTGGTGACCGAGGACAATGTGA  12678
+                     ..||. ||..|||..||||  ...|..|||.....||.....|.....||
+c191014171-19  39975 CAACT-AGTATTGTTTGCC--TTTCAGCCTAAAATCCTTCCTCTTAAAGA  40021
+
+33879068-3389  12679 TGAAGATTGC------GGACTTTGGC-----CTG-----------GCTC-  12705
+                     |...|.||||      |||.|||.||     |||           |||| 
+c191014171-19  40022 TTGTGCTTGCTTGGCTGGATTTTTGCTGATGCTGTTTAATTTTAAGCTCT  40071
+
+33879068-3389  12706 ----------GAGATGT----GCAC-------------------------  12716
+                               |||.|.|    ||.|                         
+c191014171-19  40072 TTTCCACATGGAGCTATTCCAGCTCATTTTTAAAAATTTATTTAATGCTT  40121
+
+33879068-3389  12717 ---------AACCTGGACTACTACAAG-AAGAC--CACAAATGTGAGCCC  12754
+                              |.||||...||.|||..| ....|  |...|.|||...|||
+c191014171-19  40122 CCAAAAAATATCCTGAGTTATTACTGGCCTTTCTTCCTTACTGTATACCC  40171
+
+33879068-3389  12755 TGGTCCT---------------------------------GCATGGTGGG  12771
+                     .|..|||                                 |||.||.|||
+c191014171-19  40172 GGTGCCTGGCAAAAAGTAGGTGCTCAACAAAGAGAGGAAGGCAGGGAGGG  40221
+
+33879068-3389  12772 G----------------GTGAAGG-GTCCCTC--CAG-------------  12789
+                     |                |.||.|| |||.|||  |||             
+c191014171-19  40222 GAAAGGTGAGCGAGAATGAGAGGGCGTCACTCTTCAGACATTTGGGGAAT  40271
+
+33879068-3389  12790 --------GAGGCCCCA-------C--CCGAGAGCCA-------------  12809
+                             .|||||.||       |  ||..||..||             
+c191014171-19  40272 GCGATGATAAGGCCTCAGTAAGATCTGCCTGGATTCAGGTTTCTCATGTG  40321
+
+33879068-3389  12810 ----------AC-----ACCTCTCCCTCTGCCCAGG--------------  12830
+                               ||     .||||.||.|..||.|.||              
+c191014171-19  40322 TAATTTTTTGACTTTTTTCCTCACCTTAAGCACGGGCTACAATCATTAGA  40371
+
+33879068-3389  12831 ----------GCCGGC---TACCTGTGAAGTGGATGGCACCAGAGGCCCT  12867
+                               .||..|   |.|||| ...||.|.||.|...|.|||||.|
+c191014171-19  40372 GATTGTACCTTCCTACACTTTCCTG-ATTGTTGTTGACGAAATAGGCCAT  40420
+
+33879068-3389  12868 TTT-------------------TGACCG------AGTCTACACCC-----  12887
+                     ||.                   ||.|.|      |||.|....||     
+c191014171-19  40421 TTAGAAAAACAGTTAGCTATTGTGGCAGCGAAATAGTTTCATTCCTATTG  40470
+
+33879068-3389  12888 ACCAGAGTGATGTGTATGTGTCC----CTACAT------AGGATGGGGGT  12927
+                     .|.||.||.|..||.|     ||    ||.|||      |||||...|.|
+c191014171-19  40471 GCAAGTGTAAAATGAA-----CCTTTTCTGCATGTAAGAAGGATCCTGCT  40515
+
+33879068-3389  12928 AGGG---------------------AGATCTG-----AAGAGAGAAGAGA  12951
+                     ||.|                     ||..|||     ||.|..|||.|.|
+c191014171-19  40516 AGAGTTTCGCTCCCAACACTGCTATAGGCCTGGCACAAAAATGGAATAAA  40565
+
+33879068-3389  12952 TACAAATTGCACTTTTGCAG----------TCTTCA--------------  12977
+                     ||.|||  ||.||.|| |||          .|.|||              
+c191014171-19  40566 TATAAA--GCCCTATT-CAGAAAATATGTTACATCACAGGAACTGTAAAA  40612
+
+33879068-3389  12978 ----GGG------------TCC-----TGGTCC---GCTCATTGGGCCAC  13003
+                         |||            |||     ||.|||   ||..|||....||.
+c191014171-19  40613 TGGGGGGATTTTTTATACCTCCTTTGTTGTTCCTGAGCAAATTACATCAT  40662
+
+33879068-3389  13004 CAGCACAGCCCTGGCTTCTCTTTATCCTAGTGC-CCTGC--TTTGCC---  13047
+                     ||.|||..||.....|..|...|..|.|...|| |||.|  |.|.||   
+c191014171-19  40663 CATCACCACCACCATTAATAGGTGACATTAAGCACCTACAGTATACCATG  40712
+
+33879068-3389  13048 --CATCAGTGGTATGTCCTGGTACAG--------GGCTGCTGCAGTAACA  13087
+                       |.|||..||||....||..|.|||        |.|..||.|.|....|
+c191014171-19  40713 TACTTCACAGGTAGTAACTCATTCAGTCCTCACAGCCACCTTCTGAGTTA  40762
+
+33879068-3389  13088 GG-------------CC------------AGGGGTAACAGG---CCTTCT  13109
+                     ||             ||            .|.||.|||||.   |||.||
+c191014171-19  40763 GGTGTTATTGTTATTCCTACTTTGACAGATGTGGGAACAGAGCCCCTCCT  40812
+
+33879068-3389  13110 ATCCTCAATTCCC-------------------------TGCAGTTGGT--  13132
+                     ..||.||...|||                         .||||||.||  
+c191014171-19  40813 CCCCACACAGCCCCTTTTATGTAACTTGACTAAGATCAAGCAGTTAGTAA  40862
+
+33879068-3389  13133 ------------CTTTTGGTGTCCTC---------CTCTGG-GAGATCTT  13160
+                                 .|.||.|..||..|         ||||.| |....|||
+c191014171-19  40863 ATGGTAGAAAGAATATTTGAATCTACCTAGTGAGTCTCTAGTGCATGCTT  40912
+
+33879068-3389  13161 ---TACG-----CTGGGGGG-CTCAC--------CGTATCCTGGCATCCC  13193
+                        |.||     ||||...| |||.|        |..|||.|.||  |||
+c191014171-19  40913 TTGTCCGGTATCCTGGAAAGCCTCCCACAAAAAGCTAATCTTTGC--CCC  40960
+
+33879068-3389  13194 AG---------------TGGAAGAGCTTTT----CAAG------------  13212
+                     |.               ||.|..||||.||    ||.|            
+c191014171-19  40961 ATTCAAAACATGCACCCTGAAGAAGCTGTTTGTACAGGATTGGGTTTATT  41010
+
+33879068-3389  13213 CTGTT-----GAAAGAG-------GGCC-------------ACCGCATG-  13236
+                     |||||     ||.|.||       ||||             .|||.||| 
+c191014171-19  41011 CTGTTATTAAGACAAAGGCATCATGGCCTTTGGGTGAGAGGCCCGTATGT  41060
+
+33879068-3389  13237 -----------GACA---AGCCAGCCAGCTGCACACATGACC-----TGT  13267
+                                |.||   |||...|||.|| |...|||.|||     ||.
+c191014171-19  41061 GTTTGGGATTTGGCAATCAGCATTCCATCT-CTGTCATCACCATTATTGA  41109
+
+33879068-3389  13268 GAGCCTTG-----TTCATTC---CTCTACAGTCCAGTCCCTGGGGTGGCA  13309
+                     ||...|.|     ||..|||   ||||.||||||.|    |||.|..|..
+c191014171-19  41110 GAAAATAGATGGATTGGTTCCCTCTCTGCAGTCCTG----TGGAGCAGTT  41155
+
+33879068-3389  13310 GGATTCCTACCAGGGCCCTTGGAATG----TGTAGGAG------------  13343
+                     |||.|.||..|...||.||..|.|||    |||..||.            
+c191014171-19  41156 GGACTGCTCTCTCTGCTCTCAGGATGATACTGTGAGAACAATTTAAATAT  41205
+
+33879068-3389  13344 ACTGGTGGCCTGGAGGGAGG-----TTGGGG----TGGGCA-----GGAG  13379
+                     .||.....|.||...|||..     |||.||    |||.||     .|..
+c191014171-19  41206 GCTAAGCACATGTCAGGAAACAGTTTTGTGGTCTTTGGACACTCGCTGTA  41255
+
+33879068-3389  13380 GCCAGG--GAGCCATAGC---------TATAC-------TTG--------  13403
+                     ||||..  |..||||..|         |||.|       |||        
+c191014171-19  41256 GCCATTCCGTTCCATTTCAGGTGATTTTATTCATTTCATTTGTAGAATAA  41305
+
+33879068-3389  13404 -------CCG---CAGGTACATGATCATGCGGGAATGTTGGCATGCGGTG  13443
+                            ||.   ||...|||....||..|....|......||..|....
+c191014171-19  41306 AATAAATCCATTTCACACACACACACACACACACACACACACACACACAC  41355
+
+33879068-3389  13444 CCT-------TCACAGAGGCCCACCTTCAAGC-----------------A  13469
+                     |||       .|||..|.|||..||.|.||.|                 |
+c191014171-19  41356 CCTCTATACACCACTAAAGCCTCCCATTAAACCCATAGAAGACTTAAAGA  41405
+
+33879068-3389  13470 GTTGGTAGAGGATTT---------------------------------AG  13486
+                     |.|...|||||.|.|                                 ||
+c191014171-19  41406 GCTAAAAGAGGCTATAATATAAAAAAAAAAAAAGAAAAGAAAAGAAAAAG  41455
+
+33879068-3389  13487 ACCGCATCCT----------CACTGTGACATCAACCGACGTAAGTGTCCC  13526
+                     |...|||..|          |||||......||||.|..|.|...|||.|
+c191014171-19  41456 AGTTCATAATATAGGCACGGCACTGGTTAGACAACGGTTGAATCAGTCTC  41505
+
+33879068-3389  13527 T---------------------------CAGTCCTGCCCCCT--CTGTGG  13547
+                     |                           |.||||||||||.|  |..||.
+c191014171-19  41506 TAAATTGGGTTGACTTCACAATGGTTTGCTGTCCTGCCCCTTGGCCATGA  41555
+
+33879068-3389  13548 CTGCCTT------GCTTATTTTA-------AGTGT-TGCTCT----TTGG  13579
+                     ||.||.|      .||..|.|||       ||||| |.||||    ..|.
+c191014171-19  41556 CTTCCATCCAGCATCTACTCTTAGAATCAGAGTGTATACTCTGAAACAGA  41605
+
+33879068-3389  13580 AG-----CTCCAGTGGCGGGGCTGGCCTTTAGGGGGCATAGCCTG-----  13619
+                     ||     ||||....|| .|||||.|.|.|     ||..||.|||     
+c191014171-19  41606 AGCAGCTCTCCCCAAGC-TGGCTGTCTTCT-----GCCAAGTCTGGAGGT  41649
+
+33879068-3389  13620 ---AACACAGATGGCGTGGGATAAAAGGG----------GGTGAA-----  13651
+                        |.|.|.||..|.|.|.|.||..||||          ||||.|     
+c191014171-19  41650 TGCAGCTCTGAAAGAGGGTGGTACCAGGGGCCAACGCCTGGTGCAGCCTC  41699
+
+33879068-3389  13652 ---TGCAAAGGGAC---AG--TCCTGACAACCATGTCCA------CCAAA  13687
+                        .||||..||||   ||  ||||||..|...||||||      |||.|
+c191014171-19  41700 AGGAGCAACAGGACCATAGGCTCCTGAGGAAATTGTCCAAGAGAGCCAGA  41749
+
+33879068-3389  13688 -------------CAGGAGT---ACTTGGACCTC-------TCCG---TG  13711
+                                  |.|.|||   ||||||.|.|.       ||.|   |.
+c191014171-19  41750 GCACCAGTGTTCTCTGCAGTATGACTTGGGCATTTGTTTAGTCTGGATTT  41799
+
+33879068-3389  13712 CC-GTTTGAGCAG-----TACTC---GCCAG--GTGG--CCAG--GACAC  13746
+                     || ||.|.|.|||     |.|||   |.|.|  .|.|  ||||  .||.|
+c191014171-19  41800 CCTGTGTAATCAGTGTTTTCCTCTGGGACTGTAATAGAACCAGTCTACTC  41849
+
+33879068-3389  13747 GCC----------TAGCTCCAGCTCGTCCGGAGATGACTCGGTGTTCA--  13784
+                     .||          ||||...|||||.|...||.|.||||.|.|.||.|  
+c191014171-19  41850 TCCAAGAGGCCTTTAGCCAAAGCTCATAATGATAGGACTAGCTATTAATT  41899
+
+33879068-3389  13785 ------------------------------------------CC------  13786
+                                                               ||      
+c191014171-19  41900 GTCTACTACTTTCTGTCTACTATACTAAACATTTTACGTATGCCATCTAA  41949
+
+33879068-3389  13787 -----CATGAC---CTGCTA------------CCCC--------------  13802
+                          ||.|.|   ||||||            ||||              
+c191014171-19  41950 TTTAACAAGCCTATCTGCTAGGTACTATTAATCCCCTTTTGATAGATGAA  41999
+
+33879068-3389  13803 --C--------------AGGT----CCA----CCC-AGTAACG-GGGGAC  13826
+                       |              ||||    |||    ||| .||.||| .|.|||
+c191014171-19  42000 GACTTTGAGATTTAGAGAGGTTAAGCCACTTGCCCTGGTCACGCAGTGAC  42049
+
+33879068-3389  13827 CTCGGACGTGAA---GGGC--CAACAGTCCCACAGAC---CAAGC-----  13863
+                       .|||..||||   ||||  |..|..|.||.|...|   |.|.|     
+c191014171-19  42050 --AGGATCTGAATCTGGGCTTCCTCTCTTCCTCTATCTATCTATCTCCCC  42097
+
+33879068-3389  13864 --CCCAGGCAATGTTTA----CGCGG---ACCCTA---------------  13889
+                       |||...|..|.||||    |.|||   ||||||               
+c191014171-19  42098 CTCCCTCCCTCTCTTTACCCCCACGGTCCACCCTATTAAGCACACATTTG  42147
+
+33879068-3389  13890 -------------GCC---CGC-----------CCTG------CTACT--  13904
+                                  |||   |||           ||||      |.||.  
+c191014171-19  42148 AAACATCAGCCAGGCCGGGCGCGGTGGCTCACGCCTGTAATCTCAACATT  42197
+
+33879068-3389  13905 -------------GCTGGTG-------TGC-------AGT---GGAC---  13921
+                                  ||.||||       |||       |||   .|||   
+c191014171-19  42198 TTGGGAGGCCGGGGCAGGTGGATCACCTGCGATCAGGAGTTTGAGACCAG  42247
+
+33879068-3389  13922 CCTAGCCAGCCCAGTGCAATGGGCCAAC-------AGTAGACAAGACTT-  13963
+                     |||.||||.|.|.|||.||.  .|||.|       |..|.||||.|.|| 
+c191014171-19  42248 CCTGGCCAACACGGTGAAAC--CCCATCTCTACTAAAAATACAAAAATTA  42295
+
+33879068-3389  13964 -CCTGC---------GTGT-----TTATCCTTGGCTCCT--GGGTGCAGA  13996
+                      ||.||         ||||     |.|||| ..|||.||  |||.||.||
+c191014171-19  42296 GCCAGCCATGGTGGTGTGTGCCTGTAATCC-CAGCTACTAGGGGGGCTGA  42344
+
+33879068-3389  13997 GGC--------CCCTTG-----GGAACATGCA--CTGCTGTAGAG-----  14026
+                     |||        |.||||     ||||..||.|  .|||.|| |||     
+c191014171-19  42345 GGCAGGAGGATCGCTTGAACCTGGAAGGTGGAGGTTGCAGT-GAGCCAAG  42393
+
+33879068-3389  14027 ----------TAATCTCCTGACTGGCCAGGGCCAGGAG----------CA  14056
+                               |...||||.|.||||.||   .|||..|          |.
+c191014171-19  42394 ATGGTGCCACTGCACTCCAGTCTGGGCA---ACAGAGGAAGACTCCGTCT  42440
+
+33879068-3389  14057 CC-----------AAACAAGAATGTAAGAG----GCCCACCCTGTGCAAC  14091
+                     ||           |||.|||||.|.||.||    |...|.|.|..||.|.
+c191014171-19  42441 CCAATTTGAAAAAAAAAAAGAAAGAAAAAGAAAAGAGAAACATAAGCTAG  42490
+
+33879068-3389  14092 CCTGGGG-TTCTGGCCCTCTCATTTCCCACTGCT------ACC-------  14127
+                     .|||... .|..||.|..|.| ||||.|..||||      .||       
+c191014171-19  42491 ACTGAAACATAGGGGCAACAC-TTTCACTGTGCTTTTCAATCCAAAATAA  42539
+
+33879068-3389  14128 --TTCC--AGGGACCATTGTGGA------------GAGGGCTAG------  14155
+                       ||||  ||.|.|||.|.||.|            |||..||.|      
+c191014171-19  42540 TTTTCCTAAGAGCCCACTATGTACCACACACTATTGAGCACTTGGGATTA  42589
+
+33879068-3389  14156 ---------ACTCCA-----TGTCCAGAGTGG-GCCTTG-GCCT---TCT  14186
+                              .|||||     |.|||||..|.| |||.|| |.||   |||
+c191014171-19  42590 AAAAAAAGTTCTCCAGAGGCTTTCCAGTCTAGTGCCATGTGTCTCAGTCT  42639
+
+33879068-3389  14187 TGGTGCCCCAAG----CTGAGCCTACA-----------------------  14209
+                     ||||||..|..|    |.|.| ||.||                       
+c191014171-19  42640 TGGTGCTACTGGTATTCGGGG-CTTCAGAATTATTTGTTGGGGATTGGTG  42688
+
+33879068-3389  14210 GGGAGG---------CTCTGCTCTGTGTG-------GCAA-ACCTCT--C  14240
+                     |||.||         ||.||||..||..|       |||| ||||||  |
+c191014171-19  42689 GGGTGGGGAGCTTTCCTGTGCTTCGTAGGAGGTTCAGCAACACCTCTGGC  42738
+
+33879068-3389  14241 TCCTAC---------------ATG-----GCACCTT--------------  14256
+                     |.||||               |.|     |||||.|              
+c191014171-19  42739 TTCTACCAAATAGATACCAGTAAGCACATGCACCCTCACAGCCAGATGGG  42788
+
+33879068-3389  14257 -----------------------GTGCCTGGGG---GTGTCATAGCTCGA  14280
+                                            .||||.||||   |..||||. |||||
+c191014171-19  42789 ACAATCAGCAATGTCTTCAGCCATTGCCAGGGGACAGAATCATC-CTCGA  42837
+
+33879068-3389  14281 -------CATCT----------------CCA-------------------  14288
+                            |||||                |||                   
+c191014171-19  42838 TTGAAAGCATCTGGTCTAAGGGGAAAGACCAGTGTGGAAGTCAGACAGGA  42887
+
+33879068-3389  14289 -------GGCTGCCTGCTTTCC--------------------AC------  14305
+                            |||.|.||..|.|||                    ||      
+c191014171-19  42888 AGTCACTGGCAGGCTAGTATCCTTTGGATGAACAGTTTACTTACTATAAG  42937
+
+33879068-3389  14306 ----CCT-------GCCCCT---CAG-AGACAAATTACGGGTACCTGAAG  14340
+                         |||       ||..||   ||| ||.||......|||.|..|||||
+c191014171-19  42938 TTGTCCTGGTCAAGGCAGCTGGGCAGAAGGCACTGGTGGGGAAGGTGAAG  42987
+
+33879068-3389  14341 GGG-----GG-------GCATAAT--GTCTAT--CAGAAA----------  14364
+                     |||     .|       ||.|..|  ||||.|  |.||||          
+c191014171-19  42988 GGGTTCTTAGTAATTCTGCTTCTTTAGTCTGTACCTGAAACACAGTCATT  43037
+
+33879068-3389  14365 GGTTTATTCCA--GA-----------GGAAAATGTA-CATTTATAT----  14396
+                     |.|||...|||  ||           ||.||.|||| |||||...|    
+c191014171-19  43038 GATTTTACCCACTGAGTGGCCTTTAGGGGAAGTGTATCATTTCCCTCTCC  43087
+
+33879068-3389  14397 ------------------AAATAGAT----------------GTTGTGTA  14412
+                                       |.||.|.|                |||....|
+c191014171-19  43088 TTCCTCTCTCCCTCTGGCATATGGCTCAGCATTTCCTCACCCGTTTCACA  43137
+
+33879068-3389  14413 TGATATAAATATATACAT--------------ACATATATATAAG--AAT  14446
+                     |||....|.|..|.||.|              ||.|..|||..||  ||.
+c191014171-19  43138 TGAGCAGATTTGACACGTTGCTCTGTCCCCAGACTTGCATAACAGCAAAA  43187
+
+33879068-3389  14447 ATCTATATGGAAAAAGG---------CAAAGTTGAGGCCCAAGGG-AGCA  14486
+                     |.||.||||.|....||         ||||.|| |.|||...||| ||||
+c191014171-19  43188 AGCTTTATGCAGTCTGGATGGATTCACAAAATT-AAGCCAGTGGGCAGCA  43236
+
+33879068-3389  14487 -AG--ATACTCCAT------------------GGGTCT-------CACTA  14508
+                      ||  |||.|||.|                  .|||||       |.| |
+c191014171-19  43237 GAGTAATAATCCGTCAGCTTAGGTGATATAAAAGGTCTTGATTAGCCC-A  43285
+
+33879068-3389  14509 GGAAACTGGCAAGAGCAGGCTGA------------------GAA------  14534
+                     |||.|.|....||..||.|||||                  |.|      
+c191014171-19  43286 GGATAATACATAGTACATGCTGAAGGCCCTCTTATTCCACGGTATTTATT  43335
+
+33879068-3389  14535 -------GCAAGGGGCTT------------TTCTGGCA-----CGGCA--  14558
+                            |||||...|||            ||||.|.|     ..|||  
+c191014171-19  43336 TGCCATTGCAAGTATCTTCCTACTACTTCATTCTAGAATAGACAAGCAAT  43385
+
+33879068-3389  14559 GTTT--TGTTTG-----------------------------TACTGGACC  14577
+                     ||||  |||.||                             .|||..|||
+c191014171-19  43386 GTTTAATGTATGAGTCTGCATTTCACAAGATCAGTGTAATAAACTTAACC  43435
+
+33879068-3389  14578 ------TGTATATT---------------TGTAAAGC-----TATTTATC  14601
+                           |||.|.||               |.||.|||     |.|||.||
+c191014171-19  43436 ACATTTTGTCTTTTTACAGATGAACACAGTATAGAGCATGAATTTTTTTC  43485
+
+33879068-3389  14602 AACCCCCAGAGCGCCAG---TCC---------------CCGACC------  14627
+                     |.|..|....|||.|||   |||               ||..||      
+c191014171-19  43486 ATCTTCTCTGGCGACAGTTTTCCTTCTCATCTGTGATTCCCTCCTGCTAC  43535
+
+33879068-3389  14628 ------CCAGGTTCATAGCGTTTAGTCCCAGGGTATTGCA------GCCA  14665
+                           ||   ||||.|.|.|.|..|.|.||||.|.||.|      ||||
+c191014171-19  43536 TCTGTTCC---TTCACATCCTGTGTTTCTAGGGAAATGAAAGAAAGGCCA  43582
+
+33879068-3389  14666 TC--TTAAGTTGTAACTTATTAACAGCGGAAGAGGTTCATGCTGGATTTA  14713
+                     .|  .|..|.||.|||.|.||.|.|||  |||.|..|..|.||..|..|.
+c191014171-19  43583 GCAAATTCGCTGCAACCTGTTGATAGC--AAGTGAATTTTTCTCTAACTC  43630
+
+33879068-3389  14714 GGGAA------TTGCTGAGAACGTGCGTCTGGCCTCCACCAGGCTGGC--  14755
+                     .|.||      ||.||..||| |.||.||..||.||...|.|...|..  
+c191014171-19  43631 AGAAACATCAGTTACTCTGAA-GGGCATCATGCATCTTACTGAAGGTAAA  43679
+
+33879068-3389  14756 ----CGTGGC---CCCT------TGG----CGCT--TGAATGGC------  14780
+                         ...|||   |.||      |||    |.|.  ||||...|      
+c191014171-19  43680 ATTGAAAGGCATTCTCTGAAGAGTGGGTTTCACAAGTGAAAAACATCCAG  43729
+
+33879068-3389  14781 --TCTCCTA----GTCAGAGC-------TGGCTCC--AGGG---------  14806
+                       .|.||.|    .||||..|       .||.|||  .|||         
+c191014171-19  43730 ATACACCCAAAGTATCAGGACGAGAATGAGGGTCCTTTGGGAAAGGAGAA  43779
+
+33879068-3389  14807 ----AGCATTTTC-------TGT--TGC-------CTTTGGCCCTCTTTT  14836
+                         ||||...||       |||  |||       |..||.||..||.||
+c191014171-19  43780 GTTAAGCAACATCTAGCAAATGTTATGCATAAAGTCAGTGCCCAACTGTT  43829
+
+33879068-3389  14837 --------------------GTGG-------GGGATTAGATTTATATAGG  14859
+                                         ||||       ||||...|.||.|..||||
+c191014171-19  43830 ATAGGTTGTTGGATAAATCAGTGGTTATTTAGGGAACTGCTTGACGTAGG  43879
+
+33879068-3389  14860 AAC------TTTCTTTAGGAG---------ATGTTTAAAAATTTTAAGGT  14894
+                     |||      |||||.|.||||         ||||||.......||.|.||
+c191014171-19  43880 AACGGTAAATTTCTGTGGGAGAATTCTTACATGTTTTCTTTGCTTTAAGT  43929
+
+33879068-3389  14895 G-AACTGGTATTTTTC-------ATAC-----AGATTATTCTAATTGC--  14929
+                     | ||||||.|.|||||       .|||     |.||..|||.||  ||  
+c191014171-19  43930 GTAACTGGCAGTTTTCCATTGGTTTACCTGTGAAATAGTTCAAA--GCCA  43977
+
+33879068-3389  14930 --TATGTATTC--------CAGGC---------AGG-AGCC----TGTGC  14955
+                       |.|.|||.|        |||.|         ||| ||||    || |.
+c191014171-19  43978 AGTTTATATACAATTATATCAGTCCTCTTTCAAAGGTAGCCATCATG-GA  44026
+
+33879068-3389  14956 CCAGGGAAGGG----------------------CTGGCCCT---GC----  14976
+                     .|.||.|.|||                      ||..|.|.   ||    
+c191014171-19  44027 TCTGGTAGGGGGAAAATGTGTATTTTATTACATCTTTCACATTGGCTATT  44076
+
+33879068-3389  14977 --------AAGA-------AGGTTC---AGATGTTAATAGTTATCTGTTA  15008
+                             ||||       .|.|||   |||.|..|||| |||.|| |||
+c191014171-19  44077 TAAAGACAAAGACAAATTCTGTTTCTTGAGAAGAGAATA-TTAGCT-TTA  44124
+
+33879068-3389  15009 CAAGTTTAT---------------CTATCTATAATTTATTGA-----GT-  15037
+                     | .||||.|               |||.|||..||..||.||     || 
+c191014171-19  44125 C-TGTTTGTTATGGCTTAATGACACTAGCTAATATCAATAGAAGGATGTA  44173
+
+33879068-3389  15038 ---------TTTTACAAGTTGT-TTTGCTGT---AGGCTTAACACTTCCT  15074
+                              .||.||||||||| ||||.|.|   |.|||.||.||.|.| 
+c191014171-19  44174 CATTTCCAAATTCACAAGTTGTGTTTGATATCCAAAGCTGAATACATTC-  44222
+
+33879068-3389  15075 ATGCAGTGCTTCTAG-------AC------TTTTATAG-----CCTAG--  15104
+                      |||. |.|.|||.|       ||      |||||.||     ||.||  
+c191014171-19  44223 -TGCT-TTCATCTTGGTCACATACAATTATTTTTACAGTTCTCCCAAGGG  44270
+
+33879068-3389  15105 -------------ACTGCTAC-CTTTCAAAGCTTGGG---AGACAGTGGT  15137
+                                  ||..|.|| |.||||||..|||..   |..||..|.|
+c191014171-19  44271 AGTTAGGCTATTCACAACCACTCATTCAAAAGTTGAAATTAACCATAGAT  44320
+
+33879068-3389  15138 GAA---------TGCAATTT------TGTTACT------------TTTGT  15160
+                     |.|         .|.|||||      ||||.||            |||||
+c191014171-19  44321 GTAGATAAACTCAGAAATTTAATTCATGTTTCTTAAATGGGCTACTTTGT  44370
+
+33879068-3389  15161 ACT-----------------------GTCACTGGGCCCTAGGCTTGG---  15184
+                     .||                       |||..|..|||..|...||||   
+c191014171-19  44371 CCTTTTTGTTATTAGGGTGGTATTTAGTCTATTAGCCACAAAATTGGGAA  44420
+
+33879068-3389  15185 ----------------GTGGCTGTC-CCTTGCCT-GTCAACCAGC-----  15211
+                                     ||..|||.| .||||..| .|..|||||.     
+c191014171-19  44421 AGGAGTAGAAAAAGCAGTAACTGACAACTTGAATAATACACCAGAGATAA  44470
+
+33879068-3389  15212 ----AGGGTCAGGACAGT----GGCTCA------GGGTGACTTTCTTGGG  15247
+                         ||..||||..||.|    ..||||      ..||.|||...|||.|
+c191014171-19  44471 TATGAGAATCAGATCATTTCAAAACTCATTTCCTATGTAACTGCATTGAG  44520
+
+33879068-3389  15248 GCCTAGCACATG----------------GTTTGTCA-----GC-------  15269
+                     ..|| |||.|||                ||||.|||     ||       
+c191014171-19  44521 AACT-GCATATGTTTCGCTGATATATGTGTTTTTCACATTTGCGAATGGT  44569
+
+33879068-3389  15270 ------------------------CC--ACAC---------TGGCAGATG  15284
+                                             ||  ||||         |||..||||
+c191014171-19  44570 TCCATTCTCTCTCCTGTACTTTTTCCAGACACTTTTTTGAGTGGATGATG  44619
+
+33879068-3389  15285 T--------------GGTTTTGTTAAC-----ACAACCAACTTACTTTC-  15314
+                     |              .||.||.|||.|     .|..||...|.|||..| 
+c191014171-19  44620 TTTCGTGAAGTATACTGTATTTTTACCTTTTTCCTTCCTTATCACTGACA  44669
+
+33879068-3389  15315 CAAAAA----ATAAAGAGA------TAACTGG----TTCCAT  15342
+                     ||||||    ||.||||||      |.||..|    ||||.|
+c191014171-19  44670 CAAAAAGTAGATTAAGAGATGGGTTTGACAAGGTTCTTCCCT  44711
+
+
+#---------------------------------------
+#---------------------------------------
