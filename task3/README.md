@@ -70,15 +70,13 @@ def hello_wf(name: str = "World") -> str:
 ```
 
 ## 8. Результаты работы пайплайна
-**Логи выполнения:** [flyte_execution.log](results/flyte_execution.log)  
 **Вывод:**
 ```
 Hello, Bioinformatics!
 ```
 
 ## 9. Инструменты визуализации
-Скриншот интерфейса Flyte:  
-![Flyte UI](docs/flyte_ui.png)
+С визуализацией не получилось у меня ничего
 
 ## 10. Пайплайн оценки качества
 **Файл:** `flyte/ecoli_analysis.py`  
